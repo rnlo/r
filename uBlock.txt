@@ -1,0 +1,10 @@
+! Title: Rnlo Self use uBlock filters
+! Expires: 5 days (update frequency)
+! https://raw.githubusercontent.com/rnlo/r/m/uBlock.txt
+!
+! add dynamic filtering rules: * * 3p-frame block
+! CJX's uBlock list https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
+!
+ximalaya.com##.xz_.dl-pc
+zhihu.com##.css-1wq6v87
+zhihu.com##.css-yoby3j

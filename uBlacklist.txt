@@ -1,0 +1,15 @@
+! Title: Rnlo Self use uBlacklist filters
+! Expires: 5 days (update frequency)
+! https://raw.githubusercontent.com/rnlo/r/m/uBlacklist.txt
+!
+! Super SEO Spam Suppressor 
+! https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt
+! Spamdexing Sites
+! https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist_UBL.txt
+! uBlacklist Stack Overflow Translation
+! https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
+!
+*://zhidao.baidu.com/*
+*://jingyan.baidu.com/*
+*://*.csdn.net/*
+*://ask.zol.com.cn/*

@@ -1,0 +1,53 @@
+# 04/18/2024 04:19:55 AM (EST)
+# temp rules
+DOMAIN-KEYWORD,douyin
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,bytetcc.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,feelgood.cn
+# end temp rules
+
+# 04/18/2024 04:19:55 AM (EST)
+# NAME: DouYin
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-02-25 16:05:10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 11
+# TOTAL: 13
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+
+# 04/18/2024 04:19:55 AM (EST)
+# NAME: Zhihu
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-02-25 16:05:10
+# DOMAIN-SUFFIX: 2
+# IP-CIDR: 4
+# IP-CIDR6: 1
+# TOTAL: 7
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+IP-CIDR,103.41.167.226/32,no-resolve
+IP-CIDR,103.41.167.234/31,no-resolve
+IP-CIDR,103.41.167.236/32,no-resolve
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+
