@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/18/2024 04:19:53 AM (EST)
-# Total lines: 66216
+# Updated at 04/18/2024 01:00:49 PM (EST)
+# Total lines: 66247
 # https://github.com/rnlo/r
+.lkhfkjp.com
 .aickeebsi.com
 .hstbbmtyptovqmw.com
 .vmimbrygee.com
@@ -46631,6 +46632,32 @@
 .visilabs.com
 .visilabs.net
 .functionalclam.com
+.location.cyou
+.mymap.icu
+.mymap.quest
+.mapss.icu
+.map-s.online
+.crypto-o.click
+.cryp-o.online
+.customer.autos
+.account.beauty
+.bank.charity
+.photospace.life
+.mymassive.pics
+.photovault.store
+.imagehub.fun
+.picturestash.mom
+.clickthis.photo
+.sharevault.cloud
+.picshare.mom
+.picshare.hair
+.imagestash.pics
+.xtube.chat
+.myprivate.yachts
+.screensnaps.top
+.customersupport.click
+.mypicparade.pics
+.imagevault.cloud
 .bathtub.pics
 .catsnthing.com
 .catsnthings.fun
@@ -46714,6 +46741,8 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.aclog.itmedia.co.jp
+.fc.itmedia.co.jp
 .log.jd.com
 .tracker.myth.dev
 .metrics.baitoru.com
@@ -56262,6 +56291,7 @@
 .cgovn.cc
 .chamsockhachang.com
 .chamsockhachhangnanghanmuctindungmsb.com
+.chamsocthekhachhang-thang4.com.vn
 .chanle79.me
 .chanlemmo.com
 .chanlemomo.cc
@@ -60740,6 +60770,7 @@
 .vkdgdt.xyz
 .rbfxoex.xyz
 .gcomwx.icu
+.szftg.cn
 .zhnnaxe.xyz
 .zjrtxt.xyz
 .znhlxvb.xyz

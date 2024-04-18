@@ -1,4 +1,4 @@
-# 04/18/2024 04:19:55 AM (EST)
+# 04/18/2024 01:00:51 PM (EST)
 # temp rules
 DOMAIN-KEYWORD,douyin
 DOMAIN-SUFFIX,zijieapi.com
@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,feelgood.cn
 # end temp rules
 
-# 04/18/2024 04:19:55 AM (EST)
+# 04/18/2024 01:00:51 PM (EST)
 # NAME: DouYin
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 
-# 04/18/2024 04:19:55 AM (EST)
+# 04/18/2024 01:00:51 PM (EST)
 # NAME: Zhihu
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
