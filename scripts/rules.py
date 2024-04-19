@@ -1,5 +1,6 @@
 import requests
 import os
+from concurrent.futures import ThreadPoolExecutor
 
 # List of file URLs
 file_urls = [
@@ -40,11 +41,10 @@ new_file_names = [
     "dns-filter.txt"
 ]
 
-for file_url, new_name in zip(file_urls, new_file_names):
+def download_file(file_url, new_name):
     response = requests.get(file_url)
     if response.status_code == 200:
         file_content = response.content
-        file_name = os.path.basename(file_url)
 
         target_file = os.path.join(destination_folder, new_name)
         with open(target_file, "wb") as f:
@@ -52,3 +52,7 @@ for file_url, new_name in zip(file_urls, new_file_names):
         print(f"File copied from {file_url} and saved to {new_name}.")
     else:
         print(f"Unable to retrieve file {file_url}.")
+
+# Use a ThreadPoolExecutor to download the files in parallel
+with ThreadPoolExecutor() as executor:
+    executor.map(download_file, file_urls, new_file_names)

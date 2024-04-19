@@ -27,12 +27,12 @@ if __name__ == "__main__":
         est_time = datetime.now(eastern).strftime('%H:%M:%S %m/%d/%Y')
 
         # Write the filtered content to a file with timestamp comments
-        with open('adguard.txt', 'w') as output_file:
-            output_file.write(f"# AdGuard DNS filter Generated from {url}\n")
+        with open('dnsfilters.txt', 'w') as output_file:
+            output_file.write(f"# AdGuard DNS filter for Surge Generated from {url}\n")
             output_file.write(f"# Updated at EST {est_time}\n")
             output_file.write(f"# Total lines: {len(filtered_lines)}\n")
             output_file.write("# https://github.com/rnlo/r\n")
             output_file.writelines(f"{line}\n" for line in filtered_lines)
-        print("Filtered DNS rules extracted and saved to adguard.txt.")
+        print(f"AdGuard DNS filter for Surge Generated from {url} and saved to dnsfilters.txt.")
     else:
         print("Result has less than 100 lines. Not writing to file.")
