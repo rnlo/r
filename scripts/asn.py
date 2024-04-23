@@ -1,93 +1,106 @@
-import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import pytz
+import requests
+import traceback
 
-# Define the region flag emoji based on the region code
-region_flags = {
+region_and_flag = {
     'US': '🇺🇸',  # United States
     'CN': '🇨🇳',  # China
 }
 
-# Define the header with the User-Agent for the latest macOS Safari browser
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15'
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15'
 }
 
-def get_data_from_url(url, headers):
+def get_and_parse_data(region_code):
+    try:
+        url = f'https://bgp.he.net/country/{region_code}'
 
-    # Create a session
-    with requests.Session() as session:
-        # Update the session headers
-        session.headers.update(headers)
+        with requests.Session() as session:
+            session.headers.update(headers)
+            response = session.get(url)
 
-        # Make the request with the specified headers
-        response = session.get(url)
-        # Parse the response text with BeautifulSoup
-        soup = BeautifulSoup(response.text, 'html.parser')
+            # Check if the request was successful
+            if response.status_code != 200:
+                print(f"Request to {url} returned status code {response.status_code}.")
+                return None, None
 
-        # Extract content from tbody table where td[2] is not empty or td[3] is not 0
-        # Replace "AS" with "IP-ASN,"
-        table = soup.find('tbody')
+            soup = BeautifulSoup(response.text, 'html.parser')
+            table = soup.find('tbody')
 
-        selected_data = []
-        for row in table.find_all('tr'):
-            columns = row.find_all('td')
-            if len(columns) > 2 and columns[0].text.strip().startswith("AS"):
-                if columns[1].text.strip() or columns[2].text.strip() != '0':
-                    selected_data.append(columns[0].text.strip().replace("AS", "IP-ASN,"))
-    return selected_data
+            # Check if table is None
+            if table is None:
+                print(f"No table found in the response from {url}.")
+                return None, None
 
-def scrape_data(region_code):
+            selected_data = []
+            for row in table.find_all('tr'):
+                columns = row.find_all('td')
+                if len(columns) > 2 and columns[0].text.strip().startswith("AS"):
+                    if columns[1].text.strip() != '' or columns[2].text.strip() != '0':
+                        selected_data.append(columns[0].text.strip().replace("AS", "IP-ASN,"))
+        return selected_data, url
+    except requests.exceptions.RequestException as e:
+        print(f"Request error occurred while scraping data for region code {region_code}. Error: {e}")
+    except Exception as e:
+        print(f"Error occurred while scraping data for region code {region_code}. Error: {e}")
+        print(traceback.format_exc())
 
-    # Define the URL to scrape
-    url = f'https://bgp.he.net/country/{region_code}'
+def write_data_to_file(region_code, selected_data, url):
+    try:
+        if len(selected_data) > 100:
+            eastern = pytz.timezone('US/Eastern')
+            est_time = datetime.now(eastern).strftime('%m/%d/%Y %I:%M:%S %p')
+            region_flag = region_and_flag.get(region_code.upper(), '')
 
-    # Get the selected data from the URL
-    selected_data = get_data_from_url(url, headers)
+            with open(f'ASN{region_code}.list', 'w') as file:
+                file.write(f"# {region_flag}{region_code}ASN Generated from {url}\n")
+                file.write(f"# Updated at {est_time} (EST)\n")
+                file.write(f"# Total lines: {len(selected_data)}\n")
+                file.write("# https://github.com/rnlo/ASN\n")
+                file.writelines(f"{line}\n" for line in selected_data)
+            print(f"{region_code}ASN Generated from {url} and saved to ASN{region_code}.list.")
+        else:
+            print(f"Result has less than 100 lines for {region_code}. Not writing to file.")
+    except IOError as e:
+        print(f"IOError occurred while writing data to file for region code {region_code}. Error: {e}")
+    except Exception as e:
+        print(f"Error occurred while writing data to file for region code {region_code}. Error: {e}")
+        print(traceback.format_exc())
 
-    # Check if the result contains more than 100 lines, if so, write to file
-    if len(selected_data) > 100:
-        # Write the scraped content to the file with EST timezone timestamp at the beginning
-        eastern = pytz.timezone('US/Eastern')
-        est_time = datetime.now(eastern).strftime('%m/%d/%Y %I:%M:%S %p')
-        region_flag = region_flags.get(region_code.upper(), '')
+def scrape_data():
+    try:
+        for region_code in region_and_flag.keys():
+            selected_data, url = get_and_parse_data(region_code)
 
-        with open(f'ASN{region_code}.list', 'w') as file:
-            file.write(f"# {region_flag}{region_code}ASN Generated from {url}\n")
-            file.write(f"# Updated at {est_time} (EST)\n")
-            file.write(f"# Total lines: {len(selected_data)}\n")
-            file.write("# https://github.com/rnlo/r\n")
-            file.writelines(f"{line}\n" for line in selected_data)
-        print(f"{region_code}ASN Generated from {url} and saved to ASN{region_code}.list.")
-    else:
-        print(f"Result has less than 100 lines for {region_code}. Not writing to file.")
-    return selected_data
+            # Check if selected_data or url is None
+            if selected_data is None or url is None:
+                print(f"Skipping region code {region_code} due to missing data.")
+                continue
 
-def get_sorted_data(headers):
-    
-    # Define the URL to scrape
-    url = 'https://bgp.he.net/country/CN'
-    
-    # Get the selected data from the URL
-    selected_data = get_data_from_url(url, headers)
-    
-    # Sort the data
-    sorted_data = sorted(selected_data)
-    
-    # Check if the result contains more than 100 lines, if so, write to file
-    if len(sorted_data) > 100:
-        with open('ACN.list', 'w') as file:
-            file.writelines(f"{line}\n" for line in sorted_data)
-        print(f"CNASN Generated from {url} and saved to ACN.list.")
-    else:
-        print("Result has less than 100 lines. Not writing to file.")
-    
-    return sorted_data
+            write_data_to_file(region_code, selected_data, url)
+    except Exception as e:
+        print(f"Error occurred while scraping data. Error: {e}")
+        print(traceback.format_exc())
+
+def get_sorted_data():
+    try:
+        selected_data, url = get_and_parse_data('CN')
+        sorted_data = sorted(selected_data)
+        if len(sorted_data) > 100:
+            with open('ACN.list', 'w') as file:
+                file.writelines(f"{line}\n" for line in sorted_data)
+            print(f"CNASN Generated from {url} and saved to ACN.list.")
+        else:
+            print("Result has less than 100 lines. Not writing to file.")
+        return sorted_data
+    except IOError as e:
+        print(f"IOError occurred while writing data to file. Error: {e}")
+    except Exception as e:
+        print(f"Error occurred while getting sorted data. Error: {e}")
+        print(traceback.format_exc())
 
 if __name__ == "__main__":
-    # Get and sort data from a specific URL
-    get_sorted_data(headers)
-    # Scrape data for specific region codes
-    scrape_data('US')  # United States
-    scrape_data('CN')  # China
+    scrape_data()
+    get_sorted_data()
