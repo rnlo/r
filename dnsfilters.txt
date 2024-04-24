@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/23/2024 03:32:03 PM (EST)
-# Total lines: 66202
+# Updated at 04/24/2024 04:10:05 AM (EST)
+# Total lines: 66213
 # https://github.com/rnlo/r
 .rbweljjemzkza.top
 .nocyjsmirnfwcb.com
@@ -50576,6 +50576,7 @@
 .d31y97ze264gaa.cloudfront.net
 .d34r8q7sht0t9k.cloudfront.net
 .d36u3psykfwy91.cloudfront.net
+.d39ion77s0ucuz.cloudfront.net
 .d39yds8oe4n4jq.cloudfront.net
 .d3bj8nkfly20uo.cloudfront.net
 .d3bo67muzbfgtl.cloudfront.net
@@ -61054,6 +61055,16 @@
 .zhaweifeng.com
 .zhihucloud.xyz
 .zhnnaxe.xyz
+.xfrahb.xyz
+.sogoks.xyz
+.qvonje.cn
+.yvwuesh.icu
+.oyuwkbk.top
+.88lm13.com
+.88lm12.com
+.yhdemu368.shop
+.yhderd69.shop
+.szpxp.cn
 .zjrtxt.xyz
 .znhlxvb.xyz
 .zojyob.icu
