@@ -1,7 +1,17 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/24/2024 04:10:05 AM (EST)
-# Total lines: 66213
+# Updated at 04/25/2024 04:09:09 AM (EST)
+# Total lines: 66253
 # https://github.com/rnlo/r
+.pqhoscjupq.com
+.jeethaju.net
+.ujtgtmj.com
+.nyorgagetnizati.info
+.markedoneofthe.info
+.linderbourgs.top
+.ilvnkzt.com
+.hiflkhvgvwsff.com
+.jrzeiotwaq.com
+.syltfvcaa.com
 .rbweljjemzkza.top
 .nocyjsmirnfwcb.com
 .oothupeelobs.com
@@ -821,6 +831,7 @@
 .hub.fghtem.com
 .adrunnr.com
 .samsungtvads.com
+.d2ier523in7agz.cloudfront.net
 .d2bs5vtcw2lxsv.cloudfront.net
 .d2jsvulelid3e4.cloudfront.net
 .d3k2wzdv9kuerp.cloudfront.net
@@ -2838,6 +2849,7 @@
 .adsrv.wtf
 .adstarget.net
 .adstargets.com
+.adstean.com
 .adstico.io
 .adstook.com
 .adstracker.info
@@ -6760,6 +6772,7 @@
 .bromisescapose.com
 .bromoilnapalms.com
 .bromusic.site
+.bronchichogset.com
 .broncogainer.top
 .broochambitioncopies.com
 .broochtrade.com
@@ -12721,6 +12734,7 @@
 .evjroovrujr.xyz
 .evkikdzbdg.com
 .evlutvsyfegi.com
+.evnsotpmavrwp.com
 .evoign.com
 .evours.com
 .evoutouk.com
@@ -19287,6 +19301,7 @@
 .jrtqaliyucgpaes.com
 .jrvrkzrbkqaoz.top
 .jrvrkzrbkqqob.top
+.jrvrkzrbkqqqj.top
 .jryymvudjqlraa.com
 .js-check.com
 .js.j8jp.com
@@ -20488,6 +20503,7 @@
 .layerloop.com
 .layermutual.com
 .layerpearls.com
+.layiaaesopic.top
 .layingracistbrainless.com
 .layoutsdaydawn.top
 .layzvgxgodnv.com
@@ -23392,6 +23408,7 @@
 .mywondertrip.com
 .myxlyajuhsjiwsp.com
 .myyhvsekloyvul.com
+.mzcaiegjmuwfd.com
 .mziso.xyz
 .mznbrazfty.com
 .mzodalowsh.com
@@ -28650,6 +28667,7 @@
 .qhstvmfehhk.com
 .qhttxwlecujjfc.com
 .qhuguzodbd.com
+.qhwyoat.com
 .qhxukowjgl.com
 .qianaecrus.top
 .qibkkioqqw.com
@@ -29942,6 +29960,7 @@
 .rgbvgxfcp.xyz
 .rgbvncnqzlvwr.com
 .rgcxmzrmcvbxem.com
+.rgddist.com
 .rgentssep.xyz
 .rgjlpgkzagf.com
 .rglxzqlqcp.com
@@ -31337,6 +31356,7 @@
 .serversmatrixaggregation.com
 .serversoursmiling.com
 .serverssignshigher.com
+.servetean.site
 .servetraff.com
 .servg1.net
 .servicegetbook.net
@@ -37130,6 +37150,7 @@
 .vptzqnjwguap.com
 .vpumfeghiall.com
 .vpwhhtpwhmd.com
+.vpwyehsh.com
 .vqagwoaetsahu.com
 .vqcjmtorgexlxpg.xyz
 .vqcuzypju.com
@@ -37718,6 +37739,7 @@
 .whaidree.com
 .whairtoa.com
 .whaishub.net
+.whaivoole.com
 .whaiweel.com
 .whaixoads.xyz
 .whaleads.com
@@ -37823,6 +37845,7 @@
 .whistlingvowel.com
 .whiteaccompanypreach.com
 .whitenoisenews.com
+.whitepark9.com
 .whittenchorded.com
 .whizduly.com
 .whizzerknucks.com
@@ -39366,6 +39389,7 @@
 .zbdcrnfheyfu.com
 .zbfemgimtyejpm.com
 .zbfxzpawfeoo.com
+.zbmdbhhtgry.com
 .zbnfhsk.com
 .zbvhwaakws.com
 .zcaadfl.com
@@ -40127,7 +40151,6 @@
 .adsrvmedia.net
 .adstargeting.com
 .adstatic.com
-.adstean.com
 .adsterra.com
 .adstock.pro
 .adstoo.com
@@ -41155,6 +41178,7 @@
 .4e68.xyz
 .657475b7-0095-478d-90d4-96ce440604f9.online
 .7e809ed7-e553-4e29-acb1-4e3c0e986562.site
+.7fc8.site
 .8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 .b211.xyz
 .b59c.xyz
@@ -41193,6 +41217,7 @@
 .10945-2.s.cdn15.com
 .10945-5.s.cdn15.com
 .1097248889.rsc.cdn77.org
+.1129665329.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
 .1189945577.rsc.cdn77.org
 .1291423135.rsc.cdn77.org
@@ -41200,6 +41225,7 @@
 .1454023398.rsc.cdn77.org
 .1529462937.rsc.cdn77.org
 .1562574750.rsc.cdn77.org
+.1618323023.rsc.cdn77.org
 .1623381916.rsc.cdn77.org
 .1673213558.rsc.cdn77.org
 .1675450967.rsc.cdn77.org
@@ -43489,6 +43515,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.collector*.ex.co
 .programmatica.com
 .stats.rip
 .ebxcdn.com
@@ -46939,6 +46966,9 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.c615.denverpost.com
+.newsstat.dallasnews.com
+.e.channelexco.com
 .analytics.languagetoolplus.com
 .log.classting.com
 .hoxha.nieuwspaal.network
@@ -50029,7 +50059,6 @@
 .doppler-reporting.cbsivideo.com
 .dotaudiences.com
 .dynamic.ziftsolutions.com
-.e.channelexco.com
 .e.htplayground.com
 .ea.youmaker.com
 .ec.walkme.com
@@ -50558,6 +50587,7 @@
 .d1t9uctetvi0tu.cloudfront.net
 .d1vg5xiq7qffdj.cloudfront.net
 .d1wix2gc2cgqis.cloudfront.net
+.d1z3r0i09bwium.cloudfront.net
 .d1z9vm58yath60.cloudfront.net
 .d20kffh39acpue.cloudfront.net
 .d21y75miwcfqoq.cloudfront.net
@@ -51415,6 +51445,7 @@
 .solution911.com
 .templates.buscape.com
 .yestorrents.org
+.oecistbenton.com
 .zszhfffyd.ru
 .tracker.pushmeback.com
 .isrv07.com
@@ -54815,6 +54846,7 @@
 .seenthis.se
 .selectofmychoices.com
 .sentry.outbid.io
+.seo.compado.com
 .seonify.com
 .servedby.flashtalking.com
 .servedby.lintigroup.se
@@ -60363,6 +60395,8 @@
 .88lm09.com
 .88lm10.com
 .88lm11.com
+.88lm12.com
+.88lm13.com
 .8t9he.cyou
 .8xtm6i.cn
 .999bb222ww.com
@@ -60704,6 +60738,7 @@
 .mdhv3.icu
 .mdzwjra.cn
 .meqanhm.icu
+.miningzhizhong.top
 .misjgy.xyz
 .mldzwmt.xyz
 .mlhtr.cn
@@ -60765,6 +60800,7 @@
 .oweeiyw.icu
 .oxkyaq.xyz
 .oxvlxwz.xyz
+.oyuwkbk.top
 .ozhmig.cn
 .p04qzl.cn
 .p0v2ni.cn
@@ -60818,6 +60854,7 @@
 .qtyusiy.top
 .qusrow.xyz
 .qvnbjjd.xyz
+.qvonje.cn
 .qw9cu.cyou
 .qyuwkby.top
 .qzalsk.xyz
@@ -60870,6 +60907,7 @@
 .snalzlb.top
 .snifdlab.top
 .soffersk.com
+.sogoks.xyz
 .sosakk.xyz
 .spsfupq.cn
 .srwwce.xyz
@@ -60899,6 +60937,7 @@
 .szpwf.cn
 .szpwg.cn
 .szpwh.cn
+.szpxp.cn
 .szpzk.cn
 .szpzm.cn
 .tahznx.xyz
@@ -61004,6 +61043,7 @@
 .xdrvkdni.xyz
 .xdybwjpa.xyz
 .xedpzh.xyz
+.xfrahb.xyz
 .xgjidt.xyz
 .xhbshv.xyz
 .xhfxtqt.xyz
@@ -61037,6 +61077,8 @@
 .ydrvkdni.xyz
 .ydwkrbg.cn
 .ydybwjpa.xyz
+.yhdemu368.shop
+.yhderd69.shop
 .yhqukg.xyz
 .ykkhihg.cn
 .yliffnsc.xyz
@@ -61044,6 +61086,7 @@
 .yvbjctqs.xyz
 .yvnxetmq.xyz
 .yvudqzoa.xyz
+.yvwuesh.icu
 .ywhws.cn
 .yyddkm526.shop
 .yyttmyy.cn
@@ -61055,16 +61098,13 @@
 .zhaweifeng.com
 .zhihucloud.xyz
 .zhnnaxe.xyz
-.xfrahb.xyz
-.sogoks.xyz
-.qvonje.cn
-.yvwuesh.icu
-.oyuwkbk.top
-.88lm13.com
-.88lm12.com
-.yhdemu368.shop
-.yhderd69.shop
-.szpxp.cn
+.fptbdr.xyz
+.uunfybw.cn
+.eaezoi.xyz
+.lyuwkbl.top
+.romiyee.icu
+.uywoynr.cn
+.vyrpoe.cn
 .zjrtxt.xyz
 .znhlxvb.xyz
 .zojyob.icu
