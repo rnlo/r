@@ -39,8 +39,7 @@ file_urls = {
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list": "Zhihu.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list": "JingDong.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list": "Youku.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list": "CIBN.list",
-    "https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/dns-filter.txt": "dns-filter.txt"
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list": "CIBN.list"
 }
 
 # Define a dictionary that contains the arrays of URLs, begin markers, end markers, and output files
