@@ -1,0 +1,29 @@
+# Streaming Media
+# Plex
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,plexvideos.com
+# Ted
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,tedcdn.com
+# Live Channel
+DOMAIN-SUFFIX,amagi.tv //nbc
+DOMAIN-SUFFIX,cbsnews.com //cbs
+DOMAIN-SUFFIX,uplynk.com //abc
+DOMAIN-SUFFIX,cloudfront.net //live service
+DOMAIN-SUFFIX,mybtv.net
+DOMAIN-SUFFIX,firetvcaptiveportal.com
+DOMAIN-SUFFIX,chdrstatic.com
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,xumo.com
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,tubi.video
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,adrise.tv
+DOMAIN-SUFFIX,crackle.com
+DOMAIN-SUFFIX,amazon.dev
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,pv-cdn.net
+# End Streaming Media
