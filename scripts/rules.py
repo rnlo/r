@@ -33,9 +33,10 @@ file_urls = {
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba_All_No_Resolve.list": "Alibaba.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list": "Tencent.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list": "WeChat.list",
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list": "ByteDance.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list": "NetEase.list",
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Baidu/Baidu.list": "Baidu.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list": "MeiTuan.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouYin/DouYin.list": "DouYin.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list": "Zhihu.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list": "JingDong.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list": "Youku.list",
@@ -72,7 +73,7 @@ filter_parameters = {
 file_names_dict = {
     "temp.list": [
         "temprule.list",
-        "DouYin.list",
+        "ByteDance.list",
         "Zhihu.list"
     ],
     "domain.list": [
@@ -104,9 +105,10 @@ file_names_dict = {
         "Alibaba.list",
         "Tencent.list",
         "WeChat.list",
+        "ByteDance.list",
         "NetEase.list",
+        "Baidu.list",
         "MeiTuan.list",
-        "DouYin.list",
         "Zhihu.list",
         "JingDong.list",
         "Youku.list",
