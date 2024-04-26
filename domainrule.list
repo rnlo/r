@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,gist.build
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,gravatar.com
 # Server
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,proxmox.com
