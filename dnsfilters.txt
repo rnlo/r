@@ -1,7 +1,15 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/26/2024 04:09:31 AM (EST)
-# Total lines: 66304
+# Updated at 04/27/2024 04:09:15 AM (EST)
+# Total lines: 66334
 # https://github.com/rnlo/r
+.lwhyihajamafu.com
+.utygdjcs.xyz
+.ewpubiimput.com
+.nuptoomaugou.net
+.bsbrcdna.com
+.crazy-baboon.com
+.idyllicjazz.com
+.orclrul.com
 .vmkdfdjsnujy.xyz
 .sirdushi.xyz
 .ofleafeona.com
@@ -2865,6 +2873,7 @@
 .adsvolume.com
 .adswam.com
 .adsxyz.com
+.adsymptotic.com
 .adt328.com
 .adt545.net
 .adt567.net
@@ -8614,6 +8623,7 @@
 .colorfulspecialinsurance.com
 .colorinmeasure.com
 .colorschemeas.com
+.colossalanswer.com
 .colourevening.com
 .colourinitiative.com
 .coloursstandard.com
@@ -17457,6 +17467,7 @@
 .hzogncbobfb.com
 .hzoywchsp.com
 .hzr0dm28m17c.com
+.hzzgnwdsha.com
 .i-afk.com
 .i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz
 .i0xz2.top
@@ -34617,6 +34628,7 @@
 .tjaard11.xyz
 .tjavravj.com
 .tjclskcamptg.com
+.tjegljkugvrr.com
 .tjgpeswdkrym.com
 .tjibxzqxtl.com
 .tjnkrrygmgp.com
@@ -35326,6 +35338,7 @@
 .tthathehadstop.info
 .ttidstfuqhj.xyz
 .ttkhtwqi.com
+.ttlmqhbbkd.com
 .ttney.com
 .ttnrd.com
 .ttoc8ok.com
@@ -37661,6 +37674,7 @@
 .weeprobbery.com
 .weestuch.com
 .weethery.com
+.weewhunoamo.xyz
 .weewowshrinky.com
 .wefoonsaidoo.com
 .weftsgeogeny.com
@@ -38444,6 +38458,7 @@
 .wsmobltyhs.com
 .wsokomw.com
 .wspsbhvnjk.com
+.wstyruafypihv.xyz
 .wt20trk.com
 .wt2noay3fgjn.com
 .wtcmjppejjb.com
@@ -38477,6 +38492,7 @@
 .wuqconn.com
 .wurqaz.com
 .wussucko.com
+.wutcifjtapa.com
 .wutseelo.xyz
 .wutsumazxq.com
 .wuujae.com
@@ -39033,6 +39049,7 @@
 .yearnwillowconsumption.com
 .yedbehindforh.info
 .yefzjingxudwib.com
+.yeggscuvette.com
 .yeioreo.net
 .yellow-resultsbidder.com
 .yellow-resultsbidder.org
@@ -39646,6 +39663,7 @@
 .zobsaims.com
 .zodiacranbehalf.com
 .zoeaegyral.com
+.zoeaethenar.com
 .zofitsou.com
 .zog.link
 .zogoluggers.com
@@ -39664,6 +39682,7 @@
 .zoologyhuntingblanket.com
 .zoopaweb.com
 .zoopsame.com
+.zoozishooh.com
 .zorango.com
 .zouard.com
 .zouemtjzuae.com
@@ -41201,6 +41220,7 @@
 .googleadservices-cn.com
 .googleadsserving.cn
 .googlevads-cn.com
+.295c.site
 .2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 .48a16802.site
 .4a0e.xyz
@@ -43547,6 +43567,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.antillephone.com
+.prodalet.ru
 .zdw.w8.com.cn
 .pbjs-stream.bydata.com
 .collector*.ex.co
@@ -43628,7 +43650,6 @@
 .ga.getresponse.com
 .t.fastcmp.com
 .prod-mhaa.mhtr.be
-.dmp.eland-tech.com
 .ohmy.bid
 .nakanohito.jp
 .analytics.fcgtalent.fi
@@ -47000,6 +47021,7 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.flask.us.nextdoor.com
 .ev.indianexpress.com
 .aa-metrics.beauty.hotpepper.jp
 .aa-metrics.hotpepper.jp
@@ -50690,7 +50712,6 @@
 .clarium.global.ssl.fastly.net
 .dfapvmql-q.global.ssl.fastly.net
 .vwonwkaqvq-a.global.ssl.fastly.net
-.antillephone.com
 .beyondsecurity.com
 .guarantee-cdn.com
 .nsg.symantec.com
@@ -50815,6 +50836,7 @@
 .cctvgb.com.cn
 .cdnmaster.cn
 .cr-nielsen.com
+.eland-tech.com
 .emarbox.com
 .ggxt.net
 .gostats.cn
@@ -51483,6 +51505,7 @@
 .templates.buscape.com
 .yestorrents.org
 .oecistbenton.com
+.ssrv7.com
 .zszhfffyd.ru
 .tracker.pushmeback.com
 .isrv07.com
@@ -60531,6 +60554,7 @@
 .cvgrszkg.xyz
 .cvnxetmq.xyz
 .cvudqzoa.xyz
+.cweriof.top
 .cwssfg632.shop
 .cxlvlbx.xyz
 .cyuwkbf.top
@@ -60596,6 +60620,7 @@
 .ersjnpwf837.shop
 .esqhsm.xyz
 .etyusiw.top
+.ewjhic.cn
 .ewxufqs.cn
 .execuri.com
 .f7fe0.cyou
@@ -60609,6 +60634,7 @@
 .fidelius.cn
 .fmfnrf.xyz
 .fmssoj.icu
+.fmvzzh.xyz
 .fpjjjh.xyz
 .fptbdr.xyz
 .fpvdrzx.xyz
@@ -60694,6 +60720,7 @@
 .iummqg.xyz
 .ivbgpax.cn
 .ivnrrkx.cn
+.ixstng.cn
 .iykig.cn
 .iyuwkbo.top
 .izalflh.cn
@@ -60724,16 +60751,19 @@
 .jypvzd.xyz
 .jyuwkba.top
 .jzjpntr.xyz
+.kaosts.com
 .kbomku.xyz
 .kdeh.cn
 .kfdrc.cyou
 .kfpnqug.cn
 .kgdyoh.icu
 .kgqcse.xyz
+.khcsvdc.icu
 .khzyojb.cn
 .kksjsa.top
 .knalzld.top
 .knifdlad.top
+.knpkxgfp.xyz
 .koqjok.xyz
 .kpmose.xyz
 .kssolo.com
@@ -60862,6 +60892,7 @@
 .pmtrkp.icu
 .pnxtnp.xyz
 .polepole.cn
+.polyfill.io
 .pp1hl.xyz
 .pressit.cn
 .prhfziq.xyz
@@ -60909,6 +60940,7 @@
 .rbhunp.xyz
 .rcyzsh.icu
 .rdiono.cn
+.retinaesprent.com
 .rfnvqpo.xyz
 .rghqrj.xyz
 .rhzvlcu.xyz
@@ -60921,6 +60953,7 @@
 .rndcdb.xyz
 .rnkzhsi.cn
 .rnpkxgfp.xyz
+.rnzmynh.cn
 .rofmjd.xyz
 .romiyee.icu
 .rouqiuqq.cn
@@ -60932,6 +60965,7 @@
 .rzfdbsn.cn
 .rzpvbl.xyz
 .sacvmb.icu
+.samoryinaner.com
 .savionl.com
 .sdfsad562.xyz
 .sdjkbcjksbdsvv.com
@@ -61128,6 +61162,7 @@
 .yhqukg.xyz
 .ykkhihg.cn
 .yliffnsc.xyz
+.ymcnsq.xyz
 .yqlxkzs.cn
 .yvbjctqs.xyz
 .yvnxetmq.xyz
@@ -61144,17 +61179,12 @@
 .zhaweifeng.com
 .zhihucloud.xyz
 .zhnnaxe.xyz
-.fmvzzh.xyz
-.cweriof.top
-.ymcnsq.xyz
-.retinaesprent.com
-.samoryinaner.com
-.kaosts.com
-.khcsvdc.icu
-.knpkxgfp.xyz
-.rnzmynh.cn
-.ixstng.cn
-.ewjhic.cn
+.kyaywy.xyz
+.vbutycp.cn
+.nwxaxx.xyz
+.hweriou.top
+.dfsgppz.icu
+.qcepqj.icu
 .zjrtxt.xyz
 .znhlxvb.xyz
 .zojyob.icu
