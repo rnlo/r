@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/27/2024 04:09:15 AM (EST)
-# Total lines: 66334
+# Updated at 04/27/2024 09:01:40 AM (EST)
+# Total lines: 66340
 # https://github.com/rnlo/r
+.go.syndcloud.com
 .lwhyihajamafu.com
 .utygdjcs.xyz
 .ewpubiimput.com
@@ -6000,6 +6001,7 @@
 .biphic.com
 .bipidoan.com
 .biplihopsdim.com
+.bipmwuhisvp.com
 .biptolyla.com
 .bipwmskhqe.com
 .birchdynamicunicorn.com
@@ -7679,6 +7681,7 @@
 .cementobject.com
 .cemeterybattleresigned.com
 .cemeterysimilar.com
+.cemiocw.com
 .cenaclesuccoth.com
 .cenceevent.club
 .cendantofth.org
@@ -7738,6 +7741,7 @@
 .cffujnudcdy.com
 .cfgr1.com
 .cfgr5.com
+.cfgrcr1.com
 .cfikgqraxgznj.com
 .cfivfadtlr.com
 .cflmdoigokoeld.com
@@ -41222,6 +41226,7 @@
 .googlevads-cn.com
 .295c.site
 .2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
+.3a2e.site
 .48a16802.site
 .4a0e.xyz
 .4e55.xyz
@@ -53750,6 +53755,7 @@
 .7b9de.v.fwmrm.net
 .ads.dugwood.com
 .adserver.icimedias.ca
+.ad.unique1static.jp
 .bance.jp
 .appdraft.link
 .ad.adpon-affi.net
