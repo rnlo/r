@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 # End CN
+# End rnlo rules
 
 # NAME: Alibaba
 # AUTHOR: blackmatrix7

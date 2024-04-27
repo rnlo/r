@@ -1,5 +1,5 @@
 import os
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 import pytz
 import re
@@ -169,17 +169,35 @@ def get_file_content(file_name):
 
 def copy_files_to_destination(file_names_dict):
     try:
-        for destination_file_name, file_names in file_names_dict.items():
-            with open(os.path.join(destination_folder, destination_file_name), "w") as destination_file:
-                for file_name in file_names:
-                    try:
-                        content = get_file_content(file_name)
+        with ThreadPoolExecutor() as executor:
+            for destination_file_name, file_names in file_names_dict.items():
+                destination_file_path = os.path.join(destination_folder, destination_file_name)
+                lines = []
+                # Check if the destination file exists before reading
+                if os.path.exists(destination_file_path):
+                    # Read the existing content first
+                    with open(destination_file_path, "r") as destination_file:
+                        lines = destination_file.readlines()
+                    # Find the line with "# End rnlo rules"
+                    end_line_index = None
+                    for i, line in enumerate(lines):
+                        if "# End rnlo rules" in line:
+                            end_line_index = i
+                            break
+                    # If the line is found, keep the content before it and include it
+                    if end_line_index is not None:
+                        lines = lines[:end_line_index + 2]
+                    else:
+                        lines = []  # Clear the content if "# End rnlo rules" is not found
+                # Write the old content and the new content
+                with open(destination_file_path, "w") as destination_file:
+                    destination_file.writelines(lines)
+                    results = executor.map(get_file_content, file_names)
+                    for file_name, content in zip(file_names, results):
                         if content is not None:
                             destination_file.write(content)
                             destination_file.write("\n")
                             print(f"File copied from {file_name} and added to {destination_file_name}.")
-                    except Exception as e:
-                        print(f"Error occurred while reading from {file_name} or writing to {destination_file_name}. Error: {str(e)}")
     except Exception as e:
         print(f"Error occurred while processing files. Error: {str(e)}")
         print(traceback.format_exc())
