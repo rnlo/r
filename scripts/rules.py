@@ -13,35 +13,8 @@ file_urls = {
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list": "Google.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list": "Facebook.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list": "AmazonAll.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list": "AmazonIP.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list": "GitHub.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list": "OpenAI.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list": "Copilot.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list": "Telegram.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list": "YouTube.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list": "TikTok.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list": "Spotify.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list": "Discord.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list": "PayPal.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list": "Twitter.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wikipedia/Wikipedia.list": "Wikipedia.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list": "Netflix.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluUSA/HuluUSA.list": "Hulu.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sling/Sling.list": "Sling.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list": "PrimeVideo.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Peacock/Peacock.list": "Peacock.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list": "Twitch.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba_All_No_Resolve.list": "Alibaba.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list": "Tencent.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list": "WeChat.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list": "ByteDance.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list": "NetEase.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Baidu/Baidu.list": "Baidu.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list": "MeiTuan.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list": "Zhihu.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list": "JingDong.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list": "Youku.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list": "CIBN.list"
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list": "AmazonIP.list",  
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list": "Netflix.list"
 }
 
 # Define a dictionary that contains the arrays of URLs, begin markers, end markers, and output files
@@ -74,53 +47,54 @@ filter_parameters = {
 file_names_dict = {
     "temp.list": [
         "temprule.list",
-        "ByteDance.list",
-        "Zhihu.list"
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list"
     ],
     "domain.list": [
         "domainrule.list",
-        "GitHub.list",
-        "OpenAI.list",
-        "Copilot.list",
-        "Telegram.list",
-        "YouTube.list",
-        "TikTok.list",
-        "Spotify.list",
-        "Discord.list",
-        "PayPal.list",
-        "Twitter.list",
-        "Wikipedia.list"
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Wikipedia/Wikipedia.list"
     ],
     "streaminggeo.list": [
         "streaminggeorule.list",
-        "Hulu.list",
-        "Sling.list"
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluUSA/HuluUSA.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sling/Sling.list"
     ],
     "streaming.list": [
         "streamingrule.list",
-        "PrimeVideo.list",
-        "Peacock.list",
-        "Twitch.list"
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Peacock/Peacock.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list"
     ],
     "cn.list": [
         "cnrule.list",
-        "Alibaba.list",
-        "Tencent.list",
-        "WeChat.list",
-        "ByteDance.list",
-        "NetEase.list",
-        "Baidu.list",
-        "MeiTuan.list",
-        "Zhihu.list",
-        "JingDong.list",
-        "Youku.list",
-        "CIBN.list"
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba_All_No_Resolve.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/NetEase.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Baidu/Baidu.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list"
     ]
 }
 
 # Local destination folder path
 destination_folder = os.getcwd()
 
+# Download list files from file_urls
 def download_file(file_url, new_file_name):
     try:
         response = requests.get(file_url)
@@ -148,6 +122,7 @@ def download_files_in_parallel(file_urls):
         print(f"Error occurred while executing parallel downloads. Error: {str(e)}")
         print(traceback.format_exc())
 
+# Download list files and filter from filter_parameters
 def fetch_and_filter_content(filter_parameters):
     for source_url, filtered_file in zip(filter_parameters['source_urls'], filter_parameters['filtered_files']):
         try:
@@ -174,28 +149,42 @@ def fetch_and_filter_content(filter_parameters):
             print(f"An unexpected error occurred: {e}")
             print(traceback.format_exc())
 
-def copy_files_to_destination(file_names_dict, destination_folder):
+# Get file content from file_names_dict and added to destination_file_name
+def get_file_content(file_name):
+    try:
+        if file_name.startswith('http://') or file_name.startswith('https://'):
+            response = requests.get(file_name)
+            response.raise_for_status()  # Raise an exception if the request was unsuccessful
+            return response.text
+        else:
+            with open(file_name, "r") as file:
+                return file.read()
+    except requests.exceptions.RequestException as e:
+        print(f"Error occurred while fetching the file from URL: {file_name}. Error: {str(e)}")
+    except FileNotFoundError:
+        print(f"File not found: {file_name}")
+    except Exception as e:
+        print(f"An unexpected error occurred: {str(e)}")
+        print(traceback.format_exc())
+
+def copy_files_to_destination(file_names_dict):
     try:
         for destination_file_name, file_names in file_names_dict.items():
-            with open(destination_file_name, "w") as destination_file:
+            with open(os.path.join(destination_folder, destination_file_name), "w") as destination_file:
                 for file_name in file_names:
-                    file_path = os.path.join(destination_folder, file_name)
-                    
-                    if os.path.exists(file_path):
-                        try:
-                            with open(file_path, "r") as file:
-                                destination_file.write(file.read())
-                                destination_file.write("\n")
-                            print(f"File copied from {file_name} filtered and saved to {destination_file_name}.")
-                        except Exception as e:
-                            print(f"Error occurred while reading from {file_name} or writing to {destination_file_name}. Error: {str(e)}")
-                    else:
-                        print(f"File '{file_name}' not found.")
-    
+                    try:
+                        content = get_file_content(file_name)
+                        if content is not None:
+                            destination_file.write(content)
+                            destination_file.write("\n")
+                            print(f"File copied from {file_name} and added to {destination_file_name}.")
+                    except Exception as e:
+                        print(f"Error occurred while reading from {file_name} or writing to {destination_file_name}. Error: {str(e)}")
     except Exception as e:
         print(f"Error occurred while processing files. Error: {str(e)}")
         print(traceback.format_exc())
 
+# Generate AdGuard DNS filter for Surge
 def generate_dns_filter():
     try:
         url = 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt'
@@ -237,5 +226,5 @@ def generate_dns_filter():
 if __name__ == "__main__":
     download_files_in_parallel(file_urls)
     fetch_and_filter_content(filter_parameters)
-    copy_files_to_destination(file_names_dict, destination_folder)
+    copy_files_to_destination(file_names_dict)
     generate_dns_filter()
