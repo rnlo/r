@@ -12,7 +12,6 @@ file_urls = {
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Microsoft/Microsoft.list": "Microsoft.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list": "Google.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list": "Facebook.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list": "AmazonAll.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list": "AmazonIP.list",  
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list": "Netflix.list"
 }
@@ -131,7 +130,7 @@ def fetch_and_filter_content(filter_parameters):
             if response.status_code == 200:
                 content = response.text
                 for begin, end in zip(filter_parameters['begins'], filter_parameters['ends']):
-                    pattern = r'{}.*?{}'.format(re.escape(begin), re.escape(end))
+                    pattern = r'{}.*?(?={})'.format(re.escape(begin), re.escape(end))
                     content = re.sub(pattern, '', content, flags=re.DOTALL)
                 
                 for line_to_exclude in filter_parameters['lines_to_exclude']:
