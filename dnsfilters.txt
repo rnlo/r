@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/28/2024 08:28:53 AM (EST)
-# Total lines: 66266
+# Updated at 04/28/2024 10:22:02 AM (EST)
+# Total lines: 66267
 # https://github.com/rnlo/r
 .thecoreadv.com
 .ibetadvdqrn.com
@@ -41139,6 +41139,7 @@
 .4a0e.xyz
 .4e55.xyz
 .4e68.xyz
+.58e0.site
 .657475b7-0095-478d-90d4-96ce440604f9.online
 .7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 .7fc8.site
