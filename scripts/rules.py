@@ -209,8 +209,8 @@ def generate_dns_filter():
         
         domains_to_exclude = [
             "logs.netflix.com",
-            "*.",
-            ".*"
+            "*",
+            "example1.example.com"
         ]
         
         response = requests.get(url)
