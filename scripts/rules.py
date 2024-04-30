@@ -208,9 +208,11 @@ def generate_dns_filter():
         url = 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt'
         
         domains_to_exclude = [
-            "logs.netflix.com",
             "*",
-            "example1.example.com"
+            "logs.netflix.com",
+            "example1.example.com",
+            "example2.example.com",
+            "example3.example.com"
         ]
         
         response = requests.get(url)
