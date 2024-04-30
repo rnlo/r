@@ -1,5 +1,5 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/30/2024 02:55:38 AM (EST)
+# Updated at 04/30/2024 04:16:09 AM (EST)
 # Total lines: 66157
 # https://github.com/rnlo/r
 .doostozoa.net
