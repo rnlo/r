@@ -18,24 +18,15 @@ file_urls = {
 
 # Define a dictionary that contains the arrays of URLs, begin markers, end markers, and output files
 filter_parameters = {
-    "source_urls": [
-        "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Amazon.list",
-        #"https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list"
-    ],
-    "filtered_files": [
-        "Amazon.list",
-        #"GoogleAll.list"
-    ],
-    "begins": [
-        "## >> Amazon Prime Video",
-        #"## >> CreateSpace",
-        #"## >> Youtube"
-    ],
-    "ends": [
-        "## >> Audible",
-        #"## >> IMDB",
-        #"## >> All .and domains"
-    ],
+    "source_files": {
+        "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Amazon.list": "Amazon.list",
+        #"https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list": "GoogleAll.list"
+    },
+    "markers": {
+        "## >> Amazon Prime Video": "## >> Audible",
+        #"## >> CreateSpace": "## >> End CreateSpace",
+        #"## >> Youtube": "## >> End Youtube"
+    },
     "lines_to_exclude": [
         "example1.example.com",
         "example2.example.com"
@@ -124,13 +115,13 @@ def download_files_in_parallel(file_urls):
 
 # Download list files and filter from filter_parameters
 def fetch_and_filter_content(filter_parameters):
-    for source_url, filtered_file in zip(filter_parameters['source_urls'], filter_parameters['filtered_files']):
+    for source_url, filtered_file in filter_parameters['source_files'].items():
         try:
             response = requests.get(source_url)
 
             if response.status_code == 200:
                 content = response.text
-                for begin, end in zip(filter_parameters['begins'], filter_parameters['ends']):
+                for begin, end in filter_parameters['markers'].items():
                     pattern = r'{}.*?(?={})'.format(re.escape(begin), re.escape(end))
                     content = re.sub(pattern, '', content, flags=re.DOTALL)
                 
