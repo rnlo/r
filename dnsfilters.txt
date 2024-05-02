@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/01/2024 04:18:22 AM (EST)
-# Total lines: 66223
+# Updated at 05/02/2024 04:15:59 AM (EST)
+# Total lines: 66259
 # https://github.com/rnlo/r
+.ad.yieldmanager.com
+.bollyocean.com
 .leveryone.info
 .ightsapph.info
 .dwvxmfscptajtll.com
@@ -8295,6 +8297,7 @@
 .clevernt.com
 .cleverwebserver.com
 .clevv.com
+.clewmcpaex.com
 .clfwrobtgqferh.xyz
 .clfxjrlui.com
 .clhrlmks.com
@@ -12882,6 +12885,7 @@
 .exdimkvfbku.com
 .exdynsrv.com
 .executecomicswhale.com
+.executionago.com
 .executiontoothache.com
 .executivetumult.com
 .exefprtna.com
@@ -22597,6 +22601,7 @@
 .minglefrostgrasp.com
 .mingonnigh.com
 .miniaturechain.pro
+.miniaturecomfortable.com
 .miniatureoffer.pro
 .miniglobalcitizens.com
 .minimizetommyunleash.com
@@ -24386,6 +24391,7 @@
 .nqgdljechyyska.com
 .nqhataamn.xyz
 .nqisabwtfbm.com
+.nqkdocgce.com
 .nqmfmnmqysei.com
 .nqn7la7.de
 .nqoxrsrf.com
@@ -25309,6 +25315,7 @@
 .oogroopt.com
 .oohaussa.com
 .ooivkrkudanjrpk.com
+.ooivmtvmxpqwf.com
 .oojitsoo.net
 .ookresit.net
 .ookroush.com
@@ -27064,6 +27071,7 @@
 .pkudawbkcl.com
 .pkxseoxojrg.com
 .pkyhdpdzidm.com
+.placardcapitalistcalculate.com
 .placingcompany.com
 .placingfinally.com
 .placingsolemnlyinexpedient.com
@@ -28112,6 +28120,7 @@
 .psaiglursurvey.space
 .psairees.net
 .psairtoo.com
+.psaiwaxaib.net
 .psaizeemit.com
 .psaksegh.xyz
 .psalmexceptional.com
@@ -28589,6 +28598,7 @@
 .pvtypsgueyqey.com
 .pvxvazbehd.com
 .pwbmdalngizhz.com
+.pwdhstaih.com
 .pwdxawuedjjj.com
 .pweabzcatoh.com
 .pwmctl.com
@@ -28692,6 +28702,7 @@
 .qe0ckm024b.com
 .qebuoxn.com
 .qedeczzdt.com
+.qehjsjdubamsrt.com
 .qehwgbwjmjvq.xyz
 .qeildfuznofnlq.com
 .qekbmjyzwemvb.top
@@ -30585,6 +30596,7 @@
 .rtyufo.com
 .rtyznd.com
 .rtzblzfgzqw.com
+.rtzbpsy.com
 .ru6sapasgs8tror.com
 .ruamupr.com
 .rubatowooer.digital
@@ -32223,6 +32235,7 @@
 .smittenkick.top
 .smjulynews.com
 .smjxarmaflpmxj.com
+.smkezc.com
 .smnkaoqyys.com
 .smnwwohzccfwcu.com
 .smoggydamage.com
@@ -32980,6 +32993,7 @@
 .steamdespicable.com
 .steamjaws.com
 .stedsous.xyz
+.steefaulrouy.xyz
 .steel-bedroom.pro
 .steeplederivedinattentive.com
 .steeplesaturday.com
@@ -33991,6 +34005,7 @@
 .tdditqosnpeo.com
 .tdfkidmyynbqu.com
 .tdgtkqtluuhjcfw.com
+.tdmrfw.com
 .tdqhlowkhxeohe.com
 .tdrtqjbifwl.com
 .tdspa.top
@@ -34250,6 +34265,7 @@
 .theathematica.info
 .theatresintotales.com
 .thebestgame2020.com
+.thecalokas.com
 .thecarconnections.com
 .thechargenews.com
 .thechleads.pro
@@ -35704,6 +35720,7 @@
 .udtropary.top
 .uduhytyllobm.com
 .udxdkdirwabx.com
+.udzpel.com
 .uecppuciocadi.com
 .uedvxswwfub.com
 .uejntsxdffp.com
@@ -38209,6 +38226,7 @@
 .wmeqobozarqyj.top
 .wmgtr.com
 .wmhwptmsvx.com
+.wmiahgohlf.com
 .wmkyrbx.com
 .wmlbjana.com
 .wmlfyerssqlipx.com
@@ -38765,6 +38783,7 @@
 .xjoyvqpuwzut.com
 .xjrwxfdphc.com
 .xjsx.lol
+.xjupijxdt.xyz
 .xjwcnvnqdm.com
 .xkbgqducppuan.xyz
 .xkbydybnle.com
@@ -39529,6 +39548,7 @@
 .zeepteestaub.com
 .zeeshech.net
 .zeeshith.net
+.zeewhaih.com
 .zefusgk.com
 .zegnoaft.com
 .zegrumse.net
@@ -41285,6 +41305,7 @@
 .d84bc26d.site
 .e076.xyz
 .e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
+.ec44.site
 .f6176563.site
 .fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 .ad.lgappstv.com
@@ -41316,6 +41337,7 @@
 .1085549509.rsc.cdn77.org
 .10945-2.s.cdn15.com
 .10945-5.s.cdn15.com
+.1175980934.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
 .1201741305.rsc.cdn77.org
 .1278977604.rsc.cdn77.org
@@ -41324,6 +41346,7 @@
 .1441085683.rsc.cdn77.org
 .1492697327.rsc.cdn77.org
 .1529462937.rsc.cdn77.org
+.1543481067.rsc.cdn77.org
 .1564285319.rsc.cdn77.org
 .1675450967.rsc.cdn77.org
 .1723614251.rsc.cdn77.org
@@ -42967,6 +42990,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.appsrv.display.io
 .ad.line-scdn.net
 .splash-ad.classting.com
 .ad-files.classting.com
@@ -47010,6 +47034,10 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.femetrics.grammarly.io
+.realtimeanalytics.yext.com
+.stats.indianpornempire.com
+.lp.spac.me
 .analytics.verfacto.com
 .flask.us.nextdoor.com
 .ev.indianexpress.com
@@ -48410,8 +48438,6 @@
 .msmetrics.ws.sonos.com
 .mstat.acestream.net
 .mtp.spaces.im
-.mtp.spaces.ru
-.mtp.spcs.me
 .mva1.maeva.com
 .ncx2.voyage-prive.it
 .newlog.overwolf.com
@@ -51316,6 +51342,7 @@
 .xad.dnoticias.pt
 .adclient-uol.lp.uol.com.br
 .adv.r7.com
+.oilierelixir.com
 .adzonestatic.com
 .adzep.com.br
 .nobeta.com.br
@@ -60430,6 +60457,7 @@
 .cfugrnc.icu
 .chayassa.com
 .cherylssb.com
+.chinaslauras.com
 .cijianggun.com
 .cliffnsc.xyz
 .clmkwi.xyz
@@ -60450,6 +60478,7 @@
 .cvnxetmq.xyz
 .cvudqzoa.xyz
 .cweriof.top
+.cwiuhtp.icu
 .cwssfg632.shop
 .cxlvlbx.xyz
 .cyuwkbf.top
@@ -60530,6 +60559,7 @@
 .ferriesendless.com
 .fhtfnb.xyz
 .fidelius.cn
+.fkhxlz.xyz
 .fmfnrf.xyz
 .fmssoj.icu
 .fmvzzh.xyz
@@ -60551,6 +60581,7 @@
 .gcumgu.xyz
 .gfjn5.xyz
 .gfylyw.xyz
+.ghabnq.xyz
 .ghgasdb365.shop
 .ghgasdt963.shop
 .gicjtss.cn
@@ -60603,6 +60634,7 @@
 .hweriou.top
 .hyusnisu.top
 .hyuwkbu.top
+.icqeou.xyz
 .idffhq.cn
 .ievvo.xyz
 .ihwlek.com
@@ -60637,6 +60669,7 @@
 .jgmywh.icu
 .jhfcll.cn
 .jioed.cyou
+.jivvjl.xyz
 .jmesxbe.icu
 .jnalzla.top
 .jnifdlaa.top
@@ -60669,6 +60702,7 @@
 .knifdlad.top
 .knpkxgfp.xyz
 .koqjok.xyz
+.kovvild.com
 .kpmose.xyz
 .kssolo.com
 .ktoioo.xyz
@@ -60905,6 +60939,7 @@
 .styusib.top
 .superjj.online
 .svncowt.cn
+.sweriob.top
 .swsegi.xyz
 .syuwkbb.top
 .szbhb.cn
@@ -61005,6 +61040,7 @@
 .vioyugo.cn
 .vipgogo123.site
 .vkdgdt.xyz
+.vkguvyg.cn
 .vmnlkr.icu
 .vpzohx.xyz
 .vqbzpv.xyz
@@ -61103,12 +61139,6 @@
 .zhaweifeng.com
 .zhihucloud.xyz
 .zhnnaxe.xyz
-.icqeou.xyz
-.cwiuhtp.icu
-.vkguvyg.cn
-.chinaslauras.com
-.jivvjl.xyz
-.sweriob.top
 .zjrtxt.xyz
 .znhlxvb.xyz
 .zojyob.icu
@@ -61117,6 +61147,12 @@
 .zsjpi.cn
 .zttuvj.xyz
 .ztxjutz.xyz
+.upailek.cn
+.vuyibsm.icu
+.uoosqk.xyz
+.jsxwfb.xyz
+.eweriow.top
+.udxhzqg.cn
 .zuvbzl.xyz
 .zwxxcb.icu
 .zxfdbr.xyz
