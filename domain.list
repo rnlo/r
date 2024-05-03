@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,reactnative.dev
 DOMAIN-SUFFIX,expo.dev
 DOMAIN-SUFFIX,electronjs.org
 DOMAIN-SUFFIX,svelte.dev
+DOMAIN-SUFFIX,tailwindcss.com
 # Servarr
 DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,tmdb.org
