@@ -1,12 +1,16 @@
 from bs4 import BeautifulSoup
 from datetime import datetime
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import pytz
+import random
 import requests
+import time
 import traceback
 
 region_and_flag = {
-    'US': '🇺🇸',  # United States
     'CN': '🇨🇳',  # China
+    'US': '🇺🇸',  # United States
 }
 
 headers = {
@@ -18,10 +22,12 @@ def get_and_parse_data(region_code):
         url = f'https://bgp.he.net/country/{region_code}'
 
         with requests.Session() as session:
+            retries = Retry(total=5, backoff_factor=1, status_forcelist=[ 500, 502, 503, 504 ])
+            session.mount('https://', HTTPAdapter(max_retries=retries))
+
             session.headers.update(headers)
             response = session.get(url)
 
-            # Check if the request was successful
             if response.status_code != 200:
                 print(f"Request to {url} returned status code {response.status_code}.")
                 return None, None
@@ -29,9 +35,8 @@ def get_and_parse_data(region_code):
             soup = BeautifulSoup(response.text, 'html.parser')
             table = soup.find('tbody')
 
-            # Check if table is None
             if table is None:
-                print(f"No table found in the response from {url}.")
+                print(f"No table found in the response from {url} .")
                 return None, None
 
             selected_data = []
@@ -43,9 +48,11 @@ def get_and_parse_data(region_code):
         return selected_data, url
     except requests.exceptions.RequestException as e:
         print(f"Request error occurred while scraping data for region code {region_code}. Error: {e}")
+        return None, None
     except Exception as e:
         print(f"Error occurred while scraping data for region code {region_code}. Error: {e}")
         print(traceback.format_exc())
+        return None, None
 
 def write_data_to_file(region_code, selected_data, url):
     try:
@@ -61,6 +68,12 @@ def write_data_to_file(region_code, selected_data, url):
                 file.write("# https://github.com/rnlo/ASN\n")
                 file.writelines(f"{line}\n" for line in selected_data)
             print(f"{region_code}ASN Generated from {url} and saved to ASN{region_code}.list.")
+
+            # Write the sorted data to another file for all region codes
+            sorted_data = sorted(selected_data)
+            with open(f'A{region_code}.list', 'w') as file:
+                file.writelines(f"{line}\n" for line in sorted_data)
+            print(f"{region_code}ASN Generated from {url} sorted and saved to A{region_code}.list.")
         else:
             print(f"Result has less than 100 lines for {region_code}. Not writing to file.")
     except IOError as e:
@@ -80,27 +93,12 @@ def scrape_data():
                 continue
 
             write_data_to_file(region_code, selected_data, url)
+
+            # Add a random delay between requests
+            time.sleep(random.uniform(3, 10))  # delay for a random number of seconds between 3 and 10
     except Exception as e:
         print(f"Error occurred while scraping data. Error: {e}")
         print(traceback.format_exc())
 
-def get_sorted_data():
-    try:
-        selected_data, url = get_and_parse_data('CN')
-        sorted_data = sorted(selected_data)
-        if len(sorted_data) > 100:
-            with open('ACN.list', 'w') as file:
-                file.writelines(f"{line}\n" for line in sorted_data)
-            print(f"CNASN Generated from {url} and saved to ACN.list.")
-        else:
-            print("Result has less than 100 lines. Not writing to file.")
-        return sorted_data
-    except IOError as e:
-        print(f"IOError occurred while writing data to file. Error: {e}")
-    except Exception as e:
-        print(f"Error occurred while getting sorted data. Error: {e}")
-        print(traceback.format_exc())
-
 if __name__ == "__main__":
     scrape_data()
-    get_sorted_data()
