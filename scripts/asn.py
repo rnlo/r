@@ -95,7 +95,7 @@ def scrape_data():
             write_data_to_file(region_code, selected_data, url)
 
             # Add a random delay between requests
-            time.sleep(random.uniform(3, 10))  # delay for a random number of seconds between 3 and 10
+            time.sleep(random.uniform(2, 5))  # delay for a random number of seconds between * and *
     except Exception as e:
         print(f"Error occurred while scraping data. Error: {e}")
         print(traceback.format_exc())
