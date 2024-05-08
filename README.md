@@ -1,5 +1,7 @@
 \# Temp <https://cdn.jsdelivr.net/gh/rnlo/r@m/temp.list>  
 RULE-SET,<https://raw.githubusercontent.com/rnlo/r/m/temp.list>,🌐 Proxy  
+\# REJECT  
+DOMAIN-SET,<https://raw.githubusercontent.com/rnlo/r/m/dnsfilters.txt>,REJECT  
 \# Clients  
 RULE-SET,<https://raw.githubusercontent.com/rnlo/r/m/Clients.list>,🌐 Proxy  
 \# Domains  
