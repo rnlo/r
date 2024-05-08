@@ -1,7 +1,27 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/07/2024 04:15:54 AM (EST)
-# Total lines: 66556
+# Updated at 05/08/2024 04:14:06 AM (EST)
+# Total lines: 66613
 # https://github.com/rnlo/r
+.fnlojkpbe.com
+.rxvej.com
+.gdecording.info
+.rswhowishedto.info
+.moetconfisk.top
+.swapsprediet.top
+.vocablyheir.top
+.mfbarfvjk.com
+.hcbjuiira.com
+.nosuhplhkvvza.com
+.ffqvjpkwe.com
+.huapydce.xyz
+.aseluosldtabi.com
+.poshyouthfulton.com
+.getadjacent.com
+.pjagilteei.com
+.tjtmjjigtdoah.com
+.odssyvfqrlwwj.com
+.houboajaithu.net
+.nderpurganismpr.info
 .hborq.com
 .oszlnxwqlc.com
 .fkodq.com
@@ -895,6 +915,7 @@
 .hub.fghtem.com
 .adrunnr.com
 .samsungtvads.com
+.dre81lzpy0s7q.cloudfront.net
 .d1nug4fmv8zva9.cloudfront.net
 .d2g6dhcga4weul.cloudfront.net
 .d2ier523in7agz.cloudfront.net
@@ -2133,6 +2154,7 @@
 .a64x.com
 .a69i.com
 .a6dc99d1a8.com
+.a700fb9c8d.com
 .a718917a44.com
 .a899228ebf.com
 .a8rm1m4msbbh.com
@@ -7243,6 +7265,7 @@
 .c71genemobile.com
 .c7d263f5d8.com
 .c7ee346412.com
+.c7vw6cxy7.com
 .c83cf15c4f.com
 .c86e7c49a2.com
 .c8d2c12c98.com
@@ -7851,6 +7874,7 @@
 .chaiphuy.com
 .chaiptefee.com
 .chaiptut.xyz
+.chaipungie.xyz
 .chairgaubsy.com
 .chairmansmile.com
 .chairwaydenew.site
@@ -8230,6 +8254,7 @@
 .ciwhacheho.pro
 .cixaxuyu.xyz
 .cizare.xyz
+.cizzwykcug.com
 .cjcbzqrwwi.com
 .cjewz.com
 .cjf25jklrwqt.com
@@ -9156,6 +9181,7 @@
 .corvetwoorari.com
 .corvinapaella.life
 .corymbszinzar.com
+.cosiequiapo.com
 .cosmatitacker.top
 .cosmeticlevy.com
 .cosmeticsgenerosity.com
@@ -15469,6 +15495,7 @@
 .gloufteglouw.com
 .gloumsee.net
 .gloumsie.net
+.glounugeepse.xyz
 .glouseer.net
 .gloussowu.xyz
 .gloustoa.net
@@ -16304,6 +16331,7 @@
 .hajoopteg.com
 .haksaigho.com
 .halachadivvers.com
+.half-concert.pro
 .halflyfiscal.com
 .halfpriceozarks.com
 .halftimeaircraftsidewalk.com
@@ -16746,6 +16774,7 @@
 .heukwasanasosett.info
 .heusysianedu.com
 .hevc.site
+.hevdnzqu.com
 .hewalleges.guru
 .hewawkward.com
 .hewdisobedienceliveliness.com
@@ -20750,6 +20779,7 @@
 .leedoash.com
 .leefosto.com
 .leegaroo.xyz
+.leeptoadeesh.net
 .leesecobourg.com
 .leesymvlvck.xyz
 .leetaipt.net
@@ -20986,6 +21016,7 @@
 .lihhxayjmr.com
 .lihuwvokhonsni.com
 .liivhntsu.com
+.lijybcfgnjh.com
 .likeads.com
 .likecontrol.com
 .likedpatpresent.com
@@ -22257,6 +22288,7 @@
 .mbvfawgcsnukb.com
 .mbvlmx.com
 .mbvlmz.com
+.mbvndisplay.site
 .mbvsm.com
 .mbxudcghfy.com
 .mc7clurd09pla4nrtat7ion.com
@@ -25934,6 +25966,7 @@
 .overdates.com
 .overdonealthough.com
 .overduerebukeloyal.com
+.overduerole.com
 .overestimateoption.com
 .overestimateyearly.com
 .overgalladean.com
@@ -28480,6 +28513,7 @@
 .puerq.com
 .puerty.com
 .puffexies.com
+.puffingtiffs.com
 .pugdisguise.com
 .pugehjjxdr.xyz
 .pughoomo.xyz
@@ -31711,6 +31745,7 @@
 .shaledpaidle.com
 .shallarchbishop.com
 .shallotuncord.com
+.shallowtwist.pro
 .shalomitll.top
 .shalse.com
 .shameless-sentence.pro
@@ -31732,6 +31767,7 @@
 .shareitpp.com
 .shareresults.com
 .sharesceral.uno
+.shareusads.com
 .shareweeknews.com
 .sharieta.com
 .sharion.xyz
@@ -32894,7 +32930,6 @@
 .spotbeepgreenhouse.com
 .spotdimesulky.com
 .spotlessabridge.com
-.spotlightstores.com
 .spotofspawn.com
 .spotrails.com
 .spotscenered.info
@@ -38403,6 +38438,7 @@
 .wlimrvsnusyawk.com
 .wlmitgzbht.com
 .wlvkzwqjlyzvr.top
+.wlwbjjphtza.com
 .wlyfiii.com
 .wlzzwzekkrrzw.top
 .wma.io
@@ -40542,6 +40578,7 @@
 .ahvclick.com
 .aim4media.com
 .ainsyndication.com
+.airfind.com
 .akavita.com
 .aklamator.com
 .alienhub.xyz
@@ -41279,7 +41316,6 @@
 .smartad.ee
 .smartadtags.com
 .smartadv.ru
-.smartframe.io
 .smartico.one
 .smarttargetting.net
 .smartyads.com
@@ -41484,6 +41520,7 @@
 .3a2e.site
 .48a16802.site
 .4a0e.xyz
+.4aae8f.site
 .4e55.xyz
 .4e68.xyz
 .58e0.site
@@ -41542,12 +41579,14 @@
 .1201741305.rsc.cdn77.org
 .1278977604.rsc.cdn77.org
 .1288151678.rsc.cdn77.org
+.1299757727.rsc.cdn77.org
 .1312907885.rsc.cdn77.org
 .1437953666.rsc.cdn77.org
 .1441085683.rsc.cdn77.org
 .1473763790.rsc.cdn77.org
 .1492697327.rsc.cdn77.org
 .1529462937.rsc.cdn77.org
+.1541233801.rsc.cdn77.org
 .1543481067.rsc.cdn77.org
 .1548164934.rsc.cdn77.org
 .1564285319.rsc.cdn77.org
@@ -43198,6 +43237,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.mediation.unity3d.com
 .cdn-ad.wtzw.com
 .appsrv.display.io
 .ad.line-scdn.net
@@ -43214,7 +43254,6 @@
 .ads.rmbl.ws
 .adsassets-ipv6.waze.com
 .iads.unity3d.com
-.o-iab.mediation.unity3d.com
 .togothermany.com
 .gdl.zmqdez.ru
 .rtblab.net
@@ -47242,6 +47281,7 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.stats.myserverhome.de
 .amethyst.6pm.com
 .lma.npaw.com
 .collect.alphastream.io
@@ -50636,6 +50676,7 @@
 .telemetry.goodlifefitness.com
 .telemetry.phenixrts.com
 .telemetry.reembed.com
+.telemetry.smartframe.io
 .telemetry.tableausoftware.com
 .telemetry.vtex.com
 .test.takedwn.ws
@@ -50685,6 +50726,7 @@
 .tracker.novage.com.ua
 .tracker.openwebtorrent.com
 .tracker.services.vaix.ai
+.tracker.smartframe.io
 .tracker.ssl0d.com
 .tracker.timesgroup.com
 .tracker.wigzopush.com
@@ -51563,6 +51605,7 @@
 .xad.dnoticias.pt
 .adclient-uol.lp.uol.com.br
 .adv.r7.com
+.assets.etus.digital
 .lyappreciat.info
 .adzonestatic.com
 .adzep.com.br
@@ -51656,6 +51699,9 @@
 .templates.buscape.com
 .yestorrents.org
 .oecistbenton.com
+.tzbirdcod.com
+.audiotouch.info
+.videotouch88.info
 .ippunet.site
 .ssrv7.com
 .zszhfffyd.ru
@@ -53667,6 +53713,7 @@
 .exchange.informer.ua
 .hdvmyo.com
 .adsy.mail.bg
+.yonderdim.com
 .gr.hdream.cfd
 .kriptoparahaber.care
 .alty.fun
@@ -56182,8 +56229,10 @@
 .log.baodatviet.vn
 .log.baodauthau.vn
 .log.baogialai.com.vn
+.log.baolaocai.vn
 .log.baonghean.vn
 .log.baophapluat.vn
+.log.baovanhoa.vn
 .log.beecost.com
 .log.beecost.vn
 .log.bizlive.vn
@@ -60593,13 +60642,6 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
-.hty9m.cn
-.hgfutf.xyz
-.yxgqgq.xyz
-.sxoejoc.icu
-.verstug.cn
-.muntfd62.shop
-.uweriot.top
 .0322cfmtl.cc
 .0940088.com
 .0j775d.cn
@@ -60881,6 +60923,7 @@
 .hendehy.com
 .hexcvb.xyz
 .hfbfbvmjdmxc.com
+.hgfutf.xyz
 .hgthpj.xyz
 .hhffks967.shop
 .hhffnu135.shop
@@ -60895,11 +60938,14 @@
 .hnifdlau.top
 .hozatr.xyz
 .hptyp.icu
+.hpy9w.cn
+.hqhspv.xyz
 .hrjctx.xyz
 .hrnkdr.xyz
 .hspdiom.cn
 .hsutav.icu
 .hsvchnsvncvvd.com
+.hty9m.cn
 .htyusiu.top
 .hubgets.cn
 .huuocxu.icu
@@ -60971,6 +61017,7 @@
 .kgqcse.xyz
 .khcsvdc.icu
 .khzyojb.cn
+.kjubky.xyz
 .kkjhgfds.top
 .kksjsa.top
 .knalzld.top
@@ -61014,6 +61061,7 @@
 .lulxzl.xyz
 .luofk.xyz
 .lvdedf.xyz
+.lveodaz.icu
 .lvphbj.xyz
 .lwrohd.xyz
 .ly55442.com
@@ -61041,6 +61089,7 @@
 .mtddqjk.cn
 .mthhhuq.cn
 .mtwmuy.xyz
+.muntfd62.shop
 .mxeq.cn
 .naihyvz.cn
 .nawpyd.icu
@@ -61090,6 +61139,7 @@
 .otmebdr.cn
 .ovjlccs.xyz
 .oweeiyw.icu
+.oweriok.top
 .oxkyaq.xyz
 .oxvlxwz.xyz
 .oyuwkbk.top
@@ -61126,6 +61176,7 @@
 .pwhkfd.xyz
 .pwhtip.icu
 .pxzrlf.xyz
+.pzfqzv.xyz
 .q02orc.cn
 .qbhzghb.xyz
 .qcepqj.icu
@@ -61228,6 +61279,7 @@
 .svncowt.cn
 .sweriob.top
 .swsegi.xyz
+.sxoejoc.icu
 .syuwkbb.top
 .szbhb.cn
 .szfmr.cn
@@ -61311,6 +61363,7 @@
 .uunfybw.cn
 .uuvzmba.cn
 .uvklgw.xyz
+.uweriot.top
 .uxlvk.cn
 .uxrdg.cn
 .uxzvjoj.cn
@@ -61325,6 +61378,7 @@
 .vdvcjlp.cn
 .veaiyl.icu
 .vejhln.xyz
+.verstug.cn
 .vfchm.cyou
 .vflorp.xyz
 .vgzytn.xyz
@@ -61423,6 +61477,7 @@
 .yvudqzoa.xyz
 .yvwuesh.icu
 .ywhws.cn
+.yxgqgq.xyz
 .yyddkm526.shop
 .yyttmyy.cn
 .zagyjnn.cn
@@ -61442,12 +61497,14 @@
 .zsjpi.cn
 .zttuvj.xyz
 .ztxjutz.xyz
-.hpy9w.cn
-.kjubky.xyz
-.hqhspv.xyz
-.lveodaz.icu
-.oweriok.top
-.pzfqzv.xyz
+.eoucxzw.icu
+.fzasx.cn
+.pajtll.xyz
+.wismog.xyz
+.bydebd.xyz
+.lweriol.top
+.nrbqgf.cn
+.qmgria.cn
 .zuvbzl.xyz
 .zwdtvx.xyz
 .zwxxcb.icu
