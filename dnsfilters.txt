@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/08/2024 04:14:06 AM (EST)
-# Total lines: 66613
+# Updated at 05/09/2024 04:16:21 AM (EST)
+# Total lines: 66623
 # https://github.com/rnlo/r
 .fnlojkpbe.com
 .rxvej.com
@@ -41515,6 +41515,7 @@
 .googlevads-cn.com
 .02777e.site
 .05751c.site
+.07e197.site
 .295c.site
 .2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 .3a2e.site
@@ -55583,6 +55584,7 @@
 .bcajjtbzmdrl.com
 .bubblekraken.com
 .cea9d3d4f74fb831.com
+.chitchooms.net
 .chqspuonctkgz.com
 .craydark.pw
 .d0p21g2fep.com
@@ -61505,6 +61507,14 @@
 .lweriol.top
 .nrbqgf.cn
 .qmgria.cn
+.robudpw.cn
+.qmbdta.cn
+.pklujb.xyz
+.nkbpft.xyz
+.xmkmryu.icu
+.iuqasw.xyz
+.cgidskif.top
+.54gtlb.cn
 .zuvbzl.xyz
 .zwdtvx.xyz
 .zwxxcb.icu
