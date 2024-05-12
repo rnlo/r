@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/11/2024 04:15:17 AM (EST)
-# Total lines: 66673
+# Updated at 05/12/2024 04:15:38 AM (EST)
+# Total lines: 66699
 # https://github.com/rnlo/r
 .buyvisblog.com
 .fnlojkpbe.com
@@ -1720,6 +1720,7 @@
 .42jdbcb.de
 .435a63dad5.com
 .43bb528775.com
+.43ors1osh.com
 .43sjmq3hg.com
 .43t53c9e.de
 .44288fa514.com
@@ -1898,6 +1899,7 @@
 .6a34d15d38.com
 .6af461b907c5b.com
 .6b70b1086b.com
+.6b856ee58e.com
 .6bgaput9ullc.com
 .6cadb63a7a.com
 .6ce02869b9.com
@@ -5528,6 +5530,7 @@
 .bceptemujahb.com
 .bcfaonqj.com
 .bcffkvpjqferl.com
+.bcfimttr.com
 .bchkhtyns.com
 .bckqdynigv.com
 .bclikeqt.com
@@ -9902,6 +9905,7 @@
 .dangerouslyeragruff.com
 .dangerouslygluttony.com
 .dangerouslyprudent.com
+.dangerousratio.pro
 .dangerswitty.com
 .dangingspuggy.top
 .danitemalus.life
@@ -20441,6 +20445,7 @@
 .kzkmmbrrzn.com
 .kzknjdlalls.com
 .kzt2afc1rp52.com
+.kzzwi.com
 .l-iw.de
 .l1native.com
 .l1vec4ms.com
@@ -21501,6 +21506,7 @@
 .loudlongerfolk.com
 .lougougauhi.xyz
 .louisaprocedureegoism.com
+.louisedistanthat.com
 .loukoost.net
 .louloapi.com
 .loulouly.net
@@ -24425,6 +24431,7 @@
 .notdyedfinance.com
 .notebookbesiege.com
 .notebookmedicine.com
+.noted-factor.pro
 .notepastaparliamentary.com
 .notepositivelycomplaints.com
 .notesbook.in
@@ -26425,6 +26432,7 @@
 .pascualpecked.top
 .pasenhlbot.com
 .paservices.tech
+.pasjcutadak.com
 .paslsa.com
 .pasoleex.com
 .pasoshardy.com
@@ -28783,6 +28791,7 @@
 .pycvlnu.com
 .pygopodwrytailbaskett.sbs
 .pyhdvvimr.com
+.pyknrhm5c.com
 .pympbhxyhnd.xyz
 .pyract.com
 .pyrexikon.com
@@ -30974,6 +30983,7 @@
 .sabredbegulf.top
 .sabrinacaulked.com
 .sackbarngroups.com
+.sackerskips.com
 .sacquebenzine.com
 .sacredperpetratorbasketball.com
 .sacrificeaffliction.com
@@ -34569,6 +34579,7 @@
 .thereuponprevented.com
 .thereuponscare.com
 .thermometerdoll.com
+.thermometerinconceivablewild.com
 .thermometertally.com
 .thescads.com
 .thesekid.pro
@@ -37107,6 +37118,7 @@
 .videoaccess.xyz
 .videobaba.xyz
 .videocampaign.co
+.videocdnshop.com
 .videosprofitnetwork.com
 .videosworks.com
 .videovard.sx
@@ -37841,6 +37853,7 @@
 .waynagmay.com
 .wazaki.xyz
 .wazctigribhy.com
+.wazduzrhiki.com
 .wazensee.net
 .waztahsmal.com
 .wazzeyzloayz.top
@@ -38413,6 +38426,7 @@
 .withholdstandstill.com
 .withinresentful.com
 .withinsdraco.com
+.withnimskither.com
 .withoutcontrol.com
 .witlayvet.com
 .witnessedcompany.com
@@ -39401,6 +39415,7 @@
 .yfykzbhaiuzbht.com
 .ygeqiky.com
 .ygkwjd.xyz
+.ygvqughn.com
 .ygzkedoxwhqlzp.com
 .yhazrfacxd.com
 .yhbcii.com
@@ -39588,6 +39603,7 @@
 .yphdrphx.xyz
 .ypkljvp.com
 .ypmohjxp.com
+.yptjqrlbawn.xyz
 .yqblutkjhx.com
 .yqeuu.com
 .yqgmvxufpkr.com
@@ -41563,6 +41579,7 @@
 .b9f25b.site
 .bcbe.site
 .ca3d.site
+.ca9246.xyz
 .d84bc26d.site
 .e076.xyz
 .e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
@@ -50230,6 +50247,7 @@
 .cache2.delvenetworks.com
 .cahf4eed.mooo.com
 .calltrack.co
+.calvera-telemetry.polaris.me
 .camel.headfarming.com
 .capture-api.ap3prod.com
 .capture.condenastdigital.com
@@ -61564,7 +61582,15 @@
 .feptbh.xyz
 .igidskio.top
 .adlhxwb.xyz
-.6b856ee58e.com
+.zrdga.cn
+.lmvotk.cn
+.cwgucvm.icu
+.forrzp.xyz
+.arkkcu.xyz
+.jgidskia.top
+.fhvzrr.xyz
+.mnpzrgz.xyz
+.pwuxnr.cn
 .zuvbzl.xyz
 .zwdtvx.xyz
 .zwxxcb.icu
