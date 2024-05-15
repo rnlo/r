@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,mtcaptcha.com
 # dev
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,brew.sh
