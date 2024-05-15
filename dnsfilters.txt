@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/14/2024 04:17:15 AM (EST)
-# Total lines: 66760
+# Updated at 05/15/2024 04:16:21 AM (EST)
+# Total lines: 66799
 # https://github.com/rnlo/r
+.gussiessmutchy.com
 .cfusionsys.com
 .zmonei.com
 .fnaycb.com
@@ -3100,6 +3101,7 @@
 .adxchg.com
 .adxfire.in
 .adxfire.net
+.adxhand.name
 .adxion.com
 .adxite.com
 .adxnexus.com
@@ -3879,6 +3881,7 @@
 .amnoctowlan.club
 .amnruvbmeoqp.com
 .amntx1.net
+.amnwpircuomd.com
 .amoddishor.com
 .amofqosgs.com
 .amonar.com
@@ -6898,6 +6901,7 @@
 .bromisescapose.com
 .bromoilnapalms.com
 .bromusic.site
+.bromusic3s.site
 .bronchichogset.com
 .broncogainer.top
 .bronzeinside.com
@@ -17026,6 +17030,7 @@
 .hjqdwmekhur.com
 .hjrvsw.info
 .hjrwwwlqcovom.com
+.hjuswoulvp.xyz
 .hjxajf.com
 .hjyovlwtevwdjy.com
 .hkeibmpspxn.com
@@ -18819,6 +18824,7 @@
 .ivycarryingpillar.com
 .iwantuonly.com
 .iwantusingle.com
+.iwaxurhebkn.com
 .iwdapjojrylh.xyz
 .iwevxujxzdpb.com
 .iwfxgkixsoma.com
@@ -22742,6 +22748,7 @@
 .milljeanne.com
 .millsurfaces.com
 .millustry.top
+.milteept.xyz
 .miltlametta.com
 .miluwo.com
 .mimicbeeralb.com
@@ -23012,6 +23019,9 @@
 .mobifoth.com
 .mobile5shop.com
 .mobiledevel.com
+.mobileoffers-7-j-download.com
+.mobileoffers-dld-download.com
+.mobileoffers-downloadapp-a.com
 .mobileoffers-ep-download.com
 .mobilepreviouswicked.com
 .mobiletracking.ru
@@ -23156,6 +23166,7 @@
 .moonheappyr.com
 .moonicorn.network
 .moonjahaphodal.com
+.moonjscdn.info
 .moonoafy.net
 .moonovernegril.com
 .moonrocketaffiliates.com
@@ -23692,6 +23703,7 @@
 .naipatouz.com
 .naipsouz.net
 .nairapp.com
+.naisepsaige.com
 .naiskosungueal.top
 .naisoops.net
 .naive-skin.pro
@@ -29010,6 +29022,7 @@
 .qnkqurpyntrs.xyz
 .qnlranvabaqk.top
 .qnlranvabrnq.top
+.qnp16tstw.com
 .qnqzbfgg.com
 .qnrscbotmsj.com
 .qnsr.com
@@ -29498,6 +29511,7 @@
 .rcvlinks.com
 .rcvsmbawwqodqt.com
 .rcwuzudjcsjmr.com
+.rd-cdnp.name
 .rddywd.com
 .rderstartirrelea.info
 .rdgdjmgll.com
@@ -33108,6 +33122,7 @@
 .stacckain.com
 .stackadapt.com
 .stackattacka.com
+.stackmultiple.com
 .stackprotectnational.com
 .staerlcmplks.xyz
 .staffdollar.com
@@ -33699,6 +33714,7 @@
 .sunkenhexapla.top
 .sunkwarriors.com
 .sunlightirrationalhearty.com
+.sunmediaads.com
 .sunnycategoryopening.com
 .sunnyscanner.com
 .sunnyseries.com
@@ -38509,6 +38525,7 @@
 .wmaoviagmphst.com
 .wmaoxrk.com
 .wmbbsat.com
+.wmcdpt.com
 .wmdymnqzhbo.com
 .wmdzefk.com
 .wmeqobozarqyj.top
@@ -41610,6 +41627,7 @@
 .bcbe.site
 .ca3d.site
 .ca9246.xyz
+.caa2c4.xyz
 .d84bc26d.site
 .e076.xyz
 .e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
@@ -47360,6 +47378,9 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.tracking.carsales.com.au
+.beacon.nc-net.or.jp
+.lhe-beacon.team-rec.jp
 .analytics.andisearch.com
 .stlog.dmarket.docomo.ne.jp
 .stats.myserverhome.de
@@ -49327,7 +49348,6 @@
 .tracking.bdi-services.de
 .tracking.bloomberg.com
 .tracking.bonnier.news
-.tracking.carsales.com.au
 .tracking.chacha.com
 .tracking.channelsight.com
 .tracking.conduit.com
@@ -55803,13 +55823,18 @@
 .anthill.vn
 .anymind360-com.cdn.ampproject.org
 .api.nas.nct.vn
+.api.subiz.com.vn
+.api.subiz.net
+.api.subiz.xyz
 .api.widget.zalo.me
 .apilog.mytvnet.vn
 .apilogduration.mytvnet.vn
 .apinas.nct.vn
+.apiv4.subiz.com
 .app.harafunnel.com
 .app.haraloyalty.com
 .app.harasocial.com
+.app.subiz.com.vn
 .apps.haraads.com
 .assets.harafunnel.com
 .atdnetwork.com
@@ -55942,6 +55967,7 @@
 .promotionbar.sapoapps.vn
 .promotionpopup.sapoapps.vn
 .pub.akadigital.vn
+.public-gcs.subiz-cdn.com
 .pushdi.com
 .pushdy.com
 .pushdy.vn
@@ -55973,6 +55999,7 @@
 .stat.play.zing.vn
 .static-addtoany-com.cdn.ampproject.org
 .static.accesstrade.vn
+.static.subiz.com
 .statistic-blog-v2.sapoapps.vn
 .stats.dev.zaloapp.com
 .stats.hara.vn
@@ -55981,11 +56008,6 @@
 .stats.stg.zaloapp.com
 .stats.zaloapp.com
 .stc-support-app-brand.zdn.vn
-.subiz-cdn.com
-.subiz.com
-.subiz.com.vn
-.subiz.net
-.subiz.xyz
 .surfcountor.com
 .syndication.adlinknetwork.vn
 .t.sieu-viet.com
@@ -56020,6 +56042,7 @@
 .v9banners-com.cdn.ampproject.org
 .vads.net.vn
 .vads.vn
+.vcdn.subiz-cdn.com
 .viam.com.vn
 .vietnamnetad.vn
 .vipads.cc
@@ -56030,6 +56053,10 @@
 .watanet.work
 .wg.zaloapp.com
 .widget.chat.zalo.me
+.widget.subiz.com
+.widget.subiz.net
+.widget.subiz.xyz
+.widgetv4.subiz.com
 .wiinvent.com.vn
 .wiinvent.tv
 .yeah1publishing.com
@@ -56615,6 +56642,7 @@
 .9g5lm9.cyou
 .9smomo.com
 .Free-4paid.com
+.a.viethu.com
 .a666.vn
 .aaeeonmart.com
 .abb-vnbank.cc
@@ -61652,6 +61680,17 @@
 .sgidskib.top
 .pxtjfmv.xyz
 .mqsjzm.cn
+.qwsanan.top
+.zhengzhou12.top
+.egidskiw.top
+.prpmdp.xyz
+.kbexos.xyz
+.vfxrpl.xyz
+.hgcgnfe.icu
+.07dy.cc
+.nuxwlc.cn
+.ta20k.xyz
+.bpxbzps.xyz
 .zuvbzl.xyz
 .zwdtvx.xyz
 .zwxxcb.icu
