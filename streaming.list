@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,uplynk.com //abc
 DOMAIN-SUFFIX,cloudfront.net //live service
 DOMAIN-SUFFIX,amazon.dev //freeve
 DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,firetvcaptiveportal.com
 DOMAIN-SUFFIX,chdrstatic.com
