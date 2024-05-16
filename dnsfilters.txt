@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/15/2024 04:16:21 AM (EST)
-# Total lines: 66799
+# Updated at 05/16/2024 04:13:46 AM (EST)
+# Total lines: 66824
 # https://github.com/rnlo/r
+.pushatomic.com
 .gussiessmutchy.com
 .cfusionsys.com
 .zmonei.com
@@ -1864,6 +1865,7 @@
 .5vpbnbkiey24.com
 .5wuefo9haif3.com
 .5xd3jfwl9e8v.com
+.6-partner.com
 .6001628d3d.com
 .600z.com
 .6061de8597.com
@@ -10458,6 +10460,7 @@
 .dessly.ru
 .destinationoralairliner.com
 .destinedsponsornominate.com
+.destinysfavored.xyz
 .destroyedspear.com
 .destructionhybrids.com
 .desugeng.xyz
@@ -15054,6 +15057,7 @@
 .gecl.xyz
 .geechaid.xyz
 .geedoovu.net
+.geegleshoaph.com
 .geeksundigne.com
 .geerairu.net
 .geethaihoa.com
@@ -16914,6 +16918,7 @@
 .higheurest.com
 .highjackclients.com
 .highjournalistbargain.com
+.highlevelbite.com
 .highlypersevereenrapture.com
 .highlyrecomemu.info
 .highmaidfhr.com
@@ -24811,6 +24816,7 @@
 .oacfxrqghamyaq.com
 .oachailo.net
 .oackoubs.com
+.oackoulimtoo.com
 .oadrojoa.net
 .oadsaurs.net
 .oadsouzi.net
@@ -26168,6 +26174,7 @@
 .oypucuqsuwabnxy.com
 .oysterexhalereview.com
 .oysterfoxfoe.com
+.oyuvcqmqjyrqd.com
 .oywzrri.com
 .oyxctgotabvk.com
 .oyyihttyklfwcgy.xyz
@@ -28144,6 +28151,7 @@
 .professionalsly.com
 .professionalswebcheck.com
 .professmeeting.com
+.professorrevealingoctopus.com
 .professtrespass.com
 .proffering.xyz
 .profi-para.com
@@ -41629,6 +41637,7 @@
 .ca9246.xyz
 .caa2c4.xyz
 .d84bc26d.site
+.d980ed.xyz
 .e076.xyz
 .e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 .ec44.site
@@ -47378,6 +47387,7 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.temp.twicomi.com
 .tracking.carsales.com.au
 .beacon.nc-net.or.jp
 .lhe-beacon.team-rec.jp
@@ -51039,9 +51049,11 @@
 .businessclick.ch
 .content-garden.com
 .contiamo.com
+.counter-zaehler.de
 .dcmn.io
 .dl8.me
 .etrust.eu
+.fast-counter.net
 .giga-abs.de
 .haymarketstat.de
 .hstrck.com
@@ -51436,6 +51448,7 @@
 .trecker.aklamio.com
 .vtrtl.de
 .webcounter.goweb.de
+.wranalytics.wildrocket.io
 .x.bloggurat.net
 .zs.dhl.de
 .affiliation.planethoster.info
@@ -53816,6 +53829,7 @@
 .exchange.informer.ua
 .hdvmyo.com
 .adsy.mail.bg
+.ad-service.shop
 .yonderdim.com
 .gr.hdream.cfd
 .kriptoparahaber.care
@@ -54586,6 +54600,7 @@
 .bd742.com
 .cdu-offline.de
 .dierussensindschuld.de
+.fantecio.com
 .gayads.biz
 .gema-online.de
 .holyjesus.de
@@ -54593,6 +54608,7 @@
 .swissadserver.ch
 .wirverkaufennichts.de
 .wixnm.com
+.zazufi.com
 .4rm.de
 .a.partner-versicherung.de
 .a3h.de
@@ -54833,7 +54849,6 @@
 .youspacko.com
 .z0a.de
 .za-ads.de
-.zazufi.com
 .zieltracker.de
 .zuppelzockt.com
 .zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
@@ -55394,6 +55409,7 @@
 .www.blogtoplist.se
 .www.championsverige.com.se
 .www.fakturino.se
+.www.filasverigese.com
 .www.guesssverige.com.se
 .www.kundvisaren.se
 .www.mymediaindex.com
@@ -61690,6 +61706,15 @@
 .07dy.cc
 .nuxwlc.cn
 .ta20k.xyz
+.awunkse72.shop
+.cergbtb36.shop
+.gaochen12.top
+.azsqkrc.icu
+.wgidskie.top
+.bqnxff.xyz
+.wacisi.xyz
+.dpzplb.xyz
+.fredum.cn
 .bpxbzps.xyz
 .zuvbzl.xyz
 .zwdtvx.xyz
