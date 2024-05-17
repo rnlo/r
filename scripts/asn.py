@@ -43,7 +43,7 @@ def get_and_parse_data(region_code):
             for row in table.find_all('tr'):
                 columns = row.find_all('td')
                 if len(columns) > 2 and columns[0].text.strip().startswith("AS"):
-                    if columns[1].text.strip() != '' or columns[2].text.strip() != '0':
+                    if columns[2].text.strip() != '0':
                         selected_data.append(columns[0].text.strip().replace("AS", "IP-ASN,"))
         return selected_data, url
     except requests.exceptions.RequestException as e:
