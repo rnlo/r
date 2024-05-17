@@ -109,6 +109,7 @@ async function copyFilesToDestination (fileNamesDict) {
         console.log(`File copied from ${fileNames[index]} and added to ${destinationFileName}.`)
       }
     }
+    lines.push('')
     await fs.writeFile(destinationFilePath, lines.join('\n'))
   }
 }
