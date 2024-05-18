@@ -17,8 +17,8 @@ filter_parameters = {
     },
     "lines_to_exclude": {
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list",
-        "example1.example.com",
-        "example2.example.com"
+        "DOMAIN-SUFFIX,cloudfront.net",
+        "DOMAIN-SUFFIX,example.example.com"
     }
 }
 
