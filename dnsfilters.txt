@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/19/2024 04:14:49 AM (EST)
-# Total lines: 66932
+# Updated at 05/20/2024 04:16:49 AM (EST)
+# Total lines: 66941
 # https://github.com/rnlo/r
 .lwjje.com
 .mhcfsjbqw.com
@@ -12008,6 +12008,7 @@
 .edwate.com
 .edwfdhkgnx.com
 .edxfquupejhbrey.com
+.edzwmobmj.com
 .ee625e4b1d.com
 .ee6a35c1eeee.com
 .eeab79bf10.com
@@ -38182,7 +38183,6 @@
 .wgchrrammzv.com
 .wghzbgmjpyig.com
 .wgkggub.com
-.wgplayer.com
 .wgpsjcpdulptl.com
 .wgsxteihr.com
 .wgxpirautgxpap.com
@@ -41681,6 +41681,7 @@
 .4e55.xyz
 .4e68.xyz
 .58e0.site
+.634369.xyz
 .657475b7-0095-478d-90d4-96ce440604f9.online
 .68646f.xyz
 .7e809ed7-e553-4e29-acb1-4e3c0e986562.site
@@ -41922,6 +41923,7 @@
 .track.10bet.com
 .trendads.reactivebetting.com
 .typicalstudent.org
+.universal.wgplayer.com
 .vice-publishers-cdn.vice.com
 .video-ads.a2z.com
 .videosvc.ezoic.com
@@ -41941,6 +41943,7 @@
 .widgets.tree.com
 .winonexd.b-cdn.net
 .wixlabs-adsense-v3.uc.r.appspot.com
+.wpb.wgplayer.com
 .yield-op-idsync.live.streamtheworld.com
 .zv.7vid.net
 .ad.intl.xiaomi.com
@@ -56244,6 +56247,7 @@
 .ads.phunusuckhoe.vn
 .ads.phunuvagiadinh.vn
 .ads.salemall.vn
+.ads.seovietnam.pro
 .ads.sexyland.vn
 .ads.songmoi.vn
 .ads.suckhoegiadinh.com.vn
@@ -61824,6 +61828,11 @@
 .999fb.cn
 .ltfpbp.xyz
 .foscvbu.icu
+.ajkggo.xyz
+.kzpizjp.cn
+.ogidskik.top
+.yhimpnr.icu
+.tdhnxf.xyz
 .zuvbzl.xyz
 .zwdtvx.xyz
 .zwxxcb.icu
