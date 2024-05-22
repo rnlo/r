@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/21/2024 04:16:17 AM (EST)
-# Total lines: 67332
+# Updated at 05/22/2024 04:17:14 AM (EST)
+# Total lines: 67369
 # https://github.com/rnlo/r
+.synchroscript.deliveryengine.adswizz.com
 .pubtrky.com
 .mpqgoircwb.com
 .moawgsfidoqm.com
@@ -8280,6 +8281,7 @@
 .cipangobesots.com
 .cipdn.com
 .cipledecline.buzz
+.cippusforebye.com
 .cirazi.com
 .circuitingratitude.com
 .circumscribestallion.com
@@ -10952,7 +10954,6 @@
 .distantsoil.com
 .distilinborn.com
 .distiljunctioninstallation.com
-.distilled.ie
 .distinct-bicycle.com
 .distinguishedshrug.com
 .distinguishtendhypothesis.com
@@ -12770,6 +12771,7 @@
 .escers.com
 .escharatheins.com
 .escthermae.com
+.esculicturbans.com
 .esculinconsent.top
 .escy55gxubl6.com
 .esdcubited.uno
@@ -14930,6 +14932,7 @@
 .galileesubvii.digital
 .galiowen.com
 .galjwnhotubfg.com
+.galleonpiotine.com
 .galleyssleeps.top
 .gallonranchwhining.com
 .gallopextensive.com
@@ -15549,6 +15552,7 @@
 .gloognoogrix.com
 .gloogruk.com
 .gloolrey.com
+.glooltoora.net
 .gloomfabricgravy.com
 .gloomilybench.com
 .gloomilychristian.com
@@ -15773,6 +15777,7 @@
 .gomain2.pro
 .gomastabrat.com
 .gomnlt.com
+.gonairoomsoo.xyz
 .gondwrists.life
 .goneawaytogy.info
 .goneryacked.top
@@ -18479,6 +18484,7 @@
 .instinctivetheeexemplify.com
 .institutehopelessbeck.com
 .instituteplump.com
+.instopvials.com
 .instraffic.com
 .instructionluxuriant.com
 .instructionwantsflew.com
@@ -23153,6 +23159,7 @@
 .molypsigry.pro
 .momclumsycamouflage.com
 .momdljpsn.com
+.momecubane.com
 .momentarilyhalt.com
 .momentincorrect.com
 .momentumgreenhouseexpert.com
@@ -27179,6 +27186,7 @@
 .picturecorrespond.com
 .pieceresponsepamphlet.com
 .piecreatefragment.com
+.pienbitore.com
 .pieproficientcurve.com
 .piercedlugs.com
 .piercepavilion.com
@@ -29863,6 +29871,7 @@
 .refpanglbvyd.top
 .refpasrasw.world
 .refpaxfbvjlw.top
+.refractfunkia.com
 .refraingene.com
 .refraintupaiid.com
 .refreshinghike.com
@@ -30351,6 +30360,7 @@
 .rhendam.com
 .rheneapfg.com
 .rhesusvitrite.com
+.rhinioncappers.com
 .rhinocerosobtrusive.com
 .rhjcnfypo.com
 .rhjqirhsue.com
@@ -30593,6 +30603,7 @@
 .robotrenamed.com
 .robsbogsrouse.com
 .robspabah.com
+.robssukey.com
 .robunderstanding.com
 .rocco-fvo.com
 .rochesterbreedpersuade.com
@@ -41687,6 +41698,7 @@
 .02777e.site
 .05751c.site
 .07e197.site
+.1116c5.xyz
 .1350c3.xyz
 .20519a.xyz
 .295c.site
@@ -44047,6 +44059,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sync.outbrain.com
+.elb.the-ozone-project.com
 .pbcs.nypost.com
 .pbcs.decider.com
 .pbcs.pagesix.com
@@ -44114,6 +44128,7 @@
 .citrusad.net
 .pubperf.com
 .stats.getaim.org
+.dev-analytics-cf.bigcrunch.com
 .analytics-cf.bigcrunch.com
 .tongjiniao.com
 .first-id.fr
@@ -47481,6 +47496,10 @@
 .wizaly.com
 .affex.org
 .tagman.britishairways.com
+.tracking-api.passeidireto.com
+.analytics.lasegunda.ecn.cl
+.analytics.emol.com
+.webc2s.pubgw.yahoo.com
 .tracking.cosme.net
 .matomo.motorpresse.de
 .matomo.menshealth.de
@@ -50853,7 +50872,6 @@
 .sunlightmetrics.b-cdn.net
 .survey.interquest.com
 .surveywall-api.survata.com
-.sync.outbrain.com
 .t.a3cloud.net
 .t.auditedmedia.org.au
 .t.bimvid.com
@@ -51793,7 +51811,6 @@
 .stat.ringier.sk
 .1to1.bbva.com
 .analitica.webrpp.com
-.analytics.lasegunda.ecn.cl
 .analytics.mercadolibre.com
 .analytics.neoogilvy.uy
 .bpt.webedia-group.com
@@ -53937,6 +53954,7 @@
 .exchange.informer.ua
 .hdvmyo.com
 .adsy.mail.bg
+.kingads2.org
 .ad-service.shop
 .yonderdim.com
 .gr.hdream.cfd
@@ -62224,11 +62242,30 @@
 .rayajmp.icu
 .ca2686564a.com
 .dpedrt.xyz
+.csylief.top
+.yhgfoe.xyz
+.kytbxcl.cn
+.sahqoo.com
+.bxlmrl.xyz
+.kyokglm.icu
+.zca31.com
 .zuvbzl.xyz
 .zwdtvx.xyz
 .zwxxcb.icu
 .zxfdbr.xyz
 .zxqiwe.cn
+.555bbb777www.com
+.66308888.com
+.666bbb888www.com
+.777aa888bb.com
+.888aa111bb.com
+.888aa222bb.com
+.mito03.top
+.mttpsy6666.cc
+.w7044.com
+.yuanpinghengkangfuyouxiangongsi.top
+.efs604.top
+.692881.com
 .01v62.xyz
 .052db.website
 .053h94.com
