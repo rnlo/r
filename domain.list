@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,mtcaptcha.com
 # dev
 DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,debian.org
@@ -51,6 +52,7 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,gitbook.com
@@ -66,6 +68,7 @@ DOMAIN-SUFFIX,expo.dev
 DOMAIN-SUFFIX,electronjs.org
 DOMAIN-SUFFIX,svelte.dev
 DOMAIN-SUFFIX,tailwindcss.com
+DOMAIN-SUFFIX,mongodb.net
 # Servarr
 DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,tmdb.org
