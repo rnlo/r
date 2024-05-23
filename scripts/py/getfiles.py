@@ -9,13 +9,14 @@ file_urls = {
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Microsoft/Microsoft.list": "Microsoft.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list": "Google.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list": "Facebook.list",
-    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list": "AmazonIP.list",  
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonIP/AmazonIP.list": "AmazonIP.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list": "Netflix.list",
-    "https://iptv-org.github.io/iptv/countries/us.m3u": "us.m3u"
+    "https://iptv-org.github.io/iptv/countries/us.m3u": "us.m3u",
 }
 
 # Local destination folder path
 destination_folder = os.getcwd()
+
 
 # Download list files from file_urls
 def download_file(file_url, new_file_name):
@@ -36,6 +37,7 @@ def download_file(file_url, new_file_name):
         print(f"Error occurred while downloading {file_url}. Error: {str(e)}")
         print(traceback.format_exc())
 
+
 def download_files_in_parallel(file_urls):
     try:
         # Use a ThreadPoolExecutor to download the files in parallel
@@ -44,6 +46,7 @@ def download_files_in_parallel(file_urls):
     except Exception as e:
         print(f"Error occurred while executing parallel downloads. Error: {str(e)}")
         print(traceback.format_exc())
+
 
 if __name__ == "__main__":
     download_files_in_parallel(file_urls)
