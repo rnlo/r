@@ -20,11 +20,11 @@ def get_aws_ip():
 
         # Write all IPv4 prefixes
         for ipv4_prefix in data["prefixes"]:
-            lines.append(f"IP-CIDR,{ipv4_prefix['ip_prefix']}\n")
+            lines.append(f"IP-CIDR,{ipv4_prefix['ip_prefix']},no-resolve\n")
 
         # Write all IPv6 prefixes
         for ipv6_prefix in data["ipv6_prefixes"]:
-            lines.append(f"IP-CIDR,{ipv6_prefix['ipv6_prefix']}\n")
+            lines.append(f"IP-CIDR,{ipv6_prefix['ipv6_prefix']},no-resolve\n")
 
         total_lines = len(lines)
 
