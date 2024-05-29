@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 05/28/2024 04:17:42 AM (EST)
-# Total lines: 67875
+# Updated at 05/29/2024 04:17:36 AM (EST)
+# Total lines: 67895
 # https://github.com/rnlo/r
 .rndskittytor.com
 .waisheph.com
@@ -1439,14 +1439,14 @@
 .ado.delfi.ee
 .es.ylilauta.org
 .sab.fast.ge
+.ban.bhol.co.il
+.ext.bhol.co.il
+.st1.bhol.co.il
 .head-clickfusion.com
 .headerbidding.services
 .3myad.com
 .cdn.234doo.com
 .a.b.napiszar.com
-.ban.bhol.co.il
-.ext.bhol.co.il
-.st1.bhol.co.il
 .planner.tiscali.it
 .reklammen.spellchecker.lu
 .bn.gogo.mn
@@ -4680,6 +4680,7 @@
 .arkfreakyinsufficient.com
 .arkmedboo.live
 .arkunexpectedtrousers.com
+.arleavannya.com
 .arlyreven.top
 .armamentsummary.com
 .armarilltor.com
@@ -7238,6 +7239,7 @@
 .bryond.com
 .bryovo.com
 .bs50tds.com
+.bsantycbjnf.com
 .bsfofnphcuj.com
 .bsgbd77l.de
 .bsgeneral.com
@@ -7258,6 +7260,7 @@
 .btdnav.com
 .btilxdpcco.com
 .btjbppltrdpyjsj.com
+.btkwlsfvc.com
 .btnativedirect.com
 .btodsjr.com
 .btpnative.com
@@ -9391,6 +9394,7 @@
 .coochitiphy.com
 .cooeyeddarbs.com
 .coofumberty.digital
+.coogauwoupto.com
 .coogoocy.com
 .coogumak.com
 .coojaiku.com
@@ -17733,6 +17737,7 @@
 .hudrftcspuf.com
 .hue2a.com
 .huehinge.com
+.hufaztjist.com
 .hugelyantony.com
 .hugelyimmovable.com
 .hugenicholas.com
@@ -21759,6 +21764,7 @@
 .looksblazeconfidentiality.com
 .looksdashboardcome.com
 .looksthrilled.com
+.looktotheright.com
 .lookujie.net
 .lookwhippedoppressive.com
 .lookypeacing.uno
@@ -30083,6 +30089,7 @@
 .refilednisi.com
 .refilmsbones.top
 .refineminx.top
+.refinerfiery.com
 .reflectingscoopcourse.com
 .reflectionseldomnorth.com
 .reflectionsidewalk.com
@@ -34655,6 +34662,7 @@
 .tefaighecmoa.com
 .tefuse.com
 .tegleebs.com
+.teiankythes.top
 .teicdn.com
 .teiidsfortune.com
 .teinlbw.com
@@ -39987,6 +39995,7 @@
 .yscntxil.com
 .ysemblyjusting.info
 .ysesials.net
+.yshhfig.com
 .ysnxszyrxdzp.com
 .yspecjbjmcub.com
 .ysxuehcerecoge.com
@@ -40508,6 +40517,7 @@
 .zxmojgj.com
 .zxpqwwt.com
 .zxr9gpxf7j.com
+.zxrfzxb.com
 .zxwhkosabux.com
 .zxxgoikbqyiu.com
 .zy16eoat1w.com
@@ -41949,6 +41959,7 @@
 .97b448.xyz
 .a49ebd.xyz
 .a67d12.xyz
+.b0eb63.xyz
 .b211.xyz
 .b59c.xyz
 .b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
@@ -41958,6 +41969,7 @@
 .ca3d.site
 .ca9246.xyz
 .caa2c4.xyz
+.ce357c.xyz
 .d84bc26d.site
 .d8b0a5.xyz
 .d980ed.xyz
@@ -44289,6 +44301,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.hzstats.com
 .plausible.scimago.es
 .analytics.qushad.com
 .orangeclickmedia.com
@@ -47747,6 +47760,9 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.doppler-beacon.cbsivideo.com
+.lake.studydrive.net
+.ce.x-opt.io
 .analytics.global.sky.com
 .analytics.cosmonova.net
 .pr-bh.ybp.yahoo.com
@@ -50790,7 +50806,6 @@
 .diagnose.igstatic.com
 .dig.ultimedia.com
 .dl.episerver.net
-.doppler-beacon.cbsivideo.com
 .doppler-client-events.cbsivideo.com
 .doppler-config.cbsivideo.com
 .doppler-reporting.cbsivideo.com
@@ -61547,6 +61562,12 @@
 .wsyliee.top
 .abucki.xyz
 .jinzige.cn
+.15huhu.cn
+.nkdgnsfsk.com
+.sdjbvskjvds.com
+.aeaw.cn
+.mqaoweu.icu
+.mninoq.xyz
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
@@ -67684,7 +67705,6 @@
 .networkad.nate.com
 .cyad1.nate.com
 .adimg.nate.com
-.api-ao-list.adison.co
 .ad-api.enuri.info
 .ad.newspim.com
 .ad.imp.joins.com
