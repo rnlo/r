@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/03/2024 04:17:52 AM (EST)
-# Total lines: 67088
+# Updated at 06/04/2024 04:16:48 AM (EST)
+# Total lines: 67116
 # https://github.com/rnlo/r
 .fualujqbhqyn.xyz
 .pafiptuy.net
@@ -6779,6 +6779,7 @@
 .bourbonlunches.com
 .bourrepardale.com
 .boustahe.com
+.bouvierbang.com
 .bouwehee.xyz
 .bouwhaici.net
 .bovemtou.xyz
@@ -7501,6 +7502,7 @@
 .campingknown.com
 .campjupiterjul.com
 .camplacecash.com
+.campootethys.com
 .camprime.com
 .camptrck.com
 .campusmister.com
@@ -11593,6 +11595,7 @@
 .dummiedkhodja.com
 .dummieseardrum.com
 .dumpaudible.com
+.dumpconfinementloaf.com
 .dumplingclubhousecompliments.com
 .dumplingdirewomen.com
 .dunceryquant.com
@@ -12694,6 +12697,7 @@
 .ervqqtdjdxvgh.com
 .erygdsudgkyu.com
 .erylhxttodh.xyz
+.eryondistain.com
 .erysilenitmanb.com
 .erytheadestrer.digital
 .esaidees.com
@@ -19947,6 +19951,7 @@
 .kmmtxfwntcnyd.com
 .kmnkiuqfo.com
 .kmodukuleqasfo.info
+.kmrilock.com
 .kmyaklgcik.com
 .kmyunderthf.info
 .knackseafood.com
@@ -24310,6 +24315,7 @@
 .nsultingcoe.net
 .nsyywkq.com
 .nszeybs.com
+.ntaqujdadat.com
 .ntcqmdif.com
 .ntdvjlvau.com
 .ntedbycathyhou.info
@@ -28888,6 +28894,7 @@
 .r66net.net
 .r932o.com
 .raadth.com
+.rabbitsfreedom.com
 .rabbitsshortwaggoner.com
 .rabbitsverification.com
 .rabblefang.com
@@ -29184,6 +29191,7 @@
 .reapinject.com
 .rearedexpensive.com
 .reariikosin.com
+.reariimime.com
 .rearjapanese.com
 .rearmhoulet.uno
 .rearomenlion.com
@@ -29404,6 +29412,7 @@
 .refugedcuber.com
 .refugeintermediate.com
 .refugepoplars.top
+.refulgebesague.com
 .refulgecomsat.com
 .refundlikeness.com
 .refundsreisner.life
@@ -29641,6 +29650,7 @@
 .requotehocker.com
 .rereddit.com
 .reroplittrewheck.pro
+.rerosefarts.com
 .rerpartmentm.info
 .reryn2ce.com
 .reryn3ce.com
@@ -32338,6 +32348,7 @@
 .soundingthunder.com
 .soupevents.com
 .soupteep.xyz
+.soupteewhish.com
 .souptightswarfare.com
 .souraivo.xyz
 .sourcebloodless.com
@@ -33887,6 +33898,7 @@
 .teenybarnacle.com
 .teepoomo.xyz
 .teethbatchevy.com
+.teetusee.xyz
 .teeveetakahe.space
 .tefaighecmoa.com
 .tefuse.com
@@ -34732,6 +34744,7 @@
 .touched35one.pro
 .touchtamilic.com
 .touchyeccentric.com
+.touficpaloma.com
 .toughdrizzleleftover.com
 .tougherrancor.website
 .toughtoxacid.com
@@ -36250,6 +36263,7 @@
 .uzoamtee.xyz
 .uzoutche.xyz
 .uzqtbthkrqq.com
+.uzrwqrezkx.com
 .uzzidxlvnq.com
 .v00ske77693f.com
 .v100homemade.com
@@ -38907,6 +38921,7 @@
 .yevudi.uno
 .yfbnlrprmjj.com
 .yfefdlv.com
+.yfeyotlpohzkpr.com
 .yfgrxkz.com
 .yfkflfa.com
 .yfrrsktkzfp.com
@@ -41031,12 +41046,14 @@
 .googleadsserving.cn
 .googlevads-cn.com
 .02777e.site
+.0395d1.xyz
 .05751c.site
 .072551.xyz
 .07e197.site
 .1116c5.xyz
 .11c7a3.xyz
 .1350c3.xyz
+.156fd4.xyz
 .1a1fb6.xyz
 .20519a.xyz
 .22dd31.xyz
@@ -41144,6 +41161,7 @@
 .1492697327.rsc.cdn77.org
 .1498195232.rsc.cdn77.org
 .1529462937.rsc.cdn77.org
+.1538548069.rsc.cdn77.org
 .1541233801.rsc.cdn77.org
 .1543481067.rsc.cdn77.org
 .1548164934.rsc.cdn77.org
@@ -41154,6 +41172,7 @@
 .1736253261.rsc.cdn77.org
 .1759123620.rsc.cdn77.org
 .1770542895.rsc.cdn77.org
+.1896709103.rsc.cdn77.org
 .1933201447.rsc.cdn77.org
 .1954342903.rsc.cdn77.org
 .1957648849.rsc.cdn77.org
@@ -43413,6 +43432,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.lr-in-prod.com
 .track.mailerlite.com
 .a11ybar.com
 .trackszn.median.eu
@@ -49692,6 +49712,7 @@
 .a.getflowbox.com
 .a.hcaptcha.com
 .a.opumo.net
+.a.vturb.net
 .aan.amazon.com
 .activity-flow.vtex.com
 .activity.wisepops.com
@@ -50498,6 +50519,7 @@
 .d2j1fszo1axgmp.cloudfront.net
 .d2j74sjmqqyf26.cloudfront.net
 .d2kdl5wcwrtj90.cloudfront.net
+.d2lxqodqbpy7c2.cloudfront.net
 .d2o67tzzxkqap2.cloudfront.net
 .d2pt12ct4kmq21.cloudfront.net
 .d2rnkf2kqy5m6h.cloudfront.net
@@ -60687,6 +60709,13 @@
 .doxihz.xyz
 .lhmgoik.icu
 .hxwscp.cn
+.cxeftgyuer.top
+.btrwxz.xyz
+.eacqihh.icu
+.cfjslif.top
+.edghkc.xyz
+.dyzgdp.xyz
+.bing005.shop
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
@@ -66714,7 +66743,6 @@
 .dagcoin.org
 .coinwallet.biz
 .soodland.com
-.minepi.com
 .irancoinmine.com
 .laqira.io
 .waykingroup.com
