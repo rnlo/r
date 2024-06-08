@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/07/2024 04:17:02 AM (EST)
-# Total lines: 67187
+# Updated at 06/08/2024 04:15:00 AM (EST)
+# Total lines: 67209
 # https://github.com/rnlo/r
 .wxemjmxevy.com
 .journeymv.com
@@ -8162,6 +8162,7 @@
 .chettikmacrli.com
 .chevetoelike.com
 .chevyrailly.top
+.cheweemtaig.com
 .chewersobolary.com
 .chewremittanceprovidence.com
 .chewsrompedhemp.com
@@ -33447,6 +33448,7 @@
 .svnutntmq.com
 .svrkdkopdsdj.com
 .svtlgjmqyzmwz.com
+.svwhhiiyihcwh.com
 .svyksa.info
 .sw2block.com
 .swaggydestroy.com
@@ -37788,6 +37790,7 @@
 .whootascots.com
 .whootkhankah.com
 .whoppercreaky.com
+.whopstriglot.com
 .whoptoorsaub.com
 .whorlysenior.top
 .whotchie.net
@@ -39154,6 +39157,7 @@
 .yqragd.com
 .yqxhslsqaqkbd.com
 .yr9n47004g.com
+.yrcedupgqe.com
 .yrcpsfqoyi.com
 .yrhdmalrfr.com
 .yrinpvfw.com
@@ -41080,6 +41084,7 @@
 .05751c.site
 .072551.xyz
 .07e197.site
+.0ae00c7c.xyz
 .1116c5.xyz
 .11c7a3.xyz
 .1350c3.xyz
@@ -43468,6 +43473,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pxl.knam.pro
+.manalyticshub.com
 .metrics.streaks.jp
 .lr-in-prod.com
 .track.mailerlite.com
@@ -46935,6 +46942,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.cdn.track.olx.com.br
 .analytics.junia.ai
 .ad.dl.mz.de
 .topspin.npo.nl
@@ -60745,11 +60753,25 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.fczunn.xyz
+.bing007.shop
 .oaqrui.xyz
 .tcfgtd.xyz
 .jfjslia.top
 .jpcctez.icu
 .kdqlbm.cn
+.pdnwbwyf.icu
+.hntkgpd.cn
+.itjgwn.xyz
+.anbkzt.xyz
+.uaiosio.top
+.amocyq.xyz
+.bmhept.xyz
+.kfjslid.top
+.cismqdx.icu
+.kfqizu.cn
+.rvtfwryz.icu
+.xn--xhq326apqhcx0d.cn
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
