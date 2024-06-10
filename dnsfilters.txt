@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/09/2024 04:15:13 AM (EST)
-# Total lines: 67318
+# Updated at 06/10/2024 04:17:53 AM (EST)
+# Total lines: 67329
 # https://github.com/rnlo/r
 .eeptoabs.com
 .castanydm.com
@@ -41190,6 +41190,7 @@
 .1350c3.xyz
 .156fd4.xyz
 .1a1fb6.xyz
+.1dd6e9ba.xyz
 .20519a.xyz
 .22dd31.xyz
 .295c.site
@@ -60855,6 +60856,13 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.ligfdjnfd.cn
+.ozykeor.icu
+.yxkbgg.xyz
+.davtvd.xyz
+.efjsliw.top
+.hkpeghqu.icu
+.jglgjz.xyz
 .fczunn.xyz
 .mymqcy.xyz
 .roxfrv.xyz
@@ -60866,6 +60874,9 @@
 .hvzrrvj.cn
 .bing007.shop
 .thgthgfg.cn
+.gfdgfhh.cn
+.po2qgo.xyz
+.kak17p.xyz
 .oaqrui.xyz
 .tcfgtd.xyz
 .jfjslia.top
