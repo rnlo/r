@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/14/2024 04:16:18 AM (EST)
-# Total lines: 67494
+# Updated at 06/15/2024 04:15:47 AM (EST)
+# Total lines: 67508
 # https://github.com/rnlo/r
 .paiglumousty.net
 .xmjnohwneqe.com
@@ -43651,6 +43651,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdn.pubnub.com
+.ziwelatum.com
 .houston.advgo.net
 .merchant-center-analytics.goog
 .ssevt.com
@@ -61002,6 +61004,18 @@
 .crodfnyk.xyz
 .binga07.shop
 .goole24.shop
+.liuhui111.top
+.hwnojj.xyz
+.daslkdlqk.top
+.sowx.cn
+.hevctt.xyz
+.osanyc.xyz
+.ofjslik.top
+.faaqgje.icu
+.pwxlbsie.icu
+.bbqoa.top
+.fogolakda.top
+.szdpk.cn
 .0op8kh.cn
 .0oqt9i.cn
 .0q5joc.cn
