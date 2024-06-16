@@ -1,7 +1,28 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/15/2024 04:15:47 AM (EST)
-# Total lines: 67508
+# Updated at 06/16/2024 04:15:29 AM (EST)
+# Total lines: 67560
 # https://github.com/rnlo/r
+.sbxgipbks.com
+.zoovagoo.com
+.ivtqo.com
+.mzwdiyfp.com
+.happeningflutter.com
+.tarvardsusyseinpou.info
+.knowledconsideunden.info
+.unwontcajun.top
+.edibleinvite.com
+.itchhandwritingimpetuous.com
+.highrevenuenetwork.com
+.hottielunn.com
+.wworqxftyexcmb.xyz
+.txxtgnpqi.com
+.obdzhnzqeg.com
+.floorednightclubquoted.com
+.xzfsymopzyls.com
+.wzhivixqjke.com
+.qxmsmlkjwqz.com
+.oralsproxied.com
+.mormonindianajones.com
 .paiglumousty.net
 .xmjnohwneqe.com
 .groapeeque.com
@@ -3932,7 +3953,6 @@
 .allocatelacking.com
 .allodiafeveret.life
 .allodsubussu.com
-.alloha.tv
 .allotnegate.com
 .allotupwardmalicious.com
 .allow-to-continue.com
@@ -11935,6 +11955,7 @@
 .echaruropygi.com
 .echehalids.guru
 .echevintrunnel.top
+.echinusandaste.com
 .echiovlhu.com
 .echoachy.xyz
 .echocultdanger.com
@@ -12359,6 +12380,7 @@
 .embodimentpronounrunway.com
 .embodygoes.com
 .embogsoarers.com
+.embolipokies.com
 .embrailcamino.top
 .embtrk.com
 .embwmpt.com
@@ -13364,6 +13386,7 @@
 .faithfullyprotectionundo.com
 .faithfullywringfriendship.com
 .faithiqs.com
+.faituzou.net
 .faiverty-station.com
 .faiwastauk.com
 .fajukc.com
@@ -15132,6 +15155,7 @@
 .germmasonportfolio.com
 .geruksom.net
 .gerybeeper.guru
+.gesanbarrat.com
 .gessoesbeavers.uno
 .get-browseprotection.com
 .get-gx.net
@@ -15290,6 +15314,7 @@
 .gimmalscutches.com
 .gimme-promo.com
 .gimohhfzvmpdt.com
+.gimpsgenips.com
 .gimwcpketr.com
 .ginchoirblessed.com
 .ginfohpg.com
@@ -28004,6 +28029,7 @@
 .propulsionstatute.com
 .propulsionswarm.com
 .propvideo.net
+.proreancostaea.com
 .prorentisol.com
 .proscholarshub.com
 .proscontaining.com
@@ -34504,6 +34530,7 @@
 .thunderhead.com
 .thunderous-request.pro
 .thuphedsaup.com
+.thupsirsifte.xyz
 .thurnflfant.com
 .thursailso.com
 .thursdaydurabledisco.com
@@ -40321,6 +40348,7 @@
 .alienhub.xyz
 .alimama.com
 .allmediadesk.com
+.alloha.tv
 .alpha-affiliates.com
 .alright.network
 .amateur.cash
@@ -41289,6 +41317,7 @@
 .8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 .977878.xyz
 .97b448.xyz
+.9814b49f.xyz
 .a49ebd.xyz
 .a67d12.xyz
 .b0eb63.xyz
@@ -41314,6 +41343,7 @@
 .de214f.xyz
 .e076.xyz
 .e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
+.e1ce13d5.xyz
 .ec44.site
 .f090.site
 .f2f8.xyz
@@ -47126,6 +47156,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.px.adfulplatform.com
 .d9jj3mjthpub.cloudfront.net
 .logs.openbank.com
 .plausible.omgapi.org
@@ -49956,6 +49987,7 @@
 .ade.googlesyndication.com
 .adfox.yandex.ru
 .adlog.com.com
+.adv-analytics-collector.videograph.ai
 .affiliate-api.raptive.com
 .affiliates.minglematch.com
 .alexandria.marfeelcdn.com
@@ -56204,6 +56236,9 @@
 .vads.net.vn
 .vads.vn
 .vcdn.subiz-cdn.com
+.vda.viettel.vn
+.vdacdn1.viettel.vn
+.vdacdn2.viettel.vn
 .viam.com.vn
 .vietnamnetad.vn
 .vipads.cc
@@ -56281,9 +56316,11 @@
 .ads.baoangiang.com.vn
 .ads.baobinhduong.vn
 .ads.baobinhthuan.com.vn
+.ads.baocamau.vn
 .ads.baocantho.com.vn
 .ads.baodatviet.vn
 .ads.baohaiduong.vn
+.ads.baolongan.vn
 .ads.baotainguyenmoitruong.vn
 .ads.bkitsoftware.com
 .ads.businessstyle.vn
@@ -56307,6 +56344,7 @@
 .ads.markettimes.vn
 .ads.marry.vn
 .ads.nghenhinvietnam.vn
+.ads.nguoiduatin.vn
 .ads.nhadatmoi.net
 .ads.phunuonline.com.vn
 .ads.phunusuckhoe.vn
@@ -56681,6 +56719,7 @@
 .track.popsww.com
 .track.sendo.vn
 .track.vio.edu.vn
+.track.winigroup.vn
 .tracker.anime47.com
 .tracker.edupia.vn
 .tracker.fado.vn
@@ -59517,6 +59556,7 @@
 .spsinhlychinhhang.com
 .sputrey567rik.cfd
 .squashtalk.com
+.sso-garena.vn
 .sso-hotro-taikhoan.com
 .ssvnshop.com
 .standardresourcebank.com
@@ -59529,6 +59569,7 @@
 .suachuadienmayxanh.com.vn
 .suativinguyenkim.com
 .subducgiare.shop
+.suckhoetainha.site
 .suitablepartner.life
 .sukiem-muahe-pubgmobilevn.com
 .sukien-2021lmht.ga
@@ -59541,6 +59582,7 @@
 .sukien-latquaff.com
 .sukien-lienminh.com
 .sukien-lienminhtocchien.site
+.sukien-lienquanmobile.com
 .sukien-lmht.com
 .sukien-lq-garena.com
 .sukien-nhanqua-garena.com
@@ -60966,6 +61008,13 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.dvgjx.cn
+.ytqeavc.icu
+.adzo.cn
+.aeyyck.xyz
+.poxdpj.xyz
+.fujnrh.xyz
+.lnlkmr.xyz
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
@@ -60980,7 +61029,6 @@
 .tjuspyk.icu
 .zkrdzn.xyz
 .zmbmoxij.icu
-.d1zoi2q7y0e4d.cloudfront.net
 .xx3691b.com
 .1028images.com
 .537images1.com
@@ -61016,6 +61064,8 @@
 .bbqoa.top
 .fogolakda.top
 .szdpk.cn
+.9216tp1.com
+.xianliao.voto
 .0op8kh.cn
 .0oqt9i.cn
 .0q5joc.cn
@@ -65812,6 +65862,7 @@
 .ads-6686.top
 .aixuntupian.oss-cn-hongkong.aliyuncs.com
 .alimama.alicdn.com
+.d1zoi2q7y0e4d.cloudfront.net
 .alime-pic.oss-cn-hangzhou.aliyuncs.com
 .baiducom.bj.bcebos.com
 .cb.baidu.com
@@ -66157,6 +66208,7 @@
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
+.ds.ruanwengfa.com
 .003store.com
 .0941.org
 .1.07swz.com
