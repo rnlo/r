@@ -1,7 +1,18 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/16/2024 04:15:29 AM (EST)
-# Total lines: 67560
+# Updated at 06/17/2024 04:17:30 AM (EST)
+# Total lines: 67582
 # https://github.com/rnlo/r
+.xsfcqjtkkjdp.com
+.nxymehwu.com
+.mjxlfwvirjmt.com
+.ndaymidydlesswale.info
+.ceschemicalcovenings.info
+.mythicsallies.com
+.qahssrxvelqeqy.xyz
+.upwxneakm.com
+.ykbwiiafufwke.com
+.tamperdepreciate.com
+.ballisticforgotten.com
 .sbxgipbks.com
 .zoovagoo.com
 .ivtqo.com
@@ -41322,6 +41333,7 @@
 .a67d12.xyz
 .b0eb63.xyz
 .b211.xyz
+.b2bf222e.xyz
 .b51475b8.xyz
 .b59c.xyz
 .b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
@@ -41334,6 +41346,7 @@
 .ca3d.site
 .ca9246.xyz
 .caa2c4.xyz
+.cd57296e.xyz
 .ce357c.xyz
 .cfb98a.xyz
 .d84bc26d.site
@@ -56755,6 +56768,7 @@
 .ttus.tructiepbongda.me
 .tvc.biphim.club
 .upfile16.mediaphim.com
+.upl.net-solutions.vn
 .user.headlines.pw
 .userstats.shopee.vn
 .v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
@@ -61014,6 +61028,14 @@
 .aeyyck.xyz
 .poxdpj.xyz
 .fujnrh.xyz
+.etjui.cn
+.mqwmgs.xyz
+.plzblz.xyz
+.rrkouuz.icu
+.cdoshbf.top
+.60jxn4.xyz
+.rghbvp.xyz
+.szdgl.cn
 .lnlkmr.xyz
 .0322cfmtl.cc
 .07dy.cc
