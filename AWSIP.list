@@ -1,6 +1,6 @@
 # AWS IP for Surge Generated from https://ip-ranges.amazonaws.com/ip-ranges.json
-# CreateDate: 2024-06-19-18-13-10
-# Total lines: 11725
+# CreateDate: 2024-06-21-00-03-09
+# Total lines: 11729
 # https://github.com/rnlo/r
 IP-CIDR,3.5.140.0/22,no-resolve
 IP-CIDR,13.34.1.109/32,no-resolve
@@ -9517,6 +9517,7 @@ IP-CIDR,2620:107:4000:9015::/64,no-resolve
 IP-CIDR,2620:107:4000:9018::/64,no-resolve
 IP-CIDR,2406:da61:7000::/40,no-resolve
 IP-CIDR,2406:dafc:800::/40,no-resolve
+IP-CIDR,2600:1fb8:4000::/39,no-resolve
 IP-CIDR,2600:1ffd:80c8::/48,no-resolve
 IP-CIDR,2620:107:4000:9011::/64,no-resolve
 IP-CIDR,2600:1f10:c000::/36,no-resolve
@@ -9566,7 +9567,6 @@ IP-CIDR,2620:107:4002::/48,no-resolve
 IP-CIDR,2406:daf8:4000::/40,no-resolve
 IP-CIDR,2406:dafe:c000::/40,no-resolve
 IP-CIDR,2600:1f18::/33,no-resolve
-IP-CIDR,2600:1ff1:4000::/40,no-resolve
 IP-CIDR,2a01:578:0:7300::1/128,no-resolve
 IP-CIDR,2406:da1c::/36,no-resolve
 IP-CIDR,2400:6500:0:7600::/56,no-resolve
@@ -10045,6 +10045,7 @@ IP-CIDR,2a05:d07f:6000::/40,no-resolve
 IP-CIDR,2406:da68:b000::/40,no-resolve
 IP-CIDR,2406:daff:8000::/40,no-resolve
 IP-CIDR,2600:1f13::/36,no-resolve
+IP-CIDR,2600:1ff5:4000::/39,no-resolve
 IP-CIDR,2606:f40::/39,no-resolve
 IP-CIDR,2406:da69:2000::/40,no-resolve
 IP-CIDR,2406:daff:b000::/40,no-resolve
@@ -10341,6 +10342,7 @@ IP-CIDR,2600:f0f0:731::/48,no-resolve
 IP-CIDR,2404:c2c0:2400::/40,no-resolve
 IP-CIDR,2406:da26::/36,no-resolve
 IP-CIDR,2406:daf1:2000::/40,no-resolve
+IP-CIDR,2600:1ff1:4000::/39,no-resolve
 IP-CIDR,2600:1ffa:e000::/40,no-resolve
 IP-CIDR,2600:1ffc:6000::/40,no-resolve
 IP-CIDR,2a05:d077:60c1::/48,no-resolve
@@ -10968,6 +10970,7 @@ IP-CIDR,2a05:d077:6080::/48,no-resolve
 IP-CIDR,2406:da70:4000::/40,no-resolve
 IP-CIDR,2600:1f60:2000::/40,no-resolve
 IP-CIDR,2406:da61:7000::/40,no-resolve
+IP-CIDR,2600:1fb8:4000::/39,no-resolve
 IP-CIDR,2600:1ffd:80c8::/48,no-resolve
 IP-CIDR,2600:1f10:c000::/36,no-resolve
 IP-CIDR,2600:1ff0:e000::/40,no-resolve
@@ -11001,7 +11004,6 @@ IP-CIDR,2600:f0f0:1:ff00::/56,no-resolve
 IP-CIDR,2600:f0f0:6000::/44,no-resolve
 IP-CIDR,2620:107:4002::/48,no-resolve
 IP-CIDR,2600:1f18::/33,no-resolve
-IP-CIDR,2600:1ff1:4000::/40,no-resolve
 IP-CIDR,2406:da1c::/36,no-resolve
 IP-CIDR,2406:da1a::/36,no-resolve
 IP-CIDR,2400:6700:ff00::/48,no-resolve
@@ -11296,6 +11298,7 @@ IP-CIDR,2a05:d07f:6000::/40,no-resolve
 IP-CIDR,2406:da68:b000::/40,no-resolve
 IP-CIDR,2406:daff:8000::/40,no-resolve
 IP-CIDR,2600:1f13::/36,no-resolve
+IP-CIDR,2600:1ff5:4000::/39,no-resolve
 IP-CIDR,2606:f40::/39,no-resolve
 IP-CIDR,2406:da69:2000::/40,no-resolve
 IP-CIDR,2406:daff:b000::/40,no-resolve
@@ -11489,6 +11492,7 @@ IP-CIDR,2406:daf5:c000::/40,no-resolve
 IP-CIDR,2600:f0f0:731::/48,no-resolve
 IP-CIDR,2406:da26::/36,no-resolve
 IP-CIDR,2406:daf1:2000::/40,no-resolve
+IP-CIDR,2600:1ff1:4000::/39,no-resolve
 IP-CIDR,2a05:d077:60c1::/48,no-resolve
 IP-CIDR,2406:da10:8000::/36,no-resolve
 IP-CIDR,2406:daf0:e000::/40,no-resolve
