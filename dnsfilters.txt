@@ -1,7 +1,26 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/21/2024 04:16:59 AM (EST)
-# Total lines: 67779
+# Updated at 06/22/2024 04:16:11 AM (EST)
+# Total lines: 67832
 # https://github.com/rnlo/r
+.aigheebsu.net
+.dnlgrxhfcsjhcto.com
+.cegloockoar.com
+.mutmfwgdoxvbbuo.com
+.garlicice.store
+.flirtfusiontoys.toys
+.fjbubsdhpcticbu.com
+.tucsulfjseyan.com
+.rqmakkmq.com
+.hwgxmvhphcbqcis.com
+.shepsubsitha.com
+.gprsiugqgwqt.com
+.adfulplatform.com
+.vsftsyriv.com
+.nxhnaibu.com
+.leenaitheez.com
+.thoohizoogli.xyz
+.pthrecjtu.com
+.raglanyakking.com
 .wrrlidnlerx.com
 .rmtckjzct.com
 .ilaterdeallyighab.info
@@ -3580,6 +3599,7 @@
 .afgwsgl.com
 .afgzipohma.com
 .afiliapub.click
+.afkearupl.com
 .afloatroyalty.com
 .afm01.com
 .afmhlhqwkn.com
@@ -6640,6 +6660,7 @@
 .bngprm.com
 .bngpst.com
 .bngpt.com
+.bngrol.com
 .bngtrak.com
 .bngwlt.com
 .bnhnkbknlfnniug.xyz
@@ -7554,6 +7575,7 @@
 .cafqeelk.com
 .caftaistes.com
 .cafvyfdqedjc.xyz
+.cagakzcwyr.com
 .cageinattentiveconfederate.com
 .cagerssoohong.com
 .cagesscan.com
@@ -11193,6 +11215,7 @@
 .dmrdnujvzo.com
 .dmrtx.com
 .dmsktmld.com
+.dmuqumodgwm.com
 .dmvbdfblevxvx.com
 .dmvporebntt.com
 .dmxswwrregww.com
@@ -11469,6 +11492,7 @@
 .dqvnpbs.com
 .dqxbqubsknfc.com
 .dqxifbm.com
+.dqypqewirrf.com
 .dqzsejvbr.com
 .dr0.biz
 .dr22.biz
@@ -14174,6 +14198,7 @@
 .flqwvojijhqqlq.com
 .flrdra.com
 .fluemantappall.guru
+.fluencydepressing.com
 .fluencyinhabited.com
 .fluencythingy.com
 .fluentlydeadlineski.com
@@ -14747,6 +14772,7 @@
 .fucoustittup.uno
 .fucsarhyhlci.com
 .fudginghoners.com
+.fudukrujoa.com
 .fuelcathine.top
 .fuelpearls.com
 .fugcgfilma.com
@@ -22943,6 +22969,7 @@
 .moaningbeautifulnobles.com
 .moaningtread.com
 .moanomoa.xyz
+.moapaglee.net
 .moapevuwtv.com
 .moapuwhe.com
 .moartraffic.com
@@ -26738,6 +26765,7 @@
 .persuasivepenitentiary.com
 .pertawee.net
 .pertersacstyli.com
+.pertfinds.com
 .pertlouv.com
 .perttogahoot.com
 .pertyvaluationia.monster
@@ -27703,6 +27731,7 @@
 .ppjqgbz.com
 .pplferio.com
 .pplgwic.com
+.ppmzcafertd.com
 .ppoommhizazn.com
 .ppovysmcycmwvv.com
 .pppbr.com
@@ -30584,6 +30613,7 @@
 .rqnvci.com
 .rqtrk.eu
 .rqwel.com
+.rqwyrdwlaygwxkw.com
 .rreauksofthecom.xyz
 .rrentlysearchi.info
 .rrhscsdlwufu.xyz
@@ -31733,7 +31763,6 @@
 .shenzo.xyz
 .shepeekr.net
 .shepherdalmightyretaliate.com
-.shepsubsitha.com
 .sherryfaithfulhiring.com
 .sheschemetraitor.com
 .shesseet.com
@@ -38758,6 +38787,7 @@
 .xargijqtgysdvgj.com
 .xatesfrgkifde.com
 .xawlop.com
+.xaxciisqwvk.com
 .xaxoro.com
 .xaxrtiahkft.com
 .xayiqcwbmmhwf.com
@@ -39302,6 +39332,7 @@
 .ykdwyf.com
 .ykgkxcount.com
 .ykmvnhue.com
+.ykopnlrbb.com
 .ykqalsm.com
 .ykraeij.com
 .ykrwopdxkw.com
@@ -41497,6 +41528,7 @@
 .1156219164.rsc.cdn77.org
 .1175980934.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
+.1199403312.rsc.cdn77.org
 .1201741305.rsc.cdn77.org
 .1204491360.rsc.cdn77.org
 .1278977604.rsc.cdn77.org
@@ -41504,6 +41536,7 @@
 .1299757727.rsc.cdn77.org
 .1312907885.rsc.cdn77.org
 .1324827002.rsc.cdn77.org
+.1325492758.rsc.cdn77.org
 .1365498388.rsc.cdn77.org
 .1396762586.rsc.cdn77.org
 .1417571542.rsc.cdn77.org
@@ -41529,6 +41562,7 @@
 .1770542895.rsc.cdn77.org
 .1896709103.rsc.cdn77.org
 .1933201447.rsc.cdn77.org
+.1946365241.rsc.cdn77.org
 .1954342903.rsc.cdn77.org
 .1957648849.rsc.cdn77.org
 .1969301294.rsc.cdn77.org
@@ -43179,6 +43213,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.s-odx.oleads.com
 .mediation.unity3d.com
 .cdn-ad.wtzw.com
 .appsrv.display.io
@@ -47220,7 +47255,6 @@
 .vgwort.de
 .sharpmarketing.eu
 .actonsoftware.com
-.healthgrades.com
 .actonservice.com
 .2o7.net
 .data.adobedc.net
@@ -47270,10 +47304,13 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.events.tryamped.com
+.track.sendlane.com
+.m1tm.motor1.com
+.ctr.po-kaki-to.com
 .analytics.sonjj.com
 .status.techtarget.itmedia.co.jp
 .ephemeralcounters.api.roblox.com
-.px.adfulplatform.com
 .d9jj3mjthpub.cloudfront.net
 .logs.openbank.com
 .plausible.omgapi.org
@@ -51017,6 +51054,7 @@
 .counter-zaehler.de
 .dcmn.io
 .dl8.me
+.durchsichtig.xyz
 .etrust.eu
 .fast-counter.net
 .giga-abs.de
@@ -54005,6 +54043,7 @@
 .ads.dugwood.com
 .caraneoutraze.uno
 .adserver.icimedias.ca
+.ad.douga-kan.com
 .adleap.jp
 .ad.unique1static.jp
 .appdraft.link
@@ -54571,6 +54610,7 @@
 .holyjesus.de
 .spd-spenden.de
 .swissadserver.ch
+.windows-pro.net
 .wirverkaufennichts.de
 .wixnm.com
 .zazufi.com
@@ -54991,6 +55031,7 @@
 .ineed2fuck.com
 .instahookups5.com
 .iphone7pluswin.com
+.isdarot.com
 .israfun.net
 .iystorage.com
 .jacquarter.com
@@ -55087,6 +55128,7 @@
 .s-iwantyou.com
 .saphiretelavivisrael.com
 .sdarot-il.org
+.sdarot-tv.org
 .sdarot.cc
 .sdarotil.top
 .sdc.mako.co.il
@@ -55127,6 +55169,7 @@
 .truegifstandmore.com
 .trustmedia.co.il
 .tukid.info
+.tvfeel.cc
 .twobluedeer.com
 .typication.com
 .ugbuzz.net
@@ -61192,6 +61235,16 @@
 .kdoshbd.top
 .wbaj.cn
 .bfhueh.top
+.szdzn.cn
+.vppzjv.xyz
+.scru.cn
+.njjavt.xyz
+.cycvyo.xyz
+.sdoshbb.top
+.ismuwcm.icu
+.yzihdppw.xyz
+.doujs02.xyz
+.honknl.xyz
 .dvgjx.cn
 .ytqeavc.icu
 .adzo.cn
