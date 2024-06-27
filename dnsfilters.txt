@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 06/26/2024 04:17:27 AM (EST)
-# Total lines: 67953
+# Updated at 06/27/2024 04:16:56 AM (EST)
+# Total lines: 67979
 # https://github.com/rnlo/r
+.precedelaxative.com
+.pepiggies.xyz
 .shuanshu.com.com
 .kuurza.com
 .dxtv1.com
@@ -1533,6 +1535,7 @@
 .d36sxvmjoflc2i.cloudfront.net
 .d6swopgiplmy0.cloudfront.net
 .gjc.gjirafa.com
+.rolpenszimocca.com
 .a.mabipa.com
 .klik-slider.morgancode.com
 .lupon.media
@@ -9159,6 +9162,7 @@
 .condensedmassagefoul.com
 .condensedspoon.com
 .condescendingcertainly.com
+.conditioneavesdroppingbarter.com
 .condles-temark.com
 .condodgy.com
 .condofeijoa.top
@@ -21719,6 +21723,7 @@
 .luckypushh.com
 .luckyz.xyz
 .lucrativeemotionallypromised.com
+.lucrinearraign.com
 .lucrumvirga.life
 .lucvhrdlywvnwh.com
 .ludabmanros.com
@@ -26470,6 +26475,7 @@
 .paucityirido.space
 .pauewr4cw2xs5q.com
 .paughtyrostrum.com
+.paugrozefou.net
 .paularrears.com
 .paulastroid.com
 .paulcorrectfluid.com
@@ -26653,6 +26659,7 @@
 .pegirs.com
 .pegloang.com
 .peirs5tbakchios.com
+.peisantcorneas.com
 .pejzeexukxo.com
 .pekcbuz.com
 .pelagictanjib.com
@@ -27861,6 +27868,7 @@
 .preferencedrank.com
 .preferenceforfeit.com
 .preferredsaltshift.com
+.prefershapely.com
 .preferunhair.com
 .prefleks.com
 .pregainpotgut.top
@@ -33157,6 +33165,7 @@
 .steamjaws.com
 .stedsous.xyz
 .steefaulrouy.xyz
+.steegnow.com
 .steel-bedroom.pro
 .steeplederivedinattentive.com
 .steeplesaturday.com
@@ -33348,6 +33357,7 @@
 .straitchangeless.com
 .straitmeasures.com
 .straitsdeprive.com
+.straletmitvoth.com
 .stranddecidedlydemeanour.com
 .strandedpeel.com
 .strandedprobable.com
@@ -40073,6 +40083,7 @@
 .zzjwblqbwlrnj.top
 .zzkwsosixkdu.com
 .zzqolojyqkamj.top
+.zztsxepxumxoyw.com
 .zzzjvqzkmqjlo.top
 .zzzjvqzkmqjyb.top
 .729drainer.com
@@ -40192,12 +40203,16 @@
 .yimkju.com
 .zhu-ni-hao-yun.sh
 .zxcbaby.ru
+.5wzgtq8dpk.com
+.65spy7rgcu.com
 .asqualmag.com
 .bestunfollow.com
 .chattedhelio.top
 .emperilchilies.top
+.hfr67jhqrw8.com
 .lookup-domain.com
 .mgid.com
+.tbao684tryo.com
 .tracking.injoyalot.com
 .vpn-offers.org
 .vriddhipardee.top
@@ -41530,6 +41545,7 @@
 .cd57296e.xyz
 .ce357c.xyz
 .cfb98a.xyz
+.d477275c.xyz
 .d84bc26d.site
 .d8b0a5.xyz
 .d980ed.xyz
@@ -43882,6 +43898,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pixel.mintigo.com
 .api.sardine.ai
 .dmp.one
 .dmp-ai.ru
@@ -47361,6 +47378,9 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.metrics.api.drift.com
+.targeting.api.drift.com
+.event.api.drift.com
 .matomo.promobil.de
 .api.ad-platform.jmty.jp
 .events.tryamped.com
@@ -47574,7 +47594,6 @@
 .gtm.vanmoof.com
 .gtm.wonderbly.com
 .gtm.docswell.com
-.collector-pxfqtaw5et.px-client.net
 .statistik.changing-cities.org
 .ping.paidy.com
 .a.deadlinefunnel.com
@@ -50473,7 +50492,6 @@
 .event-api.rdstation.com.br
 .event-logger.tagboard.com
 .event-service.letslinc.com
-.event.api.drift.com
 .eventgateway.soundcloud.com
 .eventlog.chatlead.com
 .events.api.secureserver.net
@@ -50598,7 +50616,6 @@
 .measure.refinery89.com
 .mediametrics.mpsa.com
 .metering.pagesuite.com
-.metrics.api.drift.com
 .metrics.ctvdigital.net
 .metrics.doppiocdn.com
 .metrics.doppiocdn.org
@@ -50655,7 +50672,6 @@
 .pixel.ampry.com
 .pixel.archipro.co.nz
 .pixel.blivenyc.com
-.pixel.mintigo.com
 .pixel.mtrcs.samba.tv
 .pixel.newscred.com
 .pixel.redgifs.com
@@ -50980,7 +50996,6 @@
 .d1733r3id7jrw5.cloudfront.net
 .d191y0yd6d0jy4.cloudfront.net
 .d196fri2z18sm.cloudfront.net
-.d1af033869koo7.cloudfront.net
 .d1cr9zxt7u0sgu.cloudfront.net
 .d1f0tbk1v3e25u.cloudfront.net
 .d1hyarjnwqrenh.cloudfront.net
@@ -61308,6 +61323,14 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.efhis.cn
+.udoshbt.top
+.lhtzfn.xyz
+.stsesc.xyz
+.gjwxy.cn
+.ytoeyxz.icu
+.szdtf.cn
+.tyisloi.top
 .talyrt.xyz
 .okagcw.xyz
 .vtlyrj.xyz
@@ -61338,6 +61361,9 @@
 .lxryhx.xyz
 .ioaiqp.top
 .qyisloy.top
+.dxfidr.xyz
+.na06.cn
+.thruudrad.com
 .afopr.cn
 .qdoshby.top
 .eyislow.top
