@@ -1,5 +1,8 @@
 # temp rules
 
+DOMAIN-KEYWORD,yahoo
+DOMAIN-SUFFIX,yimg.com
+
 # End temp rules
 # End rnlo rules
 
