@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 07/08/2024 04:17:26 AM (EST)
-# Total lines: 67232
+# Updated at 07/09/2024 04:16:10 AM (EST)
+# Total lines: 67252
 # https://github.com/rnlo/r
+.femqrjwnk.xyz
+.routowoashie.xyz
 .xlvul.ajscdn.com
 .ahmar2four.xyz
 .ser678uikl.xyz
@@ -1265,6 +1267,7 @@
 .revrtb.com
 .newbluetrue.xyz
 .onemediawork.com
+.srtb.msn.cn
 .advertising-cdn.dpgmedia.cloud
 .d2lg0swrp15nsj.cloudfront.net
 .dpeqm8xv96fuc.cloudfront.net
@@ -40598,6 +40601,7 @@
 .ec44.site
 .f090.site
 .f2f8.xyz
+.f33d11b5.xyz
 .f417a726.xyz
 .f4c9a0fb.xyz
 .f6176563.site
@@ -42937,6 +42941,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.exacttarget.com
+.analytics.launch.bz
 .qobuz.surveysparrow.com
 .srvr.dmvs-apac.com
 .dash.zintrack.com
@@ -46425,6 +46431,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.trc.r25.jp
 .anal.doubledouble.top
 .peach-analytics.vercel.app
 .lfmetrics.loyalfans.com
@@ -60467,6 +60474,19 @@
 .lgpjw.cn
 .eqkvks.xyz
 .sdipsumb.top
+.wuisaq.top
+.jgvkxp.xyz
+.mrtlisx.top
+.fbqrt.cn
+.edipsumw.top
+.tvgkatu.icu
+.snux.cn
+.qpigoa.xyz
+.vihqpr.xyz
+.goodvibe1.com
+.vftvbx.xyz
+.baijs07.xyz
+.hfptbb.cn
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
