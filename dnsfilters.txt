@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 07/10/2024 04:18:35 AM (EST)
-# Total lines: 67300
+# Updated at 07/11/2024 04:17:05 AM (EST)
+# Total lines: 67360
 # https://github.com/rnlo/r
+.cdn.kelpo.cloud
+.paidlemirkily.com
 .jixffuwhon.com
 .hbwrapper.com
 .femqrjwnk.xyz
@@ -2274,6 +2276,7 @@
 .71d7511a4861068.com
 .71dd1ff9fd.com
 .71ec0646e6.com
+.721ffc3ec5.com
 .722cba612c.com
 .7253d56acf.com
 .72hdgb5o.de
@@ -2600,6 +2603,7 @@
 .ablecolony.com
 .abletoprese.org
 .ablitleoor.com
+.ablkkukpaoc.com
 .abluentshinny.com
 .abluvdiscr.com
 .ablybeastssarcastic.com
@@ -4287,6 +4291,7 @@
 .annotationmadness.com
 .announcedseaman.com
 .announceflealanding.com
+.announcement317.fun
 .announcementlane.com
 .announceproposition.com
 .announcinglyrics.com
@@ -8332,6 +8337,7 @@
 .ciazdymfepv.com
 .cibouleamazer.com
 .cicamica.xyz
+.cickofou.com
 .cideparenhem.com
 .cidrulj.com
 .ciedpso.com
@@ -9614,6 +9620,7 @@
 .cryptomaster.care
 .cryptomcw.com
 .cryptonewsdom.care
+.cryptotyc.care
 .cschyogh.com
 .csfabdtmrs.com
 .csggmxrbt.com
@@ -10235,6 +10242,7 @@
 .deecqem892bg5er.com
 .deedeedthowel.top
 .deedeedwinos.com
+.deedeisasbeaut.info
 .deedtampertease.com
 .deefauph.com
 .deehalig.net
@@ -10581,6 +10589,7 @@
 .dgtklmbypacjq.com
 .dgttkthhgjm.com
 .dguhjlbefeuf.com
+.dgxmvglp.com
 .dh956.com
 .dhadbeensoattr.info
 .dhfkavse.com
@@ -12215,6 +12224,7 @@
 .ellcurvth.com
 .ellicecaesura.com
 .elliotannouncing.com
+.ellipticaldatabase.pro
 .ellmtlvlpihr.com
 .elltheprecise.org
 .elmonopolicycr.info
@@ -12300,6 +12310,7 @@
 .empowertranslatingalloy.com
 .emptorrevalue.digital
 .emqomxdwrhol.com
+.emqrjjvalnqbm.top
 .emqrjjveqnjab.top
 .emqrjjveqnnav.top
 .emqrjjveqnnjw.top
@@ -13752,6 +13763,7 @@
 .fitting-population.com
 .fittingcentermonday.com
 .fittitfucose.com
+.fivcgqubtfowus.com
 .fivelegant.com
 .fivetrafficroads.com
 .fivulsou.xyz
@@ -14715,7 +14727,6 @@
 .gamingadlt.com
 .gamingonline.top
 .gammabendlet.website
-.gammae.com
 .gammamkt.com
 .gammaplatform.com
 .gammradiation.space
@@ -15035,6 +15046,7 @@
 .ghilliebottles.com
 .ghisiva.top
 .ghjhucekiywqrk.com
+.ghmwlirru.com
 .ghnvfncbleiu.xyz
 .ghostchisel.com
 .ghostnewz.com
@@ -15384,6 +15396,7 @@
 .gmiqicw.com
 .gmixiwowford.com
 .gmkflsdaa.com
+.gmknz.com
 .gml-grp.com
 .gmlebdifvxzzl.com
 .gmltiiu.com
@@ -16074,6 +16087,7 @@
 .gzigudxidz.com
 .gzkkbuvz.com
 .gzpphnbvqj.com
+.gzqihxnfhq.com
 .gzqsxbgnggnho.com
 .h0w-t0-watch.net
 .h12-media.com
@@ -16241,6 +16255,7 @@
 .harlequinsleepyfrog.xyz
 .harmalpilotry.com
 .harmfulresolution.com
+.harmfulsong.pro
 .harmless-sample.pro
 .harmlessepic.com
 .harmlesstacticalhonorable.com
@@ -17259,6 +17274,7 @@
 .hutajkerfvbman.com
 .hutanz.xyz
 .hutlockshelter.com
+.hutoumseet.com
 .hutremindbond.com
 .huvohjvpaog.com
 .huwkiycoup.com
@@ -18180,6 +18196,7 @@
 .interestmoments.com
 .interestsubsidereason.com
 .interfacemotleyharden.com
+.interference350.fun
 .interfereparagraphinterrogate.com
 .interferepenetrate.com
 .intergient.com
@@ -18611,6 +18628,7 @@
 .jagice.uno
 .jagnoans.com
 .jagqrhvcvoqjw.com
+.jaifeeveely.com
 .jaigaivi.xyz
 .jainapse.com
 .jainbagong.com
@@ -19942,6 +19960,7 @@
 .kstjqjuaw.xyz
 .kstvhknmhfppbf.com
 .ksurpiwdayc.com
+.ksvrvtehpmfbylm.com
 .ksvtdifdlqyrv.com
 .kswiwxupqa.com
 .ksykbucea.com
@@ -20088,6 +20107,7 @@
 .labporno.com
 .labsappland.com
 .labsoacu.com
+.laccaiccrusta.com
 .lacecoming.com
 .lacecompressarena.com
 .laceratehard.com
@@ -21908,6 +21928,7 @@
 .mediocrecount.com
 .meditateenhancements.com
 .mediuln.com
+.mediumtunapatter.com
 .medleyads.com
 .medoofty.com
 .medusasglance.com
@@ -25335,6 +25356,7 @@
 .overlivedub.com
 .overlook.fun
 .overlooked-scratch.pro
+.overlookedtension.pro
 .overlookrapt.com
 .overlyindelicatehoard.com
 .overmewer.com
@@ -25435,6 +25457,7 @@
 .oxmoonlint.com
 .oxmqzeszyo.com
 .oxnhhswdzwam.com
+.oxowcjxiffsj.com
 .oxrqdkfftw.com
 .oxthrilled.com
 .oxtkmgvmgu.com
@@ -29948,6 +29971,7 @@
 .rsaltsjt.com
 .rscilx49h.com
 .rsdoxzmhrjovcz.com
+.rsfmzirxwg.com
 .rsgouhlbhfl.com
 .rsnjmocfenkewq.com
 .rsthwwqhxef.xyz
@@ -30372,6 +30396,7 @@
 .satinelicheny.com
 .satireunhealthy.com
 .satirevegetableshaw.com
+.satisfaction399.fun
 .satisfactionretirechatterbox.com
 .satisfactorilyfigured.com
 .satisfied-tour.pro
@@ -31255,7 +31280,6 @@
 .sidewalkcrazinesscleaning.com
 .sidewayfrosty.com
 .sidewaysuccession.com
-.sielsmaats.com
 .sierradissolved.com
 .sierrasectormacaroni.com
 .sieveallegeministry.com
@@ -32902,6 +32926,7 @@
 .supervisebradleyrapidly.com
 .supervisionlanguidpersonnel.com
 .supervisionprohibit.com
+.supervisofosevera.com
 .superxxxfree.com
 .supgedcowxkmzr.com
 .suphelper.com
@@ -33675,6 +33700,7 @@
 .theeksen.com
 .theelrou.net
 .theenfu.com
+.theetholri.xyz
 .theextensionexpert.com
 .thefacux.com
 .thefastpush.com
@@ -34057,6 +34083,7 @@
 .tiwhaiph.net
 .tiwouboa.com
 .tixir.xyz
+.tiypa.com
 .tizadumbed.com
 .tjavravj.com
 .tjgpeswdkrym.com
@@ -34467,6 +34494,7 @@
 .traffoxx.uk
 .trafget.com
 .trafogon.com
+.trafsupr.com
 .trafyield.com
 .tragedyhaemorrhagemama.com
 .tragency-clesburg.icu
@@ -35409,6 +35437,7 @@
 .unmightboxen.com
 .unmisdreavusom.com
 .unnamesline.com
+.unnaturalstring.com
 .unnecessarydispleasedleak.com
 .unnish.com
 .unoblotto.net
@@ -35978,6 +36007,7 @@
 .vbmfeuvrtnxafy.com
 .vbqbtfkon.com
 .vbrbgki.com
+.vbrusdiifpfd.com
 .vbtrax.com
 .vbzsjkrnsqewy.com
 .vcbydvfouqqyls.com
@@ -36146,6 +36176,7 @@
 .vheoggjiqaz.com
 .vhihvqsuarpp.com
 .vhneajupavrb.com
+.vhrtgvzcmrfoo.com
 .vhvmiinx.com
 .vi-serve.com
 .viabagona.com
@@ -36521,6 +36552,7 @@
 .votinginvolvingeyesight.com
 .vouchafagle.com
 .vouchanalysistonight.com
+.voufasoadoot.net
 .vougaipte.net
 .vougreph.net
 .vounesto.com
@@ -36915,6 +36947,7 @@
 .wcmcs.net
 .wcnhhqqueu.com
 .wcnndaazbwmane.com
+.wcpltnaoivwob.xyz
 .wcqtgwsxur.xyz
 .wct.link
 .wcuolmojkzir.com
@@ -38059,6 +38092,7 @@
 .xipaaqgnrehpdns.com
 .xipehexose.com
 .xipteq.com
+.xipwdvkessqguv.com
 .xiqougw.com
 .xiryrnrz.com
 .xissidearm.com
@@ -38727,6 +38761,7 @@
 .yzlfobyscos.com
 .z0il3m3u2o.pro
 .z1sz88obrtb5.shop
+.z54a.xyz
 .z5x.net
 .z7yru.com
 .zabanit.xyz
@@ -40616,11 +40651,13 @@
 .bcbe.site
 .bd5a57.xyz
 .c31133f7.xyz
+.c76d1a1b.live
 .ca3d.site
 .ca9246.xyz
 .caa2c4.xyz
 .cd57296e.xyz
 .ce357c.xyz
+.cf959857.live
 .cfb98a.xyz
 .d23d450d.xyz
 .d477275c.xyz
@@ -40641,6 +40678,7 @@
 .f4c9a0fb.xyz
 .f6176563.site
 .f6b458fd.xyz
+.f700fa18.live
 .f816e81d.xyz
 .f8a070.xyz
 .fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
@@ -40827,6 +40865,7 @@
 .js.manga1001.win
 .js.mangakl.su
 .js.mangalove.top
+.js.mangaraw.bid
 .js.phoenixmanga.com
 .k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
 .karma.mdpcdn.com
@@ -46467,6 +46506,9 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.beacon.necotracks.jp
+.logs2.jobs.com
+.t.semafor.com
 .trc.r25.jp
 .anal.doubledouble.top
 .peach-analytics.vercel.app
@@ -47177,7 +47219,6 @@
 .logapi.zhipin.com
 .clb.yahoo.co.jp
 .svi.online.sberbank.ru
-.dmp.sbermarketing.ru
 .clt.banggood.com
 .collect.banggood.com
 .collector.github.com
@@ -49688,6 +49729,7 @@
 .k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 .kalstats.kaltura.com
 .l.fairblocker.com
+.lambda-url.us-east-1.on.aws
 .laurel.macrovision.com
 .laurel.rovicorp.com
 .leadtracking.plumvoice.com
@@ -49913,6 +49955,7 @@
 .t.cfjump.com
 .t.dgm-au.com
 .t.enuygun.com
+.t.fullres.net
 .t.jobsyn.org
 .t.menepe.com
 .t.playwayfinder.com
@@ -50510,6 +50553,7 @@
 .rnet.plus
 .roistat.com
 .sarov.ws
+.sbermarketing.ru
 .semantiqo.com
 .targetix.net
 .tbex.ru
@@ -50842,6 +50886,7 @@
 .counter.photopulse.ru
 .counter.reddigital.ru
 .counter.smotrim.ru
+.csp.yandex.net
 .dbex-tracker-v2.driveback.ru
 .error.videonow.ru
 .events.auth.gid.ru
@@ -60532,9 +60577,24 @@
 .cbgrqi.xyz
 .mtwuxss.icu
 .vsjrnh.xyz
+.yerhfnytky.top
+.gjjskhdnm.top
+.dajiahao8.top
+.oakmn.top
 .sgru.cn
 .irtliso.top
 .hrrjff.xyz
+.atbif.cn
+.jrtlisa.top
+.qdipsumy.top
+.fmmirep.icu
+.scanfang.com
+.onefuq.xyz
+.dclpjx.xyz
+.tdpujn.xyz
+.baijs08.xyz
+.krtlisd.top
+.hfptbf.cn
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
