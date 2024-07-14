@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 07/13/2024 04:15:28 AM (EST)
-# Total lines: 67453
+# Updated at 07/14/2024 04:18:46 AM (EST)
+# Total lines: 67461
 # https://github.com/rnlo/r
 .equipmentapes.com
 .vg876yuj.click
@@ -5951,6 +5951,7 @@
 .beklefkiom.com
 .beklinkor.com
 .belamicash.com
+.belatedsafety.pro
 .belavoplay.com
 .belaya2shu1ba1.com
 .belengougha.com
@@ -31179,6 +31180,7 @@
 .shocked-failure.com
 .shockedfoxed.top
 .shocking-design.pro
+.shocking-profile.pro
 .shockingrobes.com
 .shockingstrategynovelty.com
 .shoeingneurone.com
@@ -37350,6 +37352,7 @@
 .whootascots.com
 .whootkhankah.com
 .whoppercreaky.com
+.whopping-sea.com
 .whopstriglot.com
 .whoptoorsaub.com
 .whorlysenior.top
@@ -40639,6 +40642,7 @@
 .1350c3.xyz
 .156fd4.xyz
 .1a1fb6.xyz
+.1c52e1e2.live
 .1dd6e9ba.xyz
 .1f6a725b.xyz
 .20519a.xyz
@@ -49796,7 +49800,6 @@
 .k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 .kalstats.kaltura.com
 .l.fairblocker.com
-.lambda-url.us-east-1.on.aws
 .laurel.macrovision.com
 .laurel.rovicorp.com
 .leadtracking.plumvoice.com
@@ -60622,6 +60625,11 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.gkypgw.xyz
+.lyislol.top
+.tgrpzl.xyz
+.kwiqcoh.icu
+.lajevt.xyz
 .57573zubo36833.com
 .imgoss2255.top
 .tupian88888.com
