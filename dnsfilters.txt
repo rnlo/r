@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 07/15/2024 04:17:31 AM (EST)
-# Total lines: 67523
+# Updated at 07/16/2024 04:18:01 AM (EST)
+# Total lines: 67540
 # https://github.com/rnlo/r
+.duxlveokumpmd.com
+.stoogouy.net
 .equipmentapes.com
 .vg876yuj.click
 .lmj8i.pro
@@ -2105,6 +2107,7 @@
 .49b6b77e56.com
 .4a136c118e.com
 .4a167ec12d.com
+.4a9517991d.com
 .4b215e3bcf.com
 .4b41484f8e.com
 .4b6994dfa47cee4.com
@@ -16115,6 +16118,7 @@
 .gyudlffoisng.com
 .gyxkmpf.com
 .gzcxtuxgqjrhz.com
+.gzglmoczfzf.com
 .gzifhovadhf.com
 .gzigudxidz.com
 .gzkkbuvz.com
@@ -29535,6 +29539,7 @@
 .rfaatlrdr.com
 .rfeablduda.com
 .rfhddwa.com
+.rficarolnak.com
 .rfihub.com
 .rfihub.net
 .rfimzurarqk.com
@@ -36068,6 +36073,7 @@
 .vauthaud.net
 .vavcashpop.com
 .vavhhpkmfc.com
+.vavuwetus.com
 .vawauoggraokog.com
 .vawsmoocah.com
 .vax-boost.com
@@ -40950,6 +40956,7 @@
 .hb.yahoo.net
 .hbid.ams3.cdn.digitaloceanspaces.com
 .hotwire-widget.dailywire.com
+.hvdt8.chimeratool.com
 .inbound-step.heavenmedia.com
 .inrdeals.com
 .join.megaphonetv.com
@@ -43110,6 +43117,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sec.webeyez.com
 .michiganrobotflower.com
 .uid.mediacorp.sg
 .exacttarget.com
@@ -46601,6 +46609,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.akn.analytics.autodesk.com
 .marketing.dropbox.com
 .ok88okg.infinityscans.net
 .evt.24.com
@@ -56289,6 +56298,7 @@
 .vieon-tracking.vieon.vn
 .vietbuzzad.com
 .vietdorje.com
+.vietnamdaily-log.trithuccuocsong.vn
 .vlxx.host
 .vnadssb.com
 .web-analytic.ghtk.vn
@@ -60556,6 +60566,7 @@
 .walmartshoping.com
 .warrenmoneytrader.com
 .watch-online.49n7wqynho5u.top
+.wbk9sohp.jdpz.link
 .wdxzlv.org
 .web-membbership-freefire-garena.com
 .web-shopee-vn.com
@@ -60676,6 +60687,10 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.wnootzc.icu
+.eiuoom.xyz
+.bavotr.xyz
+.jyfdbj.xyz
 .gkypgw.xyz
 .lyislol.top
 .tgrpzl.xyz
@@ -60692,6 +60707,8 @@
 .jasdz1.cn
 .hyretuu.top
 .iteyi.xyz
+.aoiqa.top
+.uaiqp.top
 .57573zubo36833.com
 .imgoss2255.top
 .tupian88888.com
