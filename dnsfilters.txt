@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 07/22/2024 04:18:30 AM (EST)
-# Total lines: 66292
+# Updated at 07/23/2024 04:18:48 AM (EST)
+# Total lines: 66326
 # https://github.com/rnlo/r
+.maya15.site
 .ljr3.site
 .lcarlbvwr.com
 .thuckautiru.com
@@ -3711,6 +3712,7 @@
 .ahaxoenizuaon.com
 .ahbdsply.com
 .ahcdsply.com
+.ahdvpuovkaz.com
 .aheadreflectczar.com
 .aheaptorsos.life
 .aheave.com
@@ -5162,6 +5164,7 @@
 .aupsugnee.com
 .aupteens.com
 .aurdoagnoak.net
+.aurgersoagnu.net
 .aurgoast.com
 .auroraveil.bid
 .aurousroseola.com
@@ -5353,6 +5356,7 @@
 .awzvpbg.com
 .axalgyof.xyz
 .axallarded.top
+.axductile.com
 .axeldivision.com
 .axhpkbvibdn.com
 .axill.com
@@ -5616,6 +5620,7 @@
 .bamahseines.com
 .bambarmedia.com
 .banalrestart.com
+.banawgaht.com
 .banawyhjc.com
 .banbuyserve.com
 .banclip.com
@@ -7556,6 +7561,7 @@
 .calichevigogne.com
 .calicutscrubby.top
 .caliphmalign.website
+.calksenfire.com
 .callalelel.info
 .calledoccultimprovement.com
 .callmeooumou.com
@@ -9876,6 +9882,7 @@
 .cyih0e43aty7.com
 .cyijr.com
 .cyilxkpkf.com
+.cykcxgsvg.com
 .cylindermonastery.com
 .cylindrical-form.com
 .cylnkee.com
@@ -11465,6 +11472,7 @@
 .drewfoolery.com
 .dreyeli.info
 .drfaultlessplays.com
+.drgcnsnohnf.com
 .dribbleads.com
 .dribletbogled.com
 .dribturbot.com
@@ -13210,6 +13218,7 @@
 .f4823894ba.com
 .f48d1c06e4.com
 .f4961f1b2e.com
+.f59408d48d.com
 .f5v1x3kgv5.com
 .f773a03dcb.com
 .f794d2f9d9.com
@@ -14423,6 +14432,7 @@
 .fresnobench.com
 .fretsawlekanai.com
 .frettedmalta.top
+.freyaacronal.com
 .frfetchme.com
 .frfhhcxeqkubk.xyz
 .frhbrkjgerikm2f8mjek09.com
@@ -17832,6 +17842,7 @@
 .imperturbableawesome.com
 .imperturbableclothes.com
 .imperturbableresponsive.com
+.imperysavers.click
 .impetremondial.com
 .impishelizabethjumper.com
 .implix.com
@@ -22864,6 +22875,7 @@
 .mpay69.com
 .mpbohwtqqnw.com
 .mpbpuctr.com
+.mpcbjnku.com
 .mpcrvcbwdouo.com
 .mpfofpynoououe.xyz
 .mpfqphqf.com
@@ -24984,6 +24996,7 @@
 .oonasuhghjmzyw.com
 .oongouha.xyz
 .oonsaigu.xyz
+.oonsouque.com
 .oopatet.com
 .oophoame.xyz
 .oophuvum.net
@@ -28360,6 +28373,7 @@
 .qivolcgcemi.com
 .qizjkwx9klim.com
 .qjdlivr.com
+.qjmlmaffrqj.com
 .qjpotvwljgw.xyz
 .qjrhacxxk.xyz
 .qjsknpxwlesvou.com
@@ -29224,6 +29238,7 @@
 .reignprofessionally.com
 .reindaks.com
 .reinstandpointdumbest.com
+.reisoctene.com
 .reissue2871.xyz
 .reitbokgona.com
 .reivereme.com
@@ -31417,6 +31432,7 @@
 .sicknessfestivity.com
 .sickoaji.com
 .sicleclarets.com
+.sicouthautso.net
 .sidanarchy.net
 .sidebyx.com
 .sidebyz.com
@@ -36564,6 +36580,7 @@
 .virtuereins.com
 .virtuousescape.pro
 .visaexasperation.com
+.visargadimmit.com
 .visariomedia.com
 .visaspecialtyfluid.com
 .viscountquality.com
@@ -39359,6 +39376,7 @@
 .zxwhkosabux.com
 .zxxgoikbqyiu.com
 .zy16eoat1w.com
+.zyaaobgwnhts.com
 .zybbiez.com
 .zybrdr.com
 .zycaphede.com
@@ -40772,6 +40790,7 @@
 .072551.xyz
 .076f66b2.live
 .07e197.site
+.08f8f073.xyz
 .09bd5a69.xyz
 .0ae00c7c.xyz
 .0c0b6e3f.xyz
@@ -40923,6 +40942,7 @@
 .1093958623.rsc.cdn77.org
 .10945-2.s.cdn15.com
 .10945-5.s.cdn15.com
+.1138873808.rsc.cdn77.org
 .1139724980.rsc.cdn77.org
 .1147112108.rsc.cdn77.org
 .1156219164.rsc.cdn77.org
@@ -40957,6 +40977,7 @@
 .1543481067.rsc.cdn77.org
 .1548164934.rsc.cdn77.org
 .1564285319.rsc.cdn77.org
+.1574705750.rsc.cdn77.org
 .1593553817.rsc.cdn77.org
 .1630422306.rsc.cdn77.org
 .1675450967.rsc.cdn77.org
@@ -40965,6 +40986,7 @@
 .1759123620.rsc.cdn77.org
 .1770542895.rsc.cdn77.org
 .1810793056.rsc.cdn77.org
+.1834071374.rsc.cdn77.org
 .1896709103.rsc.cdn77.org
 .1933201447.rsc.cdn77.org
 .1946365241.rsc.cdn77.org
@@ -49839,7 +49861,6 @@
 .dig.ultimedia.com
 .dl.episerver.net
 .doppler-client-events.cbsivideo.com
-.doppler-config.cbsivideo.com
 .doppler-reporting.cbsivideo.com
 .dotaudiences.com
 .dynamic.ziftsolutions.com
@@ -50262,6 +50283,7 @@
 .tracker.marinsoftware.com
 .tracker.mrpfd.com
 .tracker.myyschool.xyz
+.tracker.nocodelytics.com
 .tracker.novage.com.ua
 .tracker.openwebtorrent.com
 .tracker.services.vaix.ai
@@ -55089,6 +55111,7 @@
 .tracking.bblat.se
 .tracking.blt.se
 .tracking.borlangetidning.se
+.tracking.borssnack.di.se
 .tracking.bt.se
 .tracking.byggindustrin.se
 .tracking.dagensmedia.se
@@ -60831,6 +60854,17 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.yfasjfk.icu
+.hetlwsu.top
+.1p3yg.icu
+.sowwoy.xyz
+.hfjmvr.xyz
+.xehodv.xyz
+.lyretul.top
+.oiu09.cn
+.grondrens.com
+.oyretuk.top
+.dv4ku.icu
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
