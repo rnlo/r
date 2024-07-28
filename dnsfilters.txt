@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 07/27/2024 04:15:37 AM (EST)
-# Total lines: 66590
+# Updated at 07/28/2024 04:15:30 AM (EST)
+# Total lines: 66601
 # https://github.com/rnlo/r
 .ywmvppnlwwxkgt.com
 .chouchicky.com
@@ -2101,6 +2101,7 @@
 .4087aa0dc1.com
 .40ceexln7929.com
 .42a5d530ec972d8994.com
+.42ce2b0955.com
 .42d61f012e27b36d53.com
 .42e228ef6f.com
 .42jdbcb.de
@@ -5905,6 +5906,7 @@
 .beauartisticleaflets.com
 .beautifulasaweath.info
 .beautifullyinflux.com
+.beauty1.xyz
 .beautyspumoid.top
 .beaverculbert.uno
 .beavertron.com
@@ -12195,6 +12197,7 @@
 .effectivemeasure.net
 .effectiveperformanceformat.com
 .effectiveperformancenetwork.com
+.effectscouncilman.com
 .effectsembower.top
 .effectsglancefirmly.com
 .effectslacybulb.com
@@ -12914,6 +12917,7 @@
 .eulogiafilial.com
 .eulogichebetic.top
 .eulogyargin.top
+.eunow4u.com
 .eunzkvf.com
 .euonymcalvous.com
 .euosicjxjv.com
@@ -18889,8 +18893,10 @@
 .jaupozup.xyz
 .jaurouth.xyz
 .java8.xyz
+.javacid.fun
 .javascriptcdnlive.com
 .javgg.eu
+.javmust.fun
 .jawinfallible.com
 .jawlookingchapter.com
 .jawsspecific.com
@@ -21143,6 +21149,7 @@
 .local-hot-dates.com
 .localadbuy.com
 .localedgemedia.com
+.locallycompare.com
 .locallyhastefowl.com
 .localsnaughty.com
 .locandalorries.com
@@ -41054,6 +41061,7 @@
 .8b71e197.xyz
 .8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 .8eef59a5.live
+.97496b9d.xyz
 .977878.xyz
 .97b448.xyz
 .9814b49f.xyz
@@ -49286,7 +49294,6 @@
 .log-verify.mob.com
 .app-analytics-services.com
 .sg.log.ulivetv.net
-.kr-col-ext.nelo.navercorp.com
 .events.funnelish.com
 .analytics.app.funnelish.com
 .analytics.starmakerstudios.com
@@ -53890,7 +53897,6 @@
 .sokmil-ad.com
 .ads-connect.com
 .affiliate.sonicsense.jp
-.daotag.com
 .ads.museum.or.jp
 .cdn.lodeo.io
 .seogreat.net
@@ -54967,6 +54973,7 @@
 .alkemi.com.se
 .ambassador.referralhero.com
 .amd.sellingsimplified.net
+.analys.landskrona.se
 .analytics.allas.se
 .analytics.apotekhjartat.se
 .analytics.arvika.se
@@ -61075,9 +61082,13 @@
 .zvietcombank.com
 .zvietnakello.weebly.com
 .hwerilxu.top
+.pgcciax.icu
+.iwmigu.xyz
+.fdtlfl.xyz
 .t0sfe1.com
 .shbzqkj.cn
 .jz4u1.icu
+.shbzogs.cn
 .molpmh.xyz
 .starredvs.com
 .wnmoobz.icu
