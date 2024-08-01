@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 07/31/2024 04:16:25 AM (EST)
-# Total lines: 66731
+# Updated at 08/01/2024 04:17:42 AM (EST)
+# Total lines: 66766
 # https://github.com/rnlo/r
+.kaxjtkvgo.com
+.whouvoart.com
 .hksnu.com
 .cndynza.click
 .thauckeesse.net
@@ -1302,6 +1304,7 @@
 .newbluetrue.xyz
 .onemediawork.com
 .d162h6x3rxav67.cloudfront.net
+.ad.kisstvshow.es
 .tapi.apkpure.net
 .advertising-cdn.dpgmedia.cloud
 .d2lg0swrp15nsj.cloudfront.net
@@ -2879,6 +2882,7 @@
 .acquaintplentifulemotions.com
 .acquirethem.com
 .acquisitionsneezeswell.com
+.acrelicenseblown.com
 .acrepantherrecite.com
 .acrevenene.com
 .acridtaxiworking.com
@@ -5039,6 +5043,7 @@
 .atgenesecton.com
 .atgthkqt.com
 .athbzeobts.com
+.atheegrun.net
 .atheismperplex.com
 .atherthishinhe.com
 .athitmontopon.com
@@ -9401,6 +9406,7 @@
 .corenotabilityhire.com
 .coreportions.com
 .coresepyllia.com
+.corgouzaptax.com
 .corialthanes.life
 .corixaraphide.top
 .corneey.com
@@ -10111,6 +10117,7 @@
 .damnightmareleery.com
 .damozelmikvahs.com
 .dampapproach.com
+.dampedvisored.com
 .dampwarabi.com
 .dana123.com
 .danaineirrupt.top
@@ -21438,6 +21445,7 @@
 .lqmvvsgusod.com
 .lqpmulou.com
 .lqsbqjuld.com
+.lqtiwevsan.com
 .lqwswjwpmaih.com
 .lqxuwqhh.com
 .lr-in.com
@@ -21784,6 +21792,7 @@
 .maintainedencircle.com
 .maintenancewinning.com
 .maioux.xyz
+.maipheeg.com
 .maipofok.net
 .maiptica.com
 .mairbeets.com
@@ -22372,6 +22381,7 @@
 .mewgzllnsp.com
 .mewlstomolo.top
 .mexicantransmission.com
+.mexoacmaidu.com
 .meyopuae.com
 .meyximegrgypnv.com
 .mf233y3dg6n.shop
@@ -22661,6 +22671,7 @@
 .mljcfymfve.com
 .mlkpbktmqrsry.com
 .mllatydz.com
+.mllqfiucttnuzn.com
 .mlnadvertising.com
 .mlnsetyxcut.com
 .mlnybwnbwzhiy.com
@@ -24201,6 +24212,7 @@
 .noveltyensue.com
 .novemberadventures.com
 .novemberadventures.name
+.novemberassimilate.com
 .novemberseatsuccession.com
 .novembersightsoverhear.com
 .novemberslantwilfrid.com
@@ -24269,6 +24281,7 @@
 .nrs6ffl9w.com
 .nrunmoldy.com
 .nrvbadypy.com
+.nrxdmssm.com
 .nryanocytqc.com
 .nrztjbpish.com
 .ns003.com
@@ -25214,6 +25227,7 @@
 .opbllqzsmfoxq.com
 .opchikoritar.com
 .opclauncheran.com
+.opclck.com
 .opdavplcufic.com
 .opdowvamjv.com
 .opeanresultanc.com
@@ -30968,6 +30982,7 @@
 .scornfulabsorbploy.com
 .scornphiladelphiacarla.com
 .scotianosed290noelind.com
+.scotizeoperae.com
 .scotsmaut.top
 .scousepneuma.com
 .scowmantubba.cfd
@@ -32254,6 +32269,7 @@
 .solocpm.com
 .solodar.ru
 .soloisthaulchoir.com
+.solrtrqaitnjy.com
 .soltaixa.com
 .solvusserosal.com
 .sombes.com
@@ -34089,6 +34105,7 @@
 .thaucmozsurvey.space
 .thaudray.com
 .thauftoa.net
+.thauhoux.com
 .thaujauk.net
 .thaust.com
 .thautselr.com
@@ -34121,6 +34138,7 @@
 .theeksen.com
 .theelrou.net
 .theenfu.com
+.theeptoah.com
 .theetholri.xyz
 .theextensionexpert.com
 .thefacux.com
@@ -35103,6 +35121,7 @@
 .trmit.com
 .trmnsite.com
 .trmobc.com
+.trodspivery.com
 .troduc.com
 .trokemar.com
 .trolleydemocratic.com
@@ -35635,6 +35654,7 @@
 .ulexiteoutspit.com
 .ulfqakqfng.xyz
 .ulftutvlodv.com
+.ullucupuces.click
 .ulmmmvjfbbmk.com
 .ulmoyc.com
 .ulmujev.com
@@ -37853,6 +37873,7 @@
 .willingnessaggravationfits.com
 .willingnesslookheap.com
 .willtissuetank.com
+.wilrimowpaml.com
 .wilslide.com
 .wimpeelt.com
 .wimplesbooklet.com
@@ -38715,6 +38736,7 @@
 .xuircnbbidmu.com
 .xujhdtynpgctncq.com
 .xukevxdf.com
+.xukpqemfs.com
 .xukpresesmr.info
 .xuosvih.com
 .xuqarnasvru.com
@@ -41174,6 +41196,7 @@
 .d8b0a5.xyz
 .d980ed.xyz
 .da28c69e.xyz
+.dcad1d97.xyz
 .dd2270.xyz
 .de214f.xyz
 .e076.xyz
@@ -41319,6 +41342,7 @@
 .adx-exchange.toast.com
 .adx.opera.com
 .aff.bstatic.com
+.affiliate-cdn.raptive.com
 .affiliate.heureka.cz
 .affiliate.juno.co.uk
 .affiliate.mediatemple.net
@@ -41431,6 +41455,7 @@
 .pushtoast-a.akamaihd.net
 .qsearch-a.akamaihd.net
 .random-affiliate.atimaze.com
+.revboostprocdnadsprod.azureedge.net
 .rotabanner.kulichki.net
 .rotator.tradetracker.net
 .rubylife.go2cloud.org
@@ -43549,6 +43574,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pop.devil.services
+.pixeltrack.clientgear.com
+.event.clientgear.com
 .api.receptivity.io
 .static.target2sell.com
 .sumatra.ai
@@ -44568,7 +44596,6 @@
 .tag.pprl.io
 .collector.mediator.media
 .rc.vtex.com.br
-.telemetric.dk
 .browser.events.data.msn.cn
 .browser.events.data.msn.com
 .lngtd.com
@@ -47045,7 +47072,9 @@
 .webtrekk.net
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
+.e.truedata.co
 .tagman.britishairways.com
+.c1-stats.shopifysvc.com
 .telemetry.stytch.com
 .stat.le.com
 .fe-go.letv.com
@@ -50394,6 +50423,7 @@
 .play.adtonos.com
 .player-metrics.instaread.co
 .pm.boostintegrated.com
+.pmi.flowplayer.com
 .popup-static.unisender.com
 .porpoise.azettl.net
 .pr.blogflux.com
@@ -50729,6 +50759,7 @@
 .d2kdl5wcwrtj90.cloudfront.net
 .d2lxqodqbpy7c2.cloudfront.net
 .d2o67tzzxkqap2.cloudfront.net
+.d2pozfvrp52dk4.cloudfront.net
 .d2pt12ct4kmq21.cloudfront.net
 .d2rnkf2kqy5m6h.cloudfront.net
 .d2t77mnxyo7adj.cloudfront.net
@@ -50964,6 +50995,7 @@
 .semnicneposilejte.cz
 .smartselling.cz
 .digitaladvisor.dk
+.telemetric.dk
 .onlinesucces.nl
 .synovite-scripts.com
 .leiki.com
@@ -54175,6 +54207,7 @@
 .azol.de
 .twiago.com
 .bauernative.com
+.uetlwst.top
 .qetlwsy.top
 .cengqinglin.cn
 .sprewcereous.com
@@ -55147,7 +55180,6 @@
 .cdn.advisible.com
 .cdn.amplitude.com
 .cdn.appsmav.com
-.cdn.biddercore.io
 .cdn.foxpush.net
 .cdn.gravitec.net
 .cdn.jst.ai
@@ -55244,7 +55276,6 @@
 .img.ascontentcloud.com
 .img06.en25.com
 .insight.nikkasystems.com
-.instant.page
 .interactions.sesamy.com
 .investerarbrevet.se
 .inviso.rampanel.com
@@ -55323,7 +55354,6 @@
 .plausible.webfokus.no
 .plus.sharedcount.com
 .pm.azerioncircle.com
-.popitunder.com
 .portalhc.com
 .proxyas.com
 .pushcrew.com
@@ -55365,7 +55395,6 @@
 .secure.reaktion.se
 .secure.statcounter.com
 .seenthis.se
-.selectofmychoices.com
 .sentry.outbid.io
 .seo.compado.com
 .seonify.com
@@ -55591,6 +55620,7 @@
 .adplay.it
 .affiliation.software
 .brznetwork.com
+.btmarketing.it
 .delosnetwork.it
 .eadv.it
 .epeex.io
@@ -56394,6 +56424,7 @@
 .adx.xemvtv.net
 .adx.xtv.vn
 .aff.atp.vn
+.aff2.linksht.online
 .affiliate.chiaki.vn
 .ailamtrieuphu.com
 .aj2393.online
@@ -60135,6 +60166,7 @@
 .tracuugiaodichvi.com
 .tracuugplx.vn
 .tracuuthenap247.com
+.tracuutthvt.com
 .traderviet88.com
 .traffic-c.com
 .trang-chu-vn.com
@@ -61176,6 +61208,8 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.script302.top
+.vecggfp.icu
 .sgwsss.xyz
 .uqcktxp.icu
 .vhzivz.xyz
@@ -61184,6 +61218,7 @@
 .tetlwsi.top
 .swerilxb.top
 .shbznkj.cn
+.shbzkkj.cn
 .balili2024.top
 .w0079.com
 .w0082.com
