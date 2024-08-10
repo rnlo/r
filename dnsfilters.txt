@@ -1,7 +1,12 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 08/09/2024 04:18:01 AM (EST)
-# Total lines: 67025
+# Updated at 08/10/2024 04:16:33 AM (EST)
+# Total lines: 67057
 # https://github.com/rnlo/r
+.signamentswithded.com
+.atethebenefitsshe.com
+.d3nz96k4xfpkvu.cloudfront.net
+.rtoukfareputfe.info
+.boqmjxtkwn.com
 .smart1adserver.com
 .polisnetwork.io
 .ktikpuruxasq.com
@@ -3991,6 +3996,7 @@
 .alfredvariablecavalry.com
 .algg.site
 .algiczonated.top
+.algistemigre.shop
 .algjqsuzialktg.com
 .algolduckan.com
 .algothitaon.com
@@ -4910,6 +4916,7 @@
 .ashamedbirchpoorly.com
 .ashamedtriumphant.com
 .ashameoctaviansinner.com
+.ashasvsucocesis.com
 .ashcdn.com
 .ashhgo.com
 .ashierbowler.com
@@ -6361,6 +6368,7 @@
 .bhcont.com
 .bhcostefja.com
 .bhgmlryalkwx.xyz
+.bhijizlez.com
 .bhlom.com
 .bhlph.com
 .bhnhejwj.com
@@ -7334,6 +7342,7 @@
 .buccanslabby.top
 .buckersregiven.com
 .buckeyekantars.com
+.buckumoore.com
 .buckwheatchipwrinkle.com
 .bucojjqcica.com
 .budapebluest.com
@@ -8269,6 +8278,7 @@
 .chauinubbins.com
 .chaulsan.com
 .chaunsoops.net
+.chaupsoz.net
 .chaursug.xyz
 .chaussew.net
 .chautcho.com
@@ -13828,6 +13838,7 @@
 .ffuzila.com
 .ffwbzklcszdk.com
 .ffxxdjucvk.com
+.fgbnnholonge.info
 .fgbthrsxnlo.xyz
 .fgdxwpht.com
 .fgfgnbmeieorr910.com
@@ -18549,6 +18560,7 @@
 .interstitial-07.com
 .interstitial-08.com
 .intervention304.fun
+.intervention423.fun
 .interviewabonnement.com
 .interviewearnestlyseized.com
 .interviewidiomantidote.com
@@ -19037,6 +19049,7 @@
 .javmanager11.fun
 .javmust.fun
 .javpremium11.fun
+.javtrouble11.fun
 .javtype.fun
 .jawinfallible.com
 .jawlookingchapter.com
@@ -22452,6 +22465,7 @@
 .messagereceiver.com
 .messenger-notify.digital
 .messenger-notify.xyz
+.messengeridentifiers.com
 .messiahspoot.com
 .messy-concentrate.com
 .messymeter.com
@@ -24207,6 +24221,7 @@
 .nonfictionrobustchastise.com
 .nonfictiontickle.com
 .nongamemealman.guru
+.nongrayrestis.com
 .nonremid.com
 .nonsensethingresult.com
 .nonspewpa.com
@@ -29118,6 +29133,7 @@
 .ramblecursormaths.com
 .rambobf.com
 .rameejour.com
+.ramieuretal.com
 .rammagepatagia.com
 .rammersdarvon.com
 .rammishruinous.com
@@ -29575,6 +29591,7 @@
 .regioncolonel.com
 .regioninaudibleafforded.com
 .registercherryheadquarter.com
+.registration423.fun
 .reglazetentie.com
 .reglowsupbar.com
 .regnicmow.xyz
@@ -30547,7 +30564,6 @@
 .rtncskottpfwb.com
 .rtoadlavcam.com
 .rtorvhhdru.xyz
-.rtoukfareputfe.info
 .rtphit.com
 .rtpnt.xyz
 .rtqdgro.com
@@ -32324,6 +32340,7 @@
 .soakcompassplatoon.com
 .soalonie.com
 .soaperdeils.com
+.soaphoupsoas.xyz
 .soapingbourgs.top
 .soawousa.xyz
 .sobakapi2sa8la09.com
@@ -35124,6 +35141,7 @@
 .transitionfrenchdowny.com
 .translatingimport.com
 .translationbuddy.com
+.transmission423.fun
 .transmitterincarnatebastard.com
 .transportationdealer.com
 .transportationdelight.com
@@ -35383,6 +35401,7 @@
 .ttnpxtsp.com
 .ttnrd.com
 .ttoc8ok.com
+.ttquix.xyz
 .ttsbtdgdo.com
 .ttwmed.com
 .ttzmedia.com
@@ -36097,6 +36116,7 @@
 .unskilfulwalkerpolitician.com
 .unskilledexamples.com
 .unslimtugger.top
+.unsnareparroty.com
 .unsoggynek.life
 .unspeakablefreezing.com
 .unspeakablepurebeings.com
@@ -38648,6 +38668,7 @@
 .xbtjupfy.xyz
 .xbwiykqxeiqb.com
 .xbxmdlosph.xyz
+.xcdkxayfqe.com
 .xcec.ru
 .xcejarignt.com
 .xcelltech.com
@@ -39678,6 +39699,7 @@
 .zmjagawa.com
 .zmonei.com
 .zmwbrza.com
+.zmyjessp.com
 .znaptag.com
 .zncbitr.com
 .zncsdysorwms.com
@@ -41327,6 +41349,7 @@
 .70b927c8.live
 .7608d5.xyz
 .7841ffda.xyz
+.78b78ff8.xyz
 .7ca989e1.xyz
 .7e60f1f9.xyz
 .7e809ed7-e553-4e29-acb1-4e3c0e986562.site
@@ -41562,7 +41585,7 @@
 .bs-adserver.b-cdn.net
 .btr.domywife.com
 .c.bannerflow.net
-.c.bigcomics.win
+.c.bigcomics.bid
 .c2shb.pubgw.yahoo.com
 .campaigns.williamhill.com
 .cdn.ad.page
@@ -43771,6 +43794,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.viaklera.com
 .app.kuvio.io
 .data.media-lab.ai
 .kapetracking.com
@@ -47280,6 +47304,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.fresnel-events.vimeocdn.com
+.evt.ilovepdf.com
 .beacon.adelphic.com
 .pixels.spotify.com
 .ylog.huya.com
@@ -55346,6 +55372,7 @@
 .angry-golick-2a96e5.netlify.app
 .annons.svenskjakt.se
 .annons.turist.se
+.annonsserver.se
 .api.adfenix.com
 .api.getlevelten.com
 .api.lab.eu.amplitude.com
@@ -61433,11 +61460,18 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.gfchck.xyz
+.knuinws.icu
+.shbxukj.cn
+.lvnzrh.xyz
+.hrutvncu.top
 .utewyc.xyz
 .rpeutxu.icu
 .shbxugs.cn
 .clkwnl.xyz
 .zjplnz.xyz
+.crutvncf.top
+.vinsgcs.com
 .nxrajr.xyz
 .hhausq.top
 .baijs05.shop
@@ -65885,7 +65919,6 @@
 .b1.c1km4.com
 .b1.engdvd.com
 .b1.xiao84.com
-.b17.8794.cn
 .b7sw62.pingshu8.xyz
 .baidu1.cardbaobao.com
 .baidu1.codejie.net
@@ -66163,7 +66196,6 @@
 .jibn12.jintang114.org
 .jinhonghao.cn
 .jintonghua.com
-.jiyan.net
 .jke1.jianke.com
 .jquery.envi-met.com.cn
 .js.263y.com
