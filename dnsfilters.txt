@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 08/10/2024 04:16:33 AM (EST)
-# Total lines: 67057
+# Updated at 08/11/2024 04:15:54 AM (EST)
+# Total lines: 67110
 # https://github.com/rnlo/r
 .signamentswithded.com
 .atethebenefitsshe.com
@@ -6243,6 +6243,7 @@
 .bestcontentproject.top
 .bestcontentprovider.top
 .bestcontentservice.top
+.bestcontentsite.top
 .bestcontenttrade.top
 .bestcontentuse.top
 .bestcontentweb.top
@@ -36485,6 +36486,7 @@
 .vaccinationinvalidphosphate.com
 .vaccinationwear.com
 .vaccineconvictedseafood.com
+.vacpukna.com
 .vacuomedogeys.com
 .vacwrite.com
 .vadokfkulzr.com
@@ -41375,6 +41377,7 @@
 .b0f2f18e.xyz
 .b211.xyz
 .b2bf222e.xyz
+.b395bfcd.xyz
 .b51475b8.xyz
 .b59c.xyz
 .b70456bf.xyz
@@ -43794,6 +43797,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pageview.click
 .viaklera.com
 .app.kuvio.io
 .data.media-lab.ai
@@ -47304,6 +47308,32 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.d.analyticsmania.com
+.gtm.lercio.it
+.gtm.mandesager.dk
+.sgtm.anita.com
+.sgtm.atg.se
+.sgtm.blume2000.de
+.sgtm.csas.cz
+.sgtm.kaspersky.de
+.sgtm.macrolibrarsi.it
+.sgtm.mapei.com
+.sgtm.milestonesys.com
+.sgtm.mycall.no
+.sgtm.myprotein.jp
+.sgtm.ookla.com
+.sgtm.open.ac.uk
+.sgtm.tagmanageritalia.it
+.sgtm.technikboerse.com
+.sgtm.tennis-point.de
+.sgtm.yubico.com
+.ss.esade.edu
+.sst.colemanfurniture.com
+.sst.shopware.com
+.stream.corporatefinanceinstitute.com
+.tr.wbstraining.de
+.trckng.dainese.com
+.trckng.web55708.greatnet-hosting.de
 .fresnel-events.vimeocdn.com
 .evt.ilovepdf.com
 .beacon.adelphic.com
@@ -57311,6 +57341,7 @@
 .baotienphong.net
 .baotrixanhvn.com
 .baoviet-vn.cc
+.baovietn.vip
 .barbecueappledos.pw
 .bb9998.com
 .bbankpower.com
@@ -57400,6 +57431,7 @@
 .cettiarl.com
 .cf222.art
 .cgovn.cc
+.cham-soc-the-truc-tuyen.com.vn
 .chamsockhachang.com
 .chamsockhachhang-tructuyenuudaithe.online
 .chamsockhachhang-uudai-the-truc-tuyen.online
@@ -57953,6 +57985,7 @@
 .getintopc.digital
 .getmacos.org
 .getwindowsactivator.info
+.ggiao.hangtietkiem.com
 .ggzzmm.shop
 .ghnn11.com
 .ghnn22.com
@@ -58011,6 +58044,7 @@
 .goshopee.club
 .goshopee.net
 .goshopee.vip
+.govn.cc
 .gpay-mpos-ruttientindung.com
 .gpay247-mp0s-quetthetindung.com
 .gplxgovn.vn
@@ -58088,6 +58122,7 @@
 .hethongdonhang.com
 .hethonggiaodichvidientu247.com
 .hethongquatang.vn
+.hethongvaynhanh247.com
 .hethongviet99.com
 .hgff11.com
 .hhwd68.com
@@ -58341,6 +58376,7 @@
 .kstorybank.top
 .ktien.vn
 .kuyhaa-me.pw
+.kyaj11.com
 .l-fb.co
 .la533.com
 .la5959.com
@@ -58576,6 +58612,7 @@
 .mbbankmn.com
 .mbbankn.com
 .mbbffn.online
+.mbbkh-canhan.com
 .mbcanhan-cskh.com
 .mbdk99.com
 .mbdkb.com
@@ -58645,6 +58682,7 @@
 .mkshopmobi.xyz
 .mlazada.com
 .mlswl.shop
+.mmbonline01.com
 .mmocorporation2017.com
 .mmomo.me
 .mmovietnam.info
@@ -59646,6 +59684,7 @@
 .shopeesmarket.com
 .shopeeson.com
 .shopeesop.com
+.shopeesopp.com
 .shopeesukien.com
 .shopeetiki.com
 .shopeetro.club
@@ -60129,6 +60168,7 @@
 .tdkd03.com
 .tdkd07.com
 .tdkd08.com
+.tdke03.com
 .tdkt00.com
 .tdkt01.com
 .tdkt04.com
@@ -60180,6 +60220,7 @@
 .thisinhthanhlich.com
 .thisinhthanhlich2022.com
 .thisinhthanhlich2024.com
+.thongtincutru.org
 .thongtindancu.org
 .thongtindonhang.com
 .thpthuynhthuckhang.edu.vn
@@ -61157,6 +61198,7 @@
 .vnpaycredit-ruttientindung247.com
 .vnpaycreditruttientindung-247.com
 .vnpt99.com
+.vnsehotro.com
 .vnsendo.info
 .vnsendo.net
 .vnsendo.shop
@@ -61196,6 +61238,7 @@
 .vnvietcombank.cc
 .vnvietcombanks.cc
 .vnvietjet.com
+.vnviettel.com
 .vnwish.shop
 .vodkaquang.com
 .vongloai.vn
@@ -61386,6 +61429,7 @@
 .woorivn.online
 .word.emldn.com
 .wutienitme247.info
+.wvOntgd.pqmg.bid
 .wvietcombank.com
 .wviietcombank.com
 .wvvietcombank.com
@@ -61456,10 +61500,19 @@
 .zla963.top
 .zmomo.cc
 .znavidsde.cfd
+.zutube.pro
 .zvay.online
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.sravga.xyz
+.shbzikj.cn
+.xhlkvx.xyz
+.dgkship.icu
+.pojdnf.xyz
+.pfkgl.top
+.wdxxx.top
+.ekltes.xyz
 .gfchck.xyz
 .knuinws.icu
 .shbxukj.cn
