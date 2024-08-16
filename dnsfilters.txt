@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 08/15/2024 04:18:05 AM (EST)
-# Total lines: 64149
+# Updated at 08/16/2024 04:18:18 AM (EST)
+# Total lines: 64177
 # https://github.com/rnlo/r
+.wpwserawnuwq.com
+.zbysshlpgvl.com
 .ravm.tv
 .hjjpsotb.com
 .zoustara.net
@@ -3208,6 +3210,7 @@
 .adsensecamp.com
 .adsensecustomsearchads.com
 .adser.io
+.adservb.com
 .adserve.ph
 .adserved.net
 .adserverplus.com
@@ -9099,6 +9102,7 @@
 .craharice.com
 .crajeon.com
 .crakbanner.com
+.crakedquartin.com
 .crampcrossroadbaptize.com
 .crampincompetent.com
 .cranebecomingwindfall.com
@@ -13233,6 +13237,7 @@
 .floralrichardapprentice.com
 .floraopinionsome.com
 .floristgathering.com
+.floroonwhun.com
 .flossdiversebates.com
 .flotsanrantan.com
 .flounderhomemade.com
@@ -13845,6 +13850,7 @@
 .fuskoqvoaprjr.com
 .fusoidactuate.com
 .fussy-highway.pro
+.futharcconny.shop
 .futileharrystephen.com
 .futilepreposterous.com
 .futilereposerefreshments.com
@@ -15325,6 +15331,7 @@
 .halftimestarring.com
 .halfwayscratchcoupon.com
 .halileo.com
+.hallanjerbil.com
 .hallucinatecompute.com
 .hallucinatediploma.com
 .hallucinatepromise.com
@@ -16546,6 +16553,7 @@
 .idswinpole.casa
 .idthecharityc.info
 .idydlesswale.info
+.idyllteapots.com
 .ie3wisa4.com
 .ie8eamus.com
 .iebsmqevw.com
@@ -24241,6 +24249,7 @@
 .panisicelectre.top
 .pannamdashee.com
 .pannumregnal.com
+.panowiesnarled.click
 .panoz.xyz
 .panpant.xyz
 .pansymerbaby.com
@@ -27134,6 +27143,7 @@
 .rashlyblowfly.com
 .raspberryamusingbroker.com
 .raspedexsculp.com
+.rasurescaribou.com
 .ratcovertlicence.com
 .ratebilaterdea.com
 .ratesatrociousplans.com
@@ -27239,6 +27249,7 @@
 .readly-renterval.icu
 .readserv.com
 .readspokesman.com
+.readsubsequentlyspecimen.com
 .readyblossomsuccesses.com
 .reagend.com
 .reager30.com
@@ -27956,6 +27967,7 @@
 .ridseechiph.com
 .ridwmorfitu.com
 .rieversfidate.com
+.riffingwiener.com
 .riffledyanked.click
 .riflesurfing.xyz
 .riftharp.com
@@ -29737,6 +29749,7 @@
 .skiingwights.com
 .skilfuljealousygeoffrey.com
 .skilfulrussian.com
+.skilldicier.com
 .skilleadservices.com
 .skilledskillemergency.com
 .skilledtables.com
@@ -36611,6 +36624,7 @@
 .zaihxti.com
 .zaikasoatie.xyz
 .zailoanoy.com
+.zaipousu.net
 .zaistaug.net
 .zajukrib.net
 .zaltaumi.net
@@ -40841,6 +40855,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.collector-pxebumdlwe.px-cloud.net
+.collector-pxebumdlwe.px-cdn.net
+.s2s.adjust.com
+.view.adjust.com
+.engagements.appsflyer.com
 .pageview.click
 .viaklera.com
 .app.kuvio.io
@@ -51454,7 +51473,6 @@
 .mbadv.nan.co.jp
 .creative.live.tktube.com
 .ads.world-fusigi.net
-.ad.inter-edu.com
 .ad.eloan.co.jp
 .ad.abema.io
 .ad-hatena.com
@@ -58512,10 +58530,21 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.nmtcxz.xyz
+.doujs07.shop
+.izqeyo.xyz
+.shbzigs.cn
+.wrutvnce.top
+.uhmcjdc.icu
+.npbtnl.xyz
+.ljzcawea.icu
+.lumnxiel.top
 .wnstug.xyz
 .shbzhkj.cn
 .jrjtibez.icu
 .bowoprf.icu
+.oumnxiek.top
+.erutvncw.top
 .pxqqytk.icu
 .dshjbn.xyz
 .shbzjkj.cn
@@ -63103,7 +63132,6 @@
 .cdnjs.z-face.cn
 .cee1.iteye.com
 .chong-wu.net
-.chunyuqiufeng.com
 .ckg.vipyl.com
 .classic.39health.com
 .cm.baidu.com
