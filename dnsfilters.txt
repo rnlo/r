@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 08/20/2024 04:18:24 AM (EST)
-# Total lines: 64404
+# Updated at 08/21/2024 04:18:08 AM (EST)
+# Total lines: 64420
 # https://github.com/rnlo/r
 .avlcc.ajscdn.com
 .endowmentoverhangutmost.com
@@ -3871,6 +3871,7 @@
 .alcatza.com
 .alchemysocial.com
 .alchimybegins.com
+.alcidkits.com
 .alcovesoftenedenthusiastic.com
 .alcroconawa.com
 .aldosesmajeure.com
@@ -5110,6 +5111,7 @@
 .autoperplexturban.com
 .autopsyfowl.com
 .autumncamping.com
+.autumndrum.com
 .auvenebu.xyz
 .auwjmphx.com
 .auxiliarydonor.com
@@ -5843,6 +5845,7 @@
 .behaviourquarrelsomelollipop.com
 .beheadmuffleddetached.com
 .beheldconformoutlaw.com
+.behesttitus.com
 .behim.click
 .behindfebruary.com
 .beholdcontents.com
@@ -8114,6 +8117,7 @@
 .circumstantialplatoon.com
 .circusinjunctionarrangement.com
 .circusmediocre.com
+.cirrateremord.com
 .ciscoesfirring.guru
 .cisfazpisju.com
 .cisheeng.com
@@ -9057,6 +9061,7 @@
 .covivado.club
 .cow-timerbudder.org
 .cowerscrowers.top
+.cowroidforril.click
 .cowtpvi.com
 .coxaripply.top
 .coxiesthubble.com
@@ -17362,6 +17367,7 @@
 .intruderalreadypromising.com
 .intrustedzone.site
 .intuitiontrenchproduces.com
+.intuseseorita.com
 .inuedidgmapla.com
 .inulaserenegue.top
 .inumbreonr.com
@@ -22608,6 +22614,7 @@
 .nopoloferewer.com
 .noproblfr.com
 .noptog.com
+.norardmirror.com
 .norentisol.com
 .noretia.com
 .normalheart.pro
@@ -24662,6 +24669,7 @@
 .peasbishopgive.com
 .peaveynee.top
 .pebadu.com
+.pebbledteledus.com
 .pebbleoutgoing.com
 .pecdfzy.com
 .pecialukizeias.info
@@ -25676,6 +25684,7 @@
 .pouchadjoinmama.com
 .pouchaffection.com
 .pouchclockwise.com
+.pouchedathelia.com
 .poudrinnamaste.com
 .poufaini.com
 .poufsgausses.top
@@ -29129,6 +29138,7 @@
 .searchmulty.com
 .searchrespectivelypotency.com
 .searchsecurer.com
+.searswalers.com
 .seashorelikelihoodreasonably.com
 .seashoremessy.com
 .seashorepigeonsbanish.com
@@ -30816,6 +30826,7 @@
 .sternlythese.com
 .steropestreaks.com
 .sterouhavene.org
+.stertordorab.com
 .steshacm.xyz
 .stethaug.xyz
 .stethuth.xyz
@@ -34220,6 +34231,7 @@
 .venuewasadi.org
 .venulaeriggite.com
 .veoxphl.com
+.vepemtuphul.net
 .vephowcpyvncm.com
 .veralmefarketi.info
 .verandahcrease.com
@@ -35113,6 +35125,7 @@
 .weekendchinholds.com
 .weeklideals.com
 .weemofee.com
+.weephuwe.xyz
 .weepingheartache.com
 .weepingpretext.com
 .weeprobbery.com
@@ -35837,6 +35850,7 @@
 .wretchmilitantasia.com
 .wrevenuewasadi.info
 .wrgjbsjxb.xyz
+.wrightdirely.com
 .wringdecorate.com
 .wrinkleirritateoverrated.com
 .wristtrunkpublication.com
@@ -38624,6 +38638,7 @@
 .3a2e.site
 .3a55f02d.xyz
 .3ffa255f.xyz
+.40451343.xyz
 .4126fe80.xyz
 .420db600.xyz
 .45496fee.xyz
@@ -40585,7 +40600,6 @@
 .tnc16-alisg.isnssdk.com
 .tnc16-useast1a.isnssdk.com
 .app.adjust.world
-.app.adjust.net.in
 .ads.feelingtouch.com
 .ad.tencentmusic.com
 .ads.iosappsworld.com
@@ -41072,7 +41086,6 @@
 .sec.webeyez.com
 .michiganrobotflower.com
 .uid.mediacorp.sg
-.exacttarget.com
 .analytics.launch.bz
 .qobuz.surveysparrow.com
 .srvr.dmvs-apac.com
@@ -44551,6 +44564,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.ninja.data.olxcdn.com
 .ocular.mydealz.de
 .tiq.espritshop.pl
 .abc.espritshop.pl
@@ -44562,7 +44576,6 @@
 .trace.mjyx.com
 .event-router.chime.com
 .t3.cdnpure.com
-.counter.wikiwiki.jp
 .applytics.nordvpn.com
 .d.analyticsmania.com
 .gtm.lercio.it
@@ -45130,7 +45143,6 @@
 .cdn-redirector.glopal.com
 .storelog.kode.co.kr
 .ampltd2.medal.tv
-.l.bfmtv.com
 .analytics.dugun.com
 .report2.iciba.com
 .report.iciba.com
@@ -51196,7 +51208,6 @@
 .medyanative.com
 .61ads.net
 .apptospace.com
-.aybereklam.com
 .publisher-network.com
 .dzypro.xyz
 .storj.cloud
@@ -58737,6 +58748,11 @@
 .hewrutu.top
 .jyjrbz.xyz
 .kjxhd.cn
+.doujs08.shop
+.baijs08.shop
+.lkdyft.xyz
+.yuwqsk.xyz
+.dkhffh.xyz
 .uloscw.xyz
 .gahejiao.com
 .nbfsvreu.icu
