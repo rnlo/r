@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 08/23/2024 04:18:17 AM (EST)
-# Total lines: 64496
+# Updated at 08/24/2024 04:16:09 AM (EST)
+# Total lines: 64525
 # https://github.com/rnlo/r
+.wwcpyupbrcuhcsn.com
+.peenuteque.net
 .palaesavgs.com
 .flyads1.com
 .fasgazazxvi.com
@@ -10344,6 +10346,7 @@
 .dinnercreekawkward.com
 .dinomicrummies.com
 .dinseegny.com
+.diosminlissome.com
 .dioxidtoluyls.com
 .diplic.com
 .diplnk.com
@@ -11103,6 +11106,7 @@
 .duellosheliced.com
 .duesirresponsible.com
 .duetads.com
+.dufflesmorinel.com
 .dufjgdjeyo.com
 .dufrom.com
 .duftoagn.com
@@ -11630,6 +11634,7 @@
 .ehqdzqi.com
 .ehrydnmdoe.com
 .eicbgbnbvjf.com
+.eidoscruster.com
 .eiewwepb.com
 .eighteenderived.com
 .eighteenprofit.com
@@ -12331,6 +12336,7 @@
 .ewesmedia.com
 .ewhareey.com
 .ewikajs.com
+.ewogloarge.com
 .ewoodandwaveo.com
 .ewoutosh.com
 .ewoverth.buzz
@@ -12917,6 +12923,7 @@
 .femsurgo.com
 .fenacheaverage.com
 .fencerecollect.com
+.fencersdatcha.com
 .fenddiscourse.com
 .feneverybodypsychological.com
 .fenixm.com
@@ -14612,6 +14619,7 @@
 .gloogeed.xyz
 .gloognoogrix.com
 .gloogruk.com
+.gloohozedoa.xyz
 .gloolrey.com
 .glooltoora.net
 .gloomfabricgravy.com
@@ -14899,6 +14907,7 @@
 .gowspow.com
 .gpcrn.com
 .gpfaquowxnaum.xyz
+.gpibcoogfb.com
 .gpiyzwt.com
 .gplansforourcom.com
 .gplgqqg.com
@@ -15369,6 +15378,7 @@
 .habovethecit.info
 .habovethecity.info
 .habovethecityon.info
+.habutaeirisate.com
 .habutaeunroost.com
 .hadajvqpha.com
 .hadfrizzprofitable.com
@@ -19429,6 +19439,7 @@
 .leansometime.com
 .leanunderstatement.com
 .leanwhitepinafo.org
+.leapcompatriotjangle.com
 .leapretrieval.com
 .learningcontainscaterpillar.com
 .learningproportion.com
@@ -27884,6 +27895,7 @@
 .resignedcamelplumbing.com
 .resignedsauna.com
 .resinherjecling.com
+.resinkaristos.com
 .resionsfrester.com
 .resistanceouter.com
 .resistcorrectly.com
@@ -32623,6 +32635,7 @@
 .tournamentfosterchild.com
 .tournamentsevenhung.com
 .touroumu.com
+.toutsneskhi.com
 .touzia.xyz
 .tovanillitechan.com
 .tovespiquener.com
@@ -35485,6 +35498,7 @@
 .wilfridjargonby.com
 .wilfulknives.com
 .wilfulsatisfaction.com
+.wililylaus.com
 .williamfaxarts.com
 .williamporterlilac.com
 .williednb.com
@@ -36903,6 +36917,7 @@
 .zebjlmmejbybz.top
 .zebjlmmejbzlb.top
 .zebrinanoteman.top
+.zebusentour.com
 .zedoaryrejects.com
 .zedxknzlwyofh.com
 .zeebaith.xyz
@@ -38107,6 +38122,7 @@
 .influads.com
 .infolinks.com
 .infostation.digital
+.ingage.tech
 .innity.com
 .innovid.com
 .insideall.com
@@ -39187,6 +39203,7 @@
 .d1mbgf0ge24riu.cloudfront.net
 .d1mbihpm2gncx7.cloudfront.net
 .d1mcwmzol446xa.cloudfront.net
+.d1muf25xaso8hp.cloudfront.net
 .d1my7gmbyaxdyn.cloudfront.net
 .d1n1ppeppre6d4.cloudfront.net
 .d1n3aexzs37q4s.cloudfront.net
@@ -40474,6 +40491,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.umphek.com
 .ahoy-internal-ads-hv.b-cdn.net
 .ad.iwhop.cn
 .s-odx.oleads.com
@@ -41087,6 +41105,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.confiant-integrations.net
+.traxex.gannettdigital.com
 .events.getmodemagic.com
 .martech.condenastdigital.com
 .fndrsp.net
@@ -44605,6 +44625,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.analytics.raenonx.cc
+.analytics.vixcloud.co
 .plausible.pronouns.cc
 .umami.subdavis.com
 .lptag.liveperson.net
@@ -46998,6 +47020,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
+.sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .stats.rustore.ru
 .vk-analytics.ru
 .tracking.iwhop.cn
@@ -47067,7 +47091,6 @@
 .log.espn.com
 .sia.internet.apps.samsung.com
 .config-api.internet.apps.samsung.com
-.terms.internet.apps.samsung.com
 .r.apkpure.net
 .analytics.zg-api.com
 .creative.bidease.com
@@ -47614,7 +47637,6 @@
 .analytics.unilogcorp.com
 .analytics.vanillaforums.com
 .analytics.vendemore.com
-.analytics.vixcloud.co
 .analytics.webpushr.com
 .analytics.websolute.it
 .analytics.wildtangent.com
@@ -48246,7 +48268,6 @@
 .trafficfuelpixel.s3-us-west-2.amazonaws.com
 .trakksocial.googlecode.com
 .trap.skype.com
-.traxex.gannettdigital.com
 .trends.newsmaxwidget.com
 .triggers.wfxtriggers.com
 .trk.clinch.co
@@ -58795,6 +58816,14 @@
 .wfsmya.xyz
 .eacdf119.cn
 .kewrutd.top
+.sewrutb.top
+.irqaci.xyz
+.bojyvp.xyz
+.acewdf118.cn
+.baijs09.shop
+.doujs09.shop
+.nhbprf.xyz
+.acdrewrf711.cn
 .pwfqjp.xyz
 .weacdf211.cn
 .tufzdj.xyz
