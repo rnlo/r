@@ -1,9 +1,13 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 08/30/2024 04:18:48 AM (EST)
-# Total lines: 64840
+# Updated at 08/31/2024 04:18:22 AM (EST)
+# Total lines: 64885
 # https://github.com/rnlo/r
+.hadronid.net
+.postokdesk.live
+.octonewjs.com
+.akaroafrypan.com
+.unbeardgorraf.top
 .lunse.ajscdn.com
-.papatrol.xyz
 .ohjlghirnbkosdh.com
 .whudroots.net
 .yhklljct.xyz
@@ -13,6 +17,7 @@
 .vetchesthiever.com
 .st.zarebasdezaley.com
 .pkazd.xyz
+.papatrol.xyz
 .wwcpyupbrcuhcsn.com
 .peenuteque.net
 .palaesavgs.com
@@ -1327,6 +1332,7 @@
 .newbluetrue.xyz
 .onemediawork.com
 .d162h6x3rxav67.cloudfront.net
+.s.trvdp.com
 .undersite.pages.dev
 .reklama.shinden.eu
 .ad.kisstvshow.es
@@ -3033,6 +3039,7 @@
 .addroplet.com
 .addthief.com
 .adeditiontowri.org
+.adelphic.net
 .adenza.dev
 .adevbom.com
 .adevppl.com
@@ -4259,6 +4266,7 @@
 .androundher.info
 .andtheircleanw.com
 .aneartuilles.top
+.aneegroned.net
 .anemenzemkwkm.top
 .anemenznnkaka.top
 .aneorwd.com
@@ -4324,6 +4332,7 @@
 .annoynoveltyeel.com
 .annuentleers.com
 .annulmentequitycereals.com
+.annxwustakf.com
 .anomalousdisembroildisembroilamy.com
 .anomalousmelt.com
 .anomalousporch.com
@@ -5106,6 +5115,7 @@
 .aunsagoa.xyz
 .aunsaick.com
 .aunstollarinets.com
+.auntishmilty.com
 .auntlyseniors.top
 .auobxpvjej.xyz
 .auphirtie.com
@@ -5184,6 +5194,7 @@
 .aveugleghettos.top
 .avgive3431.fun
 .avglfookdjuj.com
+.avhduwvirosl.com
 .avhtaapxml.com
 .aviationbe.com
 .avichigangway.top
@@ -7508,6 +7519,7 @@
 .carnivalaudiblelemon.com
 .carnivalradiationwage.com
 .caroakitab.com
+.carousepygopod.com
 .carpenterexplorerdemolition.com
 .carpfreshtying.com
 .carpi3fnusbetgu5lus.com
@@ -10816,6 +10828,7 @@
 .donecperficiam.net
 .donemagbuy.live
 .donescaffold.com
+.donferiae.click
 .doninjaskr.com
 .donkstar1.online
 .donneesskilder.top
@@ -12854,6 +12867,7 @@
 .faultspiano.com
 .fauneeptoaso.com
 .fausothaur.com
+.fauvekintra.com
 .fauwhoocoa.com
 .favaqo.xyz
 .favorable-sample.com
@@ -16220,6 +16234,7 @@
 .holidaycoconutconsciousness.com
 .holistnunatak.com
 .hollowcharacter.com
+.holmicnebbish.com
 .holspostcardhat.com
 .holyskier.com
 .homecomingrespectedpastime.com
@@ -17404,6 +17419,7 @@
 .insumber.com
 .insurewaltz.com
 .inswebt.com
+.inswellbathes.com
 .intechads.com
 .integralfashionable.com
 .integralinstalledmoody.com
@@ -20761,6 +20777,7 @@
 .marshakhula.top
 .marshalembeddedtreated.com
 .marshwhisper.com
+.marsoonlayup.com
 .marspearelct.com
 .martafatass.pro
 .martcubic.com
@@ -20868,6 +20885,7 @@
 .maypacklighthouse.com
 .maysunown.live
 .mayule.xyz
+.mazdeangastrea.com
 .mazefoam.com
 .mb-npltfpro.com
 .mb01.com
@@ -21720,6 +21738,7 @@
 .motivessuggest.com
 .motleyanybody.com
 .motsardi.net
+.mouesdefaces.click
 .moulterrouses.top
 .moumstetjk.com
 .mounaiwu.net
@@ -21938,6 +21957,7 @@
 .musicalglutton.com
 .musicianabrasiveorganism.com
 .musicnote.info
+.musieblolly.com
 .musmentportal.com
 .musselchangeableskier.com
 .musselregimentcharles.com
@@ -23937,6 +23957,7 @@
 .orchestraanticipation.com
 .orchidreducedbleak.com
 .orcjagpox.com
+.orcnakokt.com
 .ordbzeokdxku.com
 .ordciqczaox.com
 .orderlydividepawn.com
@@ -24604,6 +24625,7 @@
 .parlorstudfacilitate.com
 .parlorsuperhero.com
 .parlouractivityattacked.com
+.parnelfirker.com
 .paronymtethery.com
 .parrallforums.top
 .parrecleftne.xyz
@@ -28519,6 +28541,7 @@
 .romauntmirker.com
 .romepoptahul.com
 .romivapsi.com
+.romperspardesi.com
 .rompishvariola.com
 .roobetaffiliates.com
 .roodleswauls.com
@@ -29121,6 +29144,7 @@
 .sawpokw.com
 .sawsdaggly.com
 .saxophonefrontier.com
+.sayableconder.com
 .saycaptain.com
 .sayelo.xyz
 .sayingconvicted.com
@@ -29471,6 +29495,7 @@
 .seniorstemsdisability.com
 .sennaalopeke.top
 .senonsiatinus.com
+.senorasdatchas.com
 .sensationnominatereflect.com
 .sensefifth.com
 .sensifyfugged.com
@@ -31153,6 +31178,7 @@
 .storyblizzard.com
 .storyquail.com
 .storyrelatively.com
+.storystaffrings.com
 .stotinggunne.uno
 .stotoowu.net
 .stotseepta.com
@@ -35456,6 +35482,7 @@
 .wgxzslfagpbcqd.com
 .wgyoaqtjfb.com
 .whaacgqzyaz.com
+.whachaun.net
 .whackresolved.com
 .whadupsi.net
 .whagrolt.com
@@ -36041,6 +36068,7 @@
 .wpbeyqjfg.com
 .wpcgyoyq.com
 .wpcjyxwdsu.xyz
+.wpiajkniqnty.com
 .wpihekqpm.xyz
 .wpinfnyp.com
 .wpjhenqutmdzd.com
@@ -38926,6 +38954,7 @@
 .5cc3ac02.xyz
 .5ceea3.xyz
 .5fd6bc.xyz
+.60571086.xyz
 .605efe.xyz
 .634369.xyz
 .6471e7f7.xyz
@@ -41325,6 +41354,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.eu-1-id5-sync.com
+.octotracking.com
 .cartx.cloud
 .confiant-integrations.net
 .traxex.gannettdigital.com
@@ -44845,6 +44876,9 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.chocolatine.apexlegendsstatus.com
+.prod.tahoe-analytics.publishers.advertising.a2z.com
+.x.trvdp.com
 .collector.superwall.me
 .tracker.grupanya.com
 .sapi.tremendous.com
@@ -51693,7 +51727,6 @@
 .ads.dugwood.com
 .caraneoutraze.uno
 .adserver.icimedias.ca
-.avhduwvirosl.com
 .adma.xsrv.jp
 .amazones-tools.com
 .ranklet.come.cc
@@ -59079,6 +59112,18 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.wxsicu.xyz
+.gedashb112.fun
+.htxwzp.xyz
+.skaumbp.icu
+.bndxrr.xyz
+.iditero.top
+.gjmedashb0.fun
+.lewrutl.top
+.jditera.top
+.gbgedashb8.fun
+.koauq.top
+.zrkksps.icu
 .ghjedashb6.fun
 .kyuxym.xyz
 .acasadf112.cn
