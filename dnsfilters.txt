@@ -1,7 +1,12 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 09/09/2024 04:19:50 AM (EST)
-# Total lines: 65005
+# Updated at 09/10/2024 04:18:32 AM (EST)
+# Total lines: 65043
 # https://github.com/rnlo/r
+.wgnefmhwookdh.com
+.ivggagxczuoc.com
+.koushauwhie.xyz
+.wkvpvglcjsagi.xyz
+.ad.responsad1.space
 .injectshrslinkblog.com
 .esasaimpi.net
 .djmqwdcwebstaxn.com
@@ -1484,6 +1489,7 @@
 .2cnjuh34jbstar.com
 .2cvnmbxnc.com
 .2d283cecd5.com
+.2d439ab93e.com
 .2d6g0ag5l.de
 .2de65ef3dd.com
 .2df0b2e308.com
@@ -15477,6 +15483,7 @@
 .hem41xm47.com
 .hemaglnkrvdcgxe.com
 .hembrandsteppe.com
+.hemcpjyhwqu.com
 .hemhiveoccasion.com
 .hemineedunks.com
 .hemisphereilliterate.com
@@ -16325,6 +16332,7 @@
 .iasbetaffiliates.com
 .iasrv.com
 .iaufffdnocodbr.com
+.iaztfippkbwyg.com
 .ibatom.com
 .ibeelten.net
 .iberitepremate.top
@@ -16505,6 +16513,7 @@
 .ijhweandthepe.info
 .ijhxe.com
 .ijikhxaelqmbg.com
+.ijjorsrnydjcwx.com
 .ijmrburud.com
 .ijpbpkaq.com
 .ijrmafzydeieuo.com
@@ -19344,6 +19353,7 @@
 .levityprogramming.com
 .levityquestionshandcuff.com
 .levyteenagercrushing.com
+.lewlanderpurgan.com
 .lexicoggeegaw.website
 .lfeaqcozlbki.com
 .lfewvebxzt.com
@@ -20131,6 +20141,7 @@
 .lyricsneighbour.com
 .lyricspartnerindecent.com
 .lysim-lre.com
+.lysinevii.click
 .lysjpqhhzve.com
 .lyssapebble.com
 .lyticaframeofm.com
@@ -20208,6 +20219,7 @@
 .madurird.com
 .maebtjn.com
 .maestroconfederate.com
+.mafiaillegal.com
 .mafon.xyz
 .mafrarc3e9h.com
 .mafroad.com
@@ -22054,6 +22066,7 @@
 .neglectblessing.com
 .negligentpatentrefine.com
 .negolist.com
+.negotiaterealm.com
 .negotiationmajestic.com
 .negxkj5ca.com
 .negyuk.com
@@ -23986,6 +23999,7 @@
 .overheadplough.com
 .overhearpeasantenough.com
 .overheatusa.com
+.overjoyeddarkenedrecord.com
 .overjoyedtempfig.com
 .overjoyedwithinthin.com
 .overkirliaan.com
@@ -26357,6 +26371,7 @@
 .ptyhawwuwj.com
 .ptyomtzjpdlcf.com
 .pu5hk1n2020.com
+.puabvo.com
 .pub.network
 .pubadx.one
 .pubaka5.com
@@ -27134,6 +27149,7 @@
 .racticalwhich.com
 .ractors291wicklay.com
 .racunn.com
+.racygirlq.com
 .radarconsultation.com
 .radarwitch.com
 .radeant.com
@@ -31759,6 +31775,7 @@
 .tarvardsusyseinpou.info
 .tarvegaudery.top
 .tasesetitoefany.info
+.tashietrent.com
 .tastedflower.com
 .tastednavigation.com
 .tastesnlynotqui.info
@@ -35489,6 +35506,7 @@
 .whkyiuufzjt.com
 .whoachoh.com
 .whoaksoo.com
+.whoansailt.net
 .whoansodroas.net
 .whoapsoo.com
 .whoartairg.com
@@ -36397,6 +36415,8 @@
 .xobr219pa.com
 .xoemvfgjhpwea.com
 .xohnodzbfjjqje.com
+.xoilactv123.gdn
+.xoilactvcj.cc
 .xoimmmhfha.com
 .xojepxhvvan.com
 .xolen.xyz
@@ -36858,6 +36878,7 @@
 .yphdrphx.xyz
 .ypkljvp.com
 .ypmohjxp.com
+.yprocedentwith.com
 .yptjqrlbawn.xyz
 .yqblutkjhx.com
 .yqeuu.com
@@ -37317,6 +37338,7 @@
 .zsgpdafjd.com
 .zshyudl.com
 .zskuvehuihkusp.com
+.zslbpcawvqa.com
 .zsrqmgvb.com
 .zsxeymv.com
 .ztbtbbizb.com
@@ -38556,6 +38578,7 @@
 .promo-reklama.ru
 .proper.io
 .pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
+.pub-referral-widget.current.us
 .pubdirecte.com
 .pubfuture.com
 .pubgears.com
@@ -38896,6 +38919,7 @@
 .2d979880.xyz
 .2edef809.xyz
 .30937261.xyz
+.33848102.xyz
 .38941752.xyz
 .3a2e.site
 .3a55f02d.xyz
@@ -44865,6 +44889,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.jitsu.ixbt.com
 .a-da.invideo.io
 .pixel.clutter.com
 .log.bloodppressure.info
@@ -59121,6 +59146,14 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.tdfqvx.xyz
+.kwyamu.xyz
+.gffedashb6.fun
+.lfrdskwj.icu
+.xnbuapwp.icu
+.ihssdas.icu
+.hyth74.fun
+.hdickeu.top
 .mlcbgw.xyz
 .dsad234.fun
 .geewdashb3.fun
@@ -59136,6 +59169,11 @@
 .jy06.shop
 .rewrwrt4.fun
 .poiejdhmkjcnd.top
+.cdickef.top
+.dzlndygh.com
+.hccoeutg.com
+.kaiyuan308.vip
+.2325fdrf.fun
 .azenco.xyz
 .g11edashb1.fun
 .lzzqfj.xyz
