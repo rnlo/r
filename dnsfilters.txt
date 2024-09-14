@@ -1,7 +1,10 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 09/13/2024 04:18:17 AM (EST)
-# Total lines: 64580
+# Updated at 09/14/2024 04:18:59 AM (EST)
+# Total lines: 64606
 # https://github.com/rnlo/r
+.alaudrup.net
+.shamnmalcwob.com
+.adshere.online
 .js.trendmd.com
 .fimrg.ajscdn.com
 .2497may2024.com
@@ -2171,6 +2174,7 @@
 .abclefabletor.com
 .abcogzozbk.com
 .abcporntube.com
+.abdicatebirchcoolness.com
 .abdicatehorrified.com
 .abdicatesyrupwhich.com
 .abdict.com
@@ -3867,6 +3871,7 @@
 .anguishworst.com
 .angularamiablequasi.com
 .angularconstitution.com
+.anijhatiqseeob.com
 .animateddiscredit.com
 .animatedjumpydisappointing.com
 .animaterecover.com
@@ -6843,6 +6848,7 @@
 .bxikceucv.com
 .bxmpcfzlllej.com
 .bxpjpkldxrsss.xyz
+.bxpwfdmmhlgccon.com
 .bxrfbsrlerio.com
 .bxrqdnkb.com
 .bxsk.site
@@ -7032,6 +7038,7 @@
 .cancriberths.com
 .candiedguilty.com
 .candiedtouch.com
+.candiothoveled.com
 .candleannihilationretrieval.com
 .candyhiss.com
 .candypeaches.com
@@ -7455,6 +7462,7 @@
 .chaghets.net
 .chagrinprivata.top
 .chaibsoacmo.com
+.chaidsimsubs.net
 .chaifortou.net
 .chainads.io
 .chainconnectivity.com
@@ -8141,6 +8149,7 @@
 .coastlinejudgement.com
 .coatassert.com
 .coatedflamfew.click
+.coationexult.com
 .coatsanguine.com
 .coatslilachang.com
 .coawheer.net
@@ -10372,6 +10381,7 @@
 .dnvgecz.com
 .doaboowa.com
 .doaipomer.com
+.doajauhopi.xyz
 .doaltariaer.com
 .doappcloud.com
 .doastaib.xyz
@@ -10911,6 +10921,7 @@
 .dwithmefeyauknal.info
 .dwlgdzzltdekr.com
 .dwlmjxf.com
+.dwqjaehnk.com
 .dwuxbazvi.com
 .dwvbfnqrbif.com
 .dwvxmfscptajtll.com
@@ -14874,6 +14885,7 @@
 .gritaware.com
 .grixaghe.xyz
 .grkhhdxsimfif.com
+.grkucmja.com
 .grkuikqvpmqnla.com
 .grmtas.com
 .groaboara.com
@@ -15625,6 +15637,7 @@
 .hfjvuxuwasf.com
 .hfnzhczqgdp.com
 .hfpuhwqi.xyz
+.hftohrepdtz.com
 .hfufkifmeni.com
 .hfugukhcea.com
 .hfxgxzmik.com
@@ -15968,6 +15981,7 @@
 .hookpurgery.top
 .hookupfowlspredestination.com
 .hooliganmedia.com
+.hooligs.app
 .hoomigri.com
 .hoonaptecun.com
 .hoood.info
@@ -18334,6 +18348,7 @@
 .kakdgmn.com
 .kalauxet.com
 .kaleidoscopeadjacent.com
+.kaleidoscopefingernaildigging.com
 .kaleidoscopepincers.com
 .kalganautographeater.com
 .kalganpuppycensor.com
@@ -22060,6 +22075,7 @@
 .nczxuga.com
 .ndandinter.hair
 .ndaspiratiotyukn.com
+.ndatgiicef.com
 .ndaymidydlesswale.info
 .ndccouuyotn.com
 .ndcomemuni.com
@@ -24686,6 +24702,7 @@
 .peculiaritiessevermaestro.com
 .peculiarpug.com
 .pedestalturner.com
+.pedeticinnet.com
 .pedlujvcfd.com
 .peechohovaz.xyz
 .peeingmunster.top
@@ -28195,6 +28212,7 @@
 .rieversfidate.com
 .riffingwiener.com
 .riffledyanked.click
+.rifjhukaqoh.com
 .riflesurfing.xyz
 .riftharp.com
 .rigembassyleaving.com
@@ -31899,6 +31917,7 @@
 .tberjonk.com
 .tbgmckdemnv.com
 .tbiwkjomju.com
+.tblnreehmapc.com
 .tbmwkwbdcryfhb.xyz
 .tbpot.com
 .tbppfktchj.com
@@ -39086,6 +39105,7 @@
 .8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 .8eef59a5.live
 .91301246.xyz
+.92790388.xyz
 .9354ee72.xyz
 .94597672.xyz
 .97496b9d.xyz
@@ -39186,6 +39206,8 @@
 .utiq.soester-anzeiger.de
 .utiq.tz.de
 .utiq.wa.de
+.1026750852.rsc.cdn77.org
+.1047430889.rsc.cdn77.org
 .1080872514.rsc.cdn77.org
 .10945-2.s.cdn15.com
 .10945-5.s.cdn15.com
@@ -39195,6 +39217,7 @@
 .1363394706.rsc.cdn77.org
 .1437953666.rsc.cdn77.org
 .1450691516.rsc.cdn77.org
+.1478004088.rsc.cdn77.org
 .1510557931.rsc.cdn77.org
 .1529462937.rsc.cdn77.org
 .1548164934.rsc.cdn77.org
@@ -41160,7 +41183,6 @@
 .ad.daum.net
 .nickhel.com
 .redtram.com
-.goyetteconnelly.bid
 .gynax.com
 .avazunativeads.com
 .mobilebanner.ru
@@ -50282,7 +50304,6 @@
 .2sfygwfxvsxv.info
 .luckyads.tech
 .cxjrsb.com
-.zrcir.com
 .2vaxwkujrfwh.info
 .svekolka.com
 .advgalaxy.com
@@ -51577,7 +51598,6 @@
 .banner.profile.ru
 .adbn.masterinvest.info
 .bs.orsk.ru
-.dsn-kuban.krasnodar.su
 .nativ.podruzke.ru
 .banner.zol.ru
 .engine-pmbk.ligastavok.ru
@@ -51587,13 +51607,10 @@
 .gorod.tunt.lv
 .d31nb97nd8ha11.cloudfront.net
 .nov.evmenov37.ru
-.bc.infoblog.today
 .ads-delivery.gameforge.com
 .unisound.cdnvideo.ru
-.pp.muzofon-online.com
 .ban.zab.ru
 .prostoimya.kino-o-voine.ru
-.m1.extrutor.org
 .a.kakoysegodnyaprazdnik.ru
 .test.besstidniki.ru
 .ad.velomania.ru
@@ -51622,7 +51639,6 @@
 .bet.championat.com
 .bn.kino-go.co
 .bn.take-profit.org
-.box.rus.porn
 .c.grimuar.ru
 .d1af165twk0zgn.cloudfront.net
 .d899.webazilla.com
@@ -51662,7 +51678,6 @@
 .showbiz.mail.ru
 .t.xtubetv.net
 .tan.pridnestrovie.com
-.tizer.rupornophoto.com
 .ts2.hockey-talks.com
 .ukrsvit.ukrmir.info
 .vozer.voffka.com
@@ -59241,12 +59256,23 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.gkeolwi.icu
+.ofqvca.xyz
+.vcxv787.fun
+.dsads55.fun
+.renohj.xyz
+.fzjbsvgz.icu
+.3625ggtp1.com
+.kaiyuantp.vip
+.sdickeb.top
 .cgskys.xyz
 .nroeoxk.icu
 .gdd08.com
 .jhlnlt.xyz
 .nhjn788.fun
 .kdicked.top
+.fq05.shop
+.jy07.shop
 .egesdashb8.fun
 .iuuwuk.xyz
 .vdsdsf2.fun
