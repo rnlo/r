@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 09/19/2024 04:19:55 AM (EST)
-# Total lines: 63980
+# Updated at 09/20/2024 04:19:18 AM (EST)
+# Total lines: 64004
 # https://github.com/rnlo/r
 .bxxibvjt.com
 .nooglaug.net
@@ -1771,6 +1771,7 @@
 .5b3fbababb.com
 .5btekl14.de
 .5c01ad4cb7.com
+.5c4ccd56c9.com
 .5ca59a669a.com
 .5caa478343.com
 .5cbbdb4434.com
@@ -11294,6 +11295,7 @@
 .embogsoarers.com
 .embolipokies.com
 .embolysaros.click
+.embowerdatto.com
 .embracetrace.com
 .embrailcamino.top
 .embtrk.com
@@ -18697,6 +18699,7 @@
 .laitushous.com
 .laivue.com
 .laizuwhy.com
+.lajjmqeshj.com
 .lajouly.com
 .lakequincy.com
 .lakmus.xyz
@@ -24552,6 +24555,7 @@
 .phumpauk.com
 .phupours.com
 .phursefter.net
+.phuthobsee.com
 .phuzeeksub.com
 .phvhnxebmrzf.com
 .phxnkysa.com
@@ -25818,6 +25822,7 @@
 .ptanguth.com
 .ptapjmp.com
 .ptatexiwhe.com
+.ptatzrucj.com
 .ptaujoot.net
 .ptaumoadsovu.com
 .ptaunsoova.com
@@ -30314,6 +30319,7 @@
 .statsforads.com
 .statsmobi.com
 .staubsuthil.com
+.staukaul.com
 .staumersleep.com
 .staunchchivied.top
 .staunchgenetwitch.com
@@ -35516,6 +35522,7 @@
 .wwaeljajwvlrw.top
 .wwaeljajwvywm.top
 .wwahuxzipoc.com
+.wwaowwonthco.com
 .wwarvlorkeww.top
 .wwarvlorobzw.top
 .wwbeqrhjwnijdk.com
@@ -38368,6 +38375,7 @@
 .7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 .7fc8.site
 .814272c4.xyz
+.83761158.xyz
 .83887336.xyz
 .84631949.xyz
 .88129513.xyz
@@ -40155,6 +40163,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ads-router-noneu.truecaller.com
 .umphek.com
 .ahoy-internal-ads-hv.b-cdn.net
 .ad.iwhop.cn
@@ -40836,7 +40845,6 @@
 .dmp-one.ru
 .dmp-1.ru
 .tjk-njk.com
-.cdn.pubnub.com
 .ziwelatum.com
 .houston.advgo.net
 .merchant-center-analytics.goog
@@ -44299,6 +44307,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.analitik.pendik.bel.tr
 .analytics-api.sconto.cz
 .log-ana.h3z.jp
 .ivstat.indavideo.hu
@@ -51510,6 +51519,7 @@
 .azol.de
 .twiago.com
 .bauernative.com
+.mm.wxc.cc
 .xn--mts60is5y5uk.com
 .dfqzah.xyz
 .lafacw.xyz
@@ -58578,6 +58588,20 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.pmzlnt.xyz
+.imusye.xyz
+.bgbg00.fun
+.fwsfwef2.fun
+.vvadz.cc
+.wpsbaq.xyz
+.blinxmi.icu
+.pjaihds.icu
+.lkiterl.top
+.dasda64.fun
+.iffobi.xyz
+.jauql.top
+.okiterk.top
+.786yfvedhcbxjk.top
 .ukitert.top
 .csdcfvgf4.fun
 .megydyk.icu
