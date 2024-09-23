@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 09/22/2024 04:17:24 AM (EST)
-# Total lines: 64077
+# Updated at 09/23/2024 04:19:51 AM (EST)
+# Total lines: 64078
 # https://github.com/rnlo/r
 .countabledawdlerunaudited.com
 .worthwhile-wash.com
@@ -38329,6 +38329,7 @@
 .16327739.xyz
 .164de830.live
 .16972675.xyz
+.19199675.xyz
 .19706903.xyz
 .1a1fb6.xyz
 .1c52e1e2.live
@@ -38339,6 +38340,7 @@
 .224cc86d.xyz
 .22dd31.xyz
 .23879858.xyz
+.23907453.xyz
 .24052107.live
 .24837724.xyz
 .258104d2.live
@@ -39653,7 +39655,6 @@
 .affiliaxe.com
 .affiligay.net
 .aipmedia.com
-.all-about-tech.com
 .allosponsor.com
 .amateurhub.cam
 .asiafriendfinder.com
@@ -39681,7 +39682,6 @@
 .cbmiocw.com
 .chatinator.com
 .cherrytv.media
-.citysex.com
 .clickaine.com
 .clipxn.com
 .cwchmb.com
@@ -39747,7 +39747,6 @@
 .getiton.com
 .ggwcash.com
 .golderotica.com
-.hentai369.com
 .hookupbucks.com
 .hornymatches.com
 .hornyspots.com
@@ -39779,7 +39778,6 @@
 .itw.me
 .iwanttodeliver.com
 .ixspublic.com
-.jav-7mmtv.top
 .javbucks.com
 .joyourself.com
 .kadam.ru
@@ -39802,9 +39800,7 @@
 .lovercash.com
 .lsawards.com
 .lucidcommerce.com
-.luvcash.com
 .lwxjg.com
-.madbanner.com
 .mallcom.com
 .marisappear.pro
 .markswebcams.com
@@ -39866,7 +39862,6 @@
 .outster.com
 .oxcluster.com
 .ozelmedikal.com
-.paid-to-promote.net
 .parkingpremium.com
 .partnercash.com
 .partnercash.de
@@ -39898,12 +39893,10 @@
 .pourmajeurs.com
 .ppc-direct.com
 .premiumhdv.com
-.presatisfy.com
 .privacyprotector.com
 .private4.com
 .privateseiten.net
 .privatewebseiten.com
-.prmobiles.com
 .program3.com
 .promo4partners.com
 .promocionesweb.com
@@ -39982,7 +39975,6 @@
 .steamtraffic.com
 .streamateaccess.com
 .stripsaver.com
-.sunnysmedia.com
 .supuv3.com
 .sv2.biz
 .sweetmedia.org
@@ -40023,7 +40015,6 @@
 .tubeadv.com
 .tubecorporate.com
 .tubepush.eu
-.tubesweet.com
 .twistyscash.com
 .uxernab.com
 .ver-pelis.net
@@ -40035,7 +40026,6 @@
 .vidsrev.com
 .viensvoircesite.com
 .virtuagirlhd.com
-.vivaclix.com
 .vividcash.com
 .vlexokrako.com
 .vlogexpert.com
@@ -40098,6 +40088,7 @@
 .indianfriendfinder.com
 .irtye.com
 .isanalyze.com
+.jav-7mmtv.top
 .jizzy.org
 .juicyads.com
 .kaizentraffic.com
@@ -58633,6 +58624,13 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.jwatera.top
+.muwqiga.icu
+.swad332.fun
+.ajockk.xyz
+.gmmlmo.xyz
+.iwatero.top
+.dssddf33.fun
 .rvnaxwqe.icu
 .uaoaig.xyz
 .xnqboqc.icu
@@ -58642,6 +58640,9 @@
 .xxsmad4.com
 .baggvon.icu
 .hwateru.top
+.xn--xhq326aj6yqpw.com
+.vfvdvd99.fun
+.fq07.shop
 .jy09.shop
 .ky595images.com
 .cwaterf.top
