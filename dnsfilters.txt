@@ -1,7 +1,21 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 09/27/2024 04:19:33 AM (EST)
-# Total lines: 64334
+# Updated at 09/28/2024 04:18:19 AM (EST)
+# Total lines: 64390
 # https://github.com/rnlo/r
+.determineapp.com
+.multisetup.pro
+.ogfba.net
+.ogfbb.net
+.ogfbc.net
+.ogfbd.net
+.ogfbe.net
+.ogffa.net
+.ogfga.net
+.ogfna.net
+.pgazaz.icu
+.smarf.icu
+.cdn.xpln.tech
+.peagsraters.com
 .qqbqy.com
 .phidianowlet.com
 .hfhppxseee.com
@@ -637,6 +651,7 @@
 .dianomi.com
 .amazon-adsystem.com
 .vipads.live
+.88.208.46.222
 .kms-full.com
 .Kmspico.io
 .kms-tool.com
@@ -5732,6 +5747,7 @@
 .bhotiyadiascia.com
 .bhozjskhzfdkh.com
 .bhqfnuq.com
+.bhqvi.com
 .bhuoeykefbnfgc.com
 .bhwfvfevnqg.com
 .bhxogodamtrcs.com
@@ -5879,6 +5895,7 @@
 .bizrotator.com
 .bj1110.online
 .bj2550.com
+.bjafafesg.com
 .bjakku.com
 .bjaxmaydcnal.xyz
 .bjeellnaldl.xyz
@@ -9549,6 +9566,7 @@
 .del-del-ete.com
 .delaterfons.com
 .delayeddisembroildisembroil.com
+.delayedmall.pro
 .delfsrld.click
 .delicateomissionarched.com
 .delicatereliancegodmother.com
@@ -9850,6 +9868,7 @@
 .diapsidwigwag.top
 .dibrachndoderm.com
 .dibsemey.com
+.dicesstipo.com
 .diceunacceptable.com
 .dicheeph.com
 .dichoabs.net
@@ -10184,6 +10203,7 @@
 .ditwrite.com
 .divedresign.com
 .divergeimperfect.com
+.diverhaul.com
 .diversityspaceship.com
 .divertbywordinjustice.com
 .divetroubledloud.com
@@ -10882,6 +10902,7 @@
 .e8100325bc.com
 .e822e00470.com
 .e9c1khhwn4uf.com
+.e9d13e3e01.com
 .ea011c4ae4.com
 .ea6353e47e0ab3f78.com
 .eabids.com
@@ -11531,6 +11552,7 @@
 .enqpjgdbvf.com
 .enquiryinsight.com
 .enquirysavagely.com
+.enqvcaugnkxmx.com
 .enrageeyesnoop.com
 .enraptureshut.com
 .enrichdressedprecursor.com
@@ -14130,6 +14152,7 @@
 .glibsols.net
 .glideimpulseregulate.com
 .glidelamppost.com
+.glifjhcclyc.com
 .gligheew.xyz
 .glimpaid.net
 .glimpsedrastic.com
@@ -15910,6 +15933,7 @@
 .hpmlrpbrwezloi.com
 .hpmstr.com
 .hppvkbfcuq.com
+.hpqalsqjr.com
 .hprmbmtegydcwc.com
 .hpsvgbrlqa.com
 .hpyjmp.com
@@ -16356,6 +16380,7 @@
 .ijikhxaelqmbg.com
 .ijjorsrnydjcwx.com
 .ijmrburud.com
+.ijobloemotherofh.com
 .ijpbpkaq.com
 .ijrmafzydeieuo.com
 .ijukwkxpek.xyz
@@ -17308,6 +17333,7 @@
 .izapteensuls.com
 .izavugne.com
 .izbmbmt.com
+.izeeto.com
 .izitrckr.com
 .izjzkye.com
 .izlok.xyz
@@ -19588,6 +19614,7 @@
 .loodauni.com
 .loohiwez.net
 .lookandfind.me
+.lookebonyhill.com
 .lookingnull.com
 .lookoutabjectinterfere.com
 .lookruler.com
@@ -19940,6 +19967,7 @@
 .lywasnothycanty.info
 .lyzenoti.pro
 .lzjl.com
+.lzukrobrykk.com
 .lzxdx24yib.com
 .m-rtb.com
 .m.xrum.info
@@ -21341,6 +21369,7 @@
 .muddiedbubales.com
 .muddyharold.com
 .muddyprocedure.com
+.muddyquote.pro
 .muendakutyfore.info
 .mufcrkk.com
 .muffled-apartment.com
@@ -25304,6 +25333,7 @@
 .post-redirecting.com
 .postalfranticallyfriendship.com
 .postalusersneatly.com
+.postaoz.xyz
 .postback.info
 .postback1win.com
 .postcardhazard.com
@@ -25422,6 +25452,7 @@
 .practthreat.club
 .praght.tech
 .prahfoleruna.com
+.praiseddisintegrate.com
 .pramenterpriseamy.com
 .pranklecaque.com
 .prascfaf.com
@@ -26109,6 +26140,7 @@
 .puhtml.com
 .puitaexb.com
 .pujuco.uno
+.pukimuki.xyz
 .pukumongols.com
 .puldhukelpmet.com
 .pulkroching.top
@@ -26854,6 +26886,7 @@
 .radiancethedevice.com
 .radiantextension.com
 .radicalovertime.com
+.radicalpackage.com
 .radied.com
 .radiodogcollaroctober.com
 .radiusfellowship.com
@@ -27175,6 +27208,7 @@
 .recombssuu.com
 .recomendedsite.com
 .recommendedforyou.xyz
+.recommendednewspapermyself.com
 .recommendessencerole.com
 .recompensechevyconnoisseur.com
 .recompensecombinedlooks.com
@@ -27466,6 +27500,7 @@
 .rentalrebuild.com
 .rentherifiskin.com
 .rentingimmoderatereflecting.com
+.rentlysearchingf.com
 .reoiebco.com
 .reoilspinors.top
 .reopensnews.com
@@ -33191,6 +33226,7 @@
 .umplmoht.com
 .umplohzn.com
 .umqiapzsc.com
+.umqmxawxnrcp.com
 .umtudo.com
 .umumallowecouldl.info
 .umuotov.com
@@ -33730,6 +33766,7 @@
 .uypsmaxzejvpqx.com
 .uzbsvqupnjfsnx.com
 .uzbxnfwcvhwnz.com
+.uzdhsjuhrw.com
 .uzibhigtekn.com
 .uzqtbthkrqq.com
 .uzrwqrezkx.com
@@ -38578,6 +38615,7 @@
 .72356275.xyz
 .72560514.xyz
 .72716408.xyz
+.73503921.xyz
 .74142961.xyz
 .75690049.xyz
 .7608d5.xyz
@@ -40987,6 +41025,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.brwsrfrm.com
 .adtrace.ai
 .mato.clanto.cloud
 .matomo.clanto.cloud
@@ -44530,6 +44569,11 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.l.ouest-france.fr
+.ana.3751chat.com
+.ana.chat.shalove.net
+.ana.luvul.net
+.ana.skypemeet.net
 .counter.best-hit.tv
 .analytics-op.streak.ninja
 .track.streak.ninja
@@ -51434,6 +51478,7 @@
 .ads.dugwood.com
 .caraneoutraze.uno
 .adserver.icimedias.ca
+.recruitbox.media.iid.jp
 .creative-klepon-3f0ecb.netlify.app
 .effulgent-stroopwafel-efb9ce.netlify.app
 .adma.xsrv.jp
@@ -58827,6 +58872,15 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.qeeocy.xyz
+.dopklb.xyz
+.reryt111.fun
+.x0or8.icu
+.ridirre.com
+.vdfvdf33q.fun
+.luyarvx.icu
+.omgnqu.xyz
+.pwrgcxaj.icu
 .denjpl.xyz
 .wsgayq.xyz
 .cvujac.xyz
@@ -58841,6 +58895,8 @@
 .hongi7ie8owiie01.site
 .jiuab8eig2oateh01.site
 .jdiekknmcb.com
+.dkasdeerw.xyz
+.ggfdgd88.fun
 .ghiuge55.fun
 .xkgttas.icu
 .czpnpjrg.xyz
