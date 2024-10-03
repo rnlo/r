@@ -1,7 +1,10 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 10/02/2024 04:19:45 AM (EST)
-# Total lines: 64561
+# Updated at 10/03/2024 04:19:42 AM (EST)
+# Total lines: 64603
 # https://github.com/rnlo/r
+.notabl8.com
+.y.crazyporn.xxx
+.cdn2.sales-frontier.com
 .xxyrgvielmehx.com
 .emaxudrookrora.net
 .aspectreinforce.com
@@ -2033,6 +2036,7 @@
 .8d1dce99ab.com
 .8d96fe2f01.com
 .8db4fde90b.com
+.8de5d7e235.com
 .8ec9b7706a.com
 .8f2b4c98e7.com
 .8f72931b99.com
@@ -3908,6 +3912,7 @@
 .anguishworst.com
 .angularamiablequasi.com
 .angularconstitution.com
+.anickeebsoon.com
 .anijhatiqseeob.com
 .animateddiscredit.com
 .animatedjumpydisappointing.com
@@ -10975,6 +10980,7 @@
 .eamsanswer.com
 .eanangelsa.info
 .eanddescri.com
+.eanff.com
 .eanlingtumfie.com
 .eanrzzvvmjqm.top
 .eanwhitepinafor.com
@@ -15704,6 +15710,7 @@
 .hjvvk.com
 .hjxajf.com
 .hjyovlwtevwdjy.com
+.hkaphqknkao.com
 .hkapicwuhvc.com
 .hkeibmpspxn.com
 .hkfgsxpnaga.xyz
@@ -16234,6 +16241,7 @@
 .hzdfziaydqawar.com
 .hzoywchsp.com
 .hzr0dm28m17c.com
+.hzychcvdmjo.com
 .i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz
 .i4nstr1gm.com
 .i4rsrcj6.top
@@ -16453,6 +16461,7 @@
 .ikonatozee.top
 .ikouthaupi.com
 .ikrvvsliwar.com
+.ikssllnhrb.com
 .ikunselt.com
 .ikwiwnnofgpzq.com
 .ikwzrix.com
@@ -17680,6 +17689,7 @@
 .jgdipcsviur.com
 .jgdtnxkapkso.com
 .jgfcgqivdpd.com
+.jgfuxnrloev.com
 .jggegj-rtbix.top
 .jggldfvx.com
 .jghjhtz.com
@@ -17801,6 +17811,7 @@
 .jnhjpdayvpzj.com
 .jnlldyq.com
 .jnnjthg.com
+.jnoujcdiprjvx.com
 .jnovoksjreeyrpm.xyz
 .jnpwkazdss.com
 .jnqkvgkm.com
@@ -18145,6 +18156,7 @@
 .jzokkejmqrbmq.top
 .jzokkejmqrkyw.top
 .jzpdjbpusgcbr.com
+.jzplabcvvy.com
 .jzqbyykbrrbkq.top
 .jzqbyykbrrobw.top
 .jzqbyykbrrykz.top
@@ -20031,6 +20043,7 @@
 .lywasnothycanty.info
 .lyzenoti.pro
 .lzjl.com
+.lzoasvofvzw.com
 .lzukrobrykk.com
 .lzxdx24yib.com
 .m-rtb.com
@@ -23999,6 +24012,7 @@
 .pacoaniy.net
 .pacquetpusher.com
 .paddlediscovery.com
+.paddlemenu.com
 .paddleniecehandicraft.com
 .padfungusunless.com
 .padma-fed.com
@@ -25966,6 +25980,7 @@
 .psaugourtauy.com
 .psaukaux.net
 .psaukroatch.com
+.psaulrouck.net
 .psaurdoofy.com
 .psaurteepo.com
 .psausuck.net
@@ -28421,6 +28436,7 @@
 .ruktllqjvsafr.com
 .rulahglsnzsx.com
 .rulovar.com
+.rulrahed.com
 .rumimorigu.com
 .rummagemason.com
 .rummentaltheme.com
@@ -29242,6 +29258,7 @@
 .sewerypon.com
 .sewingunrulyshriek.com
 .sewmcqkulwxmrx.com
+.sewparamedic.com
 .sewussoo.xyz
 .sex-and-flirt.com
 .sex-chat.me
@@ -32128,6 +32145,7 @@
 .tieboysoli.com
 .tiemerry.com
 .tiesmmflv.com
+.tifpqpbqurspix.com
 .tigainareputaon.info
 .tigerpush.net
 .tightendescendantcuddle.com
@@ -33460,6 +33478,7 @@
 .unhealthybravelyemployee.com
 .unhedgekuchen.top
 .unherdtp.com
+.unhhsrraf.com
 .unhonedyork.shop
 .unhorseaa.com
 .unhrjzn.com
@@ -33715,6 +33734,7 @@
 .urinebladdernovember.com
 .urinehere.com
 .uringherenurew.info
+.urinousbiriba.com
 .urldelivery.com
 .urlgone.com
 .urlhausa.com
@@ -33911,6 +33931,7 @@
 .vaipsouw.com
 .vaithodo.com
 .vaitotoo.net
+.vaivurizoa.net
 .vajofu.uno
 .vak345.com
 .vaknveb.com
@@ -40503,6 +40524,9 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ad.snaptube.app
+.ad.mobiuspace.net
+.api-ad-callback.falconnet.app
 .ads-router-noneu.truecaller.com
 .umphek.com
 .ahoy-internal-ads-hv.b-cdn.net
@@ -48057,6 +48081,7 @@
 .nova.dice.net
 .nr.static.mmcdn.com
 .ns.rvmkitt.com
+.nwr.static.mmcdn.com
 .observe-nexus.pointandplace.com
 .octopart-analytics.com
 .oda.markitondemand.com
@@ -54244,6 +54269,7 @@
 .log-dttc.sggp.org.vn
 .log-en.nhandan.vn
 .log-en.sggp.org.vn
+.log-video.baotintuc.vn
 .log.247post.vn
 .log.anninhthudo.vn
 .log.baobackan.com.vn
@@ -59002,6 +59028,22 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.51tongji.trafficmanager.net
+.cnzz.trafficmanager.net
+.laoqo.top
+.pmgfwya.icu
+.ausfyk.xyz
+.ycuhky.xyz
+.peryt111.fun
+.djecgyk.icu
+.xjtosdof.icu
+.beryt111.fun
+.ewurserw.top
+.znnfzx.xyz
+.f5zv2.icu
+.swurserb.top
+.veryt111.fun
+.az697jylm.cc
 .kwurserd.top
 .zeryt111.fun
 .tuxpfiok.icu
