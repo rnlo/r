@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 10/05/2024 04:18:33 AM (EST)
-# Total lines: 64684
+# Updated at 10/06/2024 04:17:53 AM (EST)
+# Total lines: 64719
 # https://github.com/rnlo/r
 .comicad.net
 .notabl8.com
@@ -1568,6 +1568,7 @@
 .2f1a1a7f62.com
 .2f2bef3deb.com
 .2f72472ace.com
+.2f8a651b12.com
 .2fb8or7ai.de
 .2ffabf3b1d.com
 .2fgrrc9t0.de
@@ -2399,6 +2400,7 @@
 .accentneglectporter.com
 .acceptablearablezoological.com
 .acceptablebleat.com
+.acceptablereality.com
 .access-mc.com
 .access.vidox.net
 .accesshomeinsurance.co
@@ -4743,6 +4745,7 @@
 .auroraveil.bid
 .aurousroseola.com
 .aursaign.net
+.aurtegeejou.xyz
 .ausoafab.net
 .ausomsup.net
 .auspiceguile.com
@@ -4801,6 +4804,7 @@
 .aveneverseeno.info
 .avengeburglar.com
 .avengeghosts.com
+.avenueinvoke.com
 .avenuewalkerchange.com
 .average-champion.pro
 .aversionmast.com
@@ -5817,6 +5821,7 @@
 .bieldfacia.top
 .biemedia.com
 .bifnosblfdpslg.xyz
+.bifrufhci.com
 .biftoast.com
 .bigamybigot.space
 .bigappboi.com
@@ -8700,6 +8705,7 @@
 .cottoncabbage.com
 .cottondivorcefootprint.com
 .cotwcpcjcrjfj.xyz
+.coucalhidated.com
 .coudswamper.com
 .couhiboa.com
 .coulaupsoa.net
@@ -8992,6 +8998,7 @@
 .csdf4dn.pro
 .csfabdtmrs.com
 .csggmxrbt.com
+.cshbglcfcmirnm.xyz
 .cshbyjjgdtc.com
 .csjuq.com
 .cskmfxhxhjrskl.com
@@ -9000,6 +9007,7 @@
 .csqtsjm.com
 .csrrxwd.com
 .cssuvtbfeap.com
+.csy8cjm7.xyz
 .ctasnet.com
 .ctationsele.info
 .ctengine.io
@@ -13628,6 +13636,7 @@
 .fyatwugtsuxm.com
 .fybkhsfntvuyat.com
 .fyblppngxdt.com
+.fydapcrujhguy.xyz
 .fydczmk.com
 .fydpfmtbqrylu.com
 .fyglovilo.pro
@@ -15288,6 +15297,7 @@
 .hazelbeseech.com
 .hazelhannahfruit.com
 .hazelhideous.com
+.hazelmarks.com
 .hazelnutshighs.com
 .hazelocomotive.com
 .hazoopso.net
@@ -18291,6 +18301,7 @@
 .kcllppzsvznu.com
 .kdczhmain.com
 .kdfjabv.com
+.kdlktswsqhpd.com
 .kdmjvnk.com
 .kdmunzpmw.com
 .kdnutwrx.com
@@ -18694,6 +18705,7 @@
 .kpebuazc.com
 .kpjuilkzfi.com
 .kq272lw4c.com
+.kqbjdvighp.com
 .kqduogttdmryguw.com
 .kqhi97lf.de
 .kqiivrxlal.xyz
@@ -24426,6 +24438,7 @@
 .pd-news.com
 .pdbqyzi.com
 .pdcnxobcv.com
+.pddcohvfyhrhk.com
 .pdfsearchhq.com
 .pdfurqok.com
 .pdgmhnlayjm.com
@@ -24878,6 +24891,7 @@
 .picsti.com
 .pictela.net
 .pictorialtraverse.com
+.pictunoctette.com
 .picturecorrespond.com
 .pieceresponsepamphlet.com
 .piecreatefragment.com
@@ -25057,6 +25071,7 @@
 .plannedcardiac.com
 .plannersavour.com
 .planningbullyingquoted.com
+.planningdesigned.com
 .planningwebviolently.com
 .plannto.com
 .planscul.com
@@ -25249,6 +25264,7 @@
 .poetrydeteriorate.com
 .poflix.com
 .poghaurs.com
+.pogimpfufg.com
 .pognamta.net
 .pogothere.xyz
 .pohsoneche.info
@@ -25443,6 +25459,7 @@
 .positivedistantstale.com
 .positivejudge.com
 .positivelyoverall.com
+.positivelysunday.com
 .positivewillingsubqueries.com
 .posjnewbgjg.com
 .possessdolejest.com
@@ -28458,6 +28475,7 @@
 .rugcrucial.com
 .rugiomyh2vmr.com
 .ruglhiahxam.com
+.rugupheessupaik.net
 .ruinamylom.click
 .ruincrayfish.com
 .ruineddefectivecurb.com
@@ -30066,6 +30084,7 @@
 .snuaphwdaij.com
 .snuffdemisedilemma.com
 .snugglethesheep.com
+.snugwednesday.com
 .snurpsermon.space
 .so1cool.com
 .so333o.com
@@ -36145,6 +36164,7 @@
 .xitesa.uno
 .xivmviuynlt.com
 .xjakcitm.com
+.xjefqrxric.com
 .xjfbhxp.com
 .xjfqqyrcz.com
 .xjincmbrulchml.xyz
@@ -36172,6 +36192,7 @@
 .xkueeqyzz.com
 .xkwwnle.com
 .xkyphardw.com
+.xlafbbnzn.com
 .xlarixmmdvr.xyz
 .xlcceiswfsntpp.xyz
 .xlckxtyqntt.xyz
@@ -36748,6 +36769,7 @@
 .yudawbxk.com
 .yuduoljvxsilvq.com
 .yuearanceofam.info
+.yueuucoxewemfb.com
 .yufbewrjjguc.com
 .yuhliqltbtv.com
 .yuhqeim.com
@@ -38815,6 +38837,7 @@
 .7e60f1f9.xyz
 .7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 .7fc8.site
+.80133082.xyz
 .814272c4.xyz
 .83409127.xyz
 .83761158.xyz
@@ -38944,6 +38967,8 @@
 .1548164934.rsc.cdn77.org
 .1675450967.rsc.cdn77.org
 .1736253261.rsc.cdn77.org
+.1846032945.rsc.cdn77.org
+.1881574171.rsc.cdn77.org
 .1wnurc.com
 .360playvid.com
 .360playvid.info
@@ -59081,6 +59106,16 @@
 .zvietnakello.weebly.com
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.yuayku.xyz
+.srmsii.xyz
+.qzorwe.xyz
+.avqdhss.icu
+.pbvdlb.xyz
+.itakrid.icu
+.plfwxtgu.icu
+.lwurserl.top
+.bxqgk.icu
+.owurserk.top
 .uwursert.top
 .yfoega.xyz
 .chooncv.icu
