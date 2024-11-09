@@ -1,7 +1,11 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 11/08/2024 03:18:56 AM (EST)
-# Total lines: 56883
+# Updated at 11/09/2024 03:18:12 AM (EST)
+# Total lines: 56922
 # https://github.com/rnlo/r
+.cbro.win
+.byzoruator.com
+.sjilyhwpu.xyz
+.shoorsoacmo.xyz
 .qkyojtlabrhy.com
 .neat-period.com
 .punctual-window.com
@@ -3845,6 +3849,7 @@
 .archedmagnifylegislation.com
 .archerpointy.com
 .archiewinningsneaking.com
+.architectmalicemossy.com
 .architecturecultivated.com
 .architectureholes.com
 .arcost54ujkaphylosuvaursi.com
@@ -4000,6 +4005,7 @@
 .ashhgo.com
 .ashionismscol.info
 .ashlarinaugur.com
+.ashlingzanyish.com
 .ashoreyuripatter.com
 .ashoupsu.com
 .ashrivetgulped.com
@@ -11667,6 +11673,7 @@
 .glimpsemankind.com
 .glimtors.net
 .glipigaicm.net
+.gliptoacaft.net
 .glistening-novel.pro
 .glitteringinsertsupervise.com
 .glitteringobsessionchanges.com
@@ -11996,6 +12003,7 @@
 .graphnitriot.com
 .grapseex.com
 .grapselu.com
+.graptaupsi.net
 .grartoag.xyz
 .grasshusk.com
 .grasutie.net
@@ -12206,6 +12214,7 @@
 .guardedrook.cc
 .guardedtabletsgates.com
 .guardiandigitalcomparison.co.uk
+.guardiannostrils.com
 .guardsslate.com
 .guchihyfa.pro
 .gudohuxy.uno
@@ -14886,6 +14895,7 @@
 .kotzzdwl.com
 .kouceeptait.com
 .koucerie.com
+.kouphouwhajee.net
 .kousjcignye.com
 .koutobey.net
 .kpbmqxucd.com
@@ -15688,6 +15698,7 @@
 .lotteryaffiliates.com
 .louchaug.com
 .louchees.net
+.louderoink.shop
 .louderwalnut.com
 .loudlongerfolk.com
 .louisedistanthat.com
@@ -16893,6 +16904,7 @@
 .morgdm.ru
 .morgenskenotic.shop
 .morict.com
+.morionlochus.com
 .morionsluigini.digital
 .morneminim.top
 .morningamidamaruhal.com
@@ -18059,6 +18071,7 @@
 .oblivionthreatjeopardy.com
 .obnoxiouspatrolassault.com
 .obouckie.com
+.obr3.space
 .obrom.xyz
 .obscenityaccordinglyrest.com
 .obscenityimplacable.com
@@ -18127,6 +18140,7 @@
 .odologyelicit.com
 .odourcowspeculation.com
 .odpgponumrw.com
+.odqciqdazjuk.com
 .oehgk.com
 .oelwojattkd.xyz
 .oestpq.com
@@ -19276,6 +19290,7 @@
 .pclk.name
 .pcmclks.com
 .pcpqqnlvw.xyz
+.pcqze.tech
 .pctlwm.com
 .pctsrv.com
 .pctv.xyz
@@ -21386,6 +21401,7 @@
 .raymondcarryingordered.com
 .rayonnesiemens.shop
 .razorhsi.click
+.razorvenue.com
 .razzlebuyer.com
 .rbcxttd.com
 .rblgfyvwse.com
@@ -23647,6 +23663,7 @@
 .snappedtesting.com
 .snappffgxtwwpvt.com
 .snarlaptly.com
+.snarlsfuzzes.com
 .sneaknonstopattribute.com
 .snebbubbled.com
 .sneernodaccommodating.com
@@ -26134,6 +26151,7 @@
 .txzaazmdhtw.com
 .tyburnpenalty.com
 .tychon.bid
+.tyfqjbuk.one
 .tyfuufdp-xbd.top
 .tyhwheveeshngi.xyz
 .tyhyorvhscdbx.xyz
@@ -27191,6 +27209,7 @@
 .vizoredcheerly.com
 .vizpwsh.com
 .vjdciu.com
+.vjlyljbjjmley.top
 .vjugz.com
 .vkeagmfz.com
 .vkgtrack.com
@@ -27950,6 +27969,7 @@
 .withenvisagehurt.com
 .withholdrise.com
 .withmefeyaukna.com
+.withnimmunger.com
 .withyouryretye.info
 .witnessedcompany.com
 .witnessedworkerplaid.com
@@ -28351,6 +28371,7 @@
 .xjfqqyrcz.com
 .xjincmbrulchml.xyz
 .xjkhaow.com
+.xjlqybkll.com
 .xjrwxfdphc.com
 .xjsx.lol
 .xjupijxdt.xyz
@@ -36494,6 +36515,9 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.event-dot-procolor-backend.appspot.com
+.prod.event.mwm-asset-manager.mwmwebapis.com
+.stats.vidbinge.com
 .api.amplitudeexperiment.com
 .montelena.gmarket.co.kr
 .stats.hitwebcloud.de
@@ -41210,6 +41234,7 @@
 .templates.buscape.com
 .yestorrents.org
 .oecistbenton.com
+.hhbehcahhajfffciaaef.world
 .suprion.ru
 .xjwzbo.com
 .qgmwby.com
@@ -50987,6 +51012,17 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.avxonsp.icu
+.58shuz.com
+.trimmoits.com
+.dn4qoz.com
+.grirqaks.com
+.xn--swt207gl1hzc.net
+.68yscw.com
+.tqanmatx.icu
+.kxygsjv.icu
+.41grk.icu
+.eddcc.icu
 .dhukul.com
 .reisyxy.icu
 .yrarhzuq.xyz
@@ -50994,7 +51030,10 @@
 .trpyceq.cn
 .6gute.icu
 .q2usj.icu
+.pheqae.com
+.ittaels.com
 .tyaduqq.icu
+.deafeningphone.com
 .gftefmt.icu
 .ygoibya.icu
 .herzotph.icu
