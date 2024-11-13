@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 11/12/2024 03:19:36 AM (EST)
-# Total lines: 57252
+# Updated at 11/13/2024 03:19:47 AM (EST)
+# Total lines: 57283
 # https://github.com/rnlo/r
+.mycuegxt.com
+.athalarilouwo.net
 .gxfh59u4.xyz
 .cbro.win
 .byzoruator.com
@@ -5883,6 +5885,7 @@
 .bulcqmteuc.com
 .bulginglair.com
 .bulkaccompanying.com
+.bulkagetufas.com
 .bulkconflictpeculiarities.com
 .bulkd.co
 .bulky-battle.com
@@ -5945,6 +5948,7 @@
 .burntarcherydecompose.com
 .burntclear.com
 .burydwellingchristmas.com
+.busherdebates.com
 .bushibousy.click
 .bushsurprising.com
 .busilyenterprisingforetaste.com
@@ -6685,6 +6689,7 @@
 .choptacache.com
 .choreinevitable.com
 .choruslockdownbumpy.com
+.chorwatcurlike.com
 .choseing.com
 .chosenchampagnesuspended.com
 .choto.xyz
@@ -7713,8 +7718,10 @@
 .crumbrationally.com
 .crumbtypewriterhome.com
 .crummygoddess.com
+.crumpedglome.com
 .crumplylenient.com
 .crunchslipperyperverse.com
+.cruorinalgesic.com
 .crvxhuxcel.com
 .crxmaotidrf.xyz
 .cryingforanythi.com
@@ -11479,6 +11486,7 @@
 .geephenuw.com
 .geeptaunip.net
 .geerairu.net
+.geeseruesome.com
 .geetacog.xyz
 .geethaihoa.com
 .geethaiw.xyz
@@ -14391,6 +14399,7 @@
 .jhwo.info
 .jicamadoless.com
 .jiclzori.com
+.jiggleowk.com
 .jighucme.com
 .jignairy.com
 .jigsawchristianlive.com
@@ -15344,6 +15353,7 @@
 .leapretrieval.com
 .learningcontainscaterpillar.com
 .learntinga.com
+.leasedrowte.com
 .leasemiracle.com
 .leasepotwort.click
 .leashextendposh.com
@@ -17513,6 +17523,7 @@
 .necessaryescort.com
 .necheadirtlse.org
 .nechupsu.com
+.neckedhilting.com
 .neckloveham.live
 .nedamericantpas.info
 .nedouseso.com
@@ -19486,6 +19497,7 @@
 .peachywaspish.com
 .peacto.com
 .peakclick.com
+.peanutsfuscin.com
 .pearowa.com
 .pearterkubachi.top
 .peasbishopgive.com
@@ -20803,6 +20815,7 @@
 .pswagjx.com
 .pswfwedv.com
 .pswticsbnt.com
+.psychicendozoa.com
 .psychologicalpaperworkimplant.com
 .psykterfaulter.com
 .pt-xb.xyz
@@ -21680,6 +21693,7 @@
 .reasoningarcherassuage.com
 .reassurehintholding.com
 .reate.info
+.reatushaithal.com
 .rebatelirate.top
 .rebelfarewe.org
 .rebelhaggard.com
@@ -21838,6 +21852,7 @@
 .refrigeratespinsterreins.com
 .refugedcuber.com
 .refugeintermediate.com
+.refulgebesague.com
 .refundlikeness.com
 .refundsreisner.life
 .refuseddissolveduniversity.com
@@ -22983,6 +22998,7 @@
 .schizorecooks.shop
 .schizypdq.com
 .schjmp.com
+.schmoosspue.com
 .scholarkeyboarddoom.com
 .scholarsgrewsage.com
 .schoolboyfingernail.com
@@ -23399,6 +23415,7 @@
 .shebudriftaiter.net
 .sheefursoz.com
 .sheegiwo.com
+.sheeltaibu.net
 .sheeptie.xyz
 .sheerliteracyquestioning.com
 .sheeroop.com
@@ -24017,6 +24034,7 @@
 .soocaips.com
 .soodupsep.xyz
 .soogandrooped.cam
+.sookypapoula.com
 .soommezail.com
 .soonlint.com
 .soonpersuasiveagony.com
@@ -24513,6 +24531,8 @@
 .stockingplaice.com
 .stockingsight.com
 .stocksinvulnerablemonday.com
+.stogiescounter.com
+.stoicpre.com
 .stolenforensicssausage.com
 .stonkstime.com
 .stooboastaud.net
@@ -25059,6 +25079,7 @@
 .tahrsli.com
 .tahwox.com
 .taicheetee.com
+.taichnewcal.com
 .taidainy.net
 .taigasdoeskin.guru
 .taigrooh.net
@@ -28079,6 +28100,7 @@
 .whiteaccompanypreach.com
 .whitenoisenews.com
 .whitepark9.com
+.whizzerrapiner.com
 .whoaglouvawe.com
 .whoansodroas.net
 .whoartairg.com
@@ -28475,6 +28497,7 @@
 .wretcheddrunkard.com
 .wrgjbsjxb.xyz
 .wringdecorate.com
+.wrinkleinworn.shop
 .wrinkleirritateoverrated.com
 .wristhunknagging.com
 .wristtrunkpublication.com
@@ -36822,6 +36845,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.cza.crazygames.com
 .event-dot-procolor-backend.appspot.com
 .prod.event.mwm-asset-manager.mwmwebapis.com
 .stats.vidbinge.com
@@ -37138,7 +37162,6 @@
 .unidentifiedanalytics.web.app
 .t.poki.io
 .p.armorgames.net
-.analytics.crazygames.com
 .tracker.sqreemtech.com
 .analytics.waifu2x.org
 .analytics-api.vanceai.com
@@ -44098,7 +44121,6 @@
 .yads.yjtag.yahoo.co.jp
 .bance.jp
 .94.130.167.163
-.185.161.248.253
 .ads.nicovideo.jp
 .adserv2.suumo.jp
 .ad.woman.mynavi.jp
@@ -44142,6 +44164,7 @@
 .azol.de
 .twiago.com
 .bauernative.com
+.avspda.xyz
 .666hh999gg.com
 .776.jstatic.xyz
 .kmqianneng66.com
@@ -51319,6 +51342,14 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.stunkrins.com
+.rjwpwod.icu
+.gheqien.com
+.mjbidlg.icu
+.locpikbb.icu
+.chupl.icu
+.cweisif.top
+.y0mwy.icu
 .ccobksxz.icu
 .utbyvyl.icu
 .dchdmhf.cn
