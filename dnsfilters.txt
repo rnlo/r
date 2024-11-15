@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 11/14/2024 03:20:00 AM (EST)
-# Total lines: 57322
+# Updated at 11/15/2024 03:20:03 AM (EST)
+# Total lines: 57344
 # https://github.com/rnlo/r
+.championshipcoma.com
+.late-anxiety.com
 .profitablecpmrate.com
 .wwwwzeraqvrej.top
 .mycuegxt.com
@@ -2240,6 +2242,7 @@
 .absentlybiddingleopard.com
 .absentlygratefulcamomile.com
 .absentlyrindbulk.com
+.absentmissingaccept.com
 .abservinean.com
 .abskursin.com
 .abslroan.com
@@ -5976,6 +5979,7 @@
 .buttersource.com
 .buuftxcii.com
 .buxbaumiaceae.sbs
+.buxfmookn.com
 .buyadvupfor24.com
 .buyfrightencheckup.com
 .buylnk.com
@@ -11841,6 +11845,7 @@
 .gloumsie.net
 .glounugeepse.xyz
 .glouseer.net
+.glousoonomsy.xyz
 .gloussowu.xyz
 .gloustoa.net
 .gloutanacard.com
@@ -19026,6 +19031,7 @@
 .outofthecath.org
 .outrotomr.com
 .outseeltor.com
+.outseethoozet.net
 .outsetnormalwaited.com
 .outseylor.com
 .outsimiseara.com
@@ -22242,6 +22248,7 @@
 .rhinocerosobtrusive.com
 .rhombicsomeday.com
 .rhouseoyopers.info
+.rhoxbneasg.xyz
 .rhrim.com
 .rhsorga.com
 .rhubarbmasterpiece.com
@@ -26611,6 +26618,7 @@
 .umoxomv.icu
 .umpedshumal.com
 .umqmxawxnrcp.com
+.umtchdhkrx.com
 .umtudo.com
 .umumallowecouldl.info
 .unacceptableclevercapable.com
@@ -36871,6 +36879,9 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.fail.adr.ec
+.t.adii.se
+.stats.bunkr.ru
 .mst.rnd.de
 .cza.crazygames.com
 .event-dot-procolor-backend.appspot.com
@@ -38214,6 +38225,7 @@
 .er.search.naver.com
 .estat.zum.com
 .et.nytimes.com
+.ev2.api.bdg.com
 .ev.api.bdg.com
 .ev.kck.st
 .events.popinfo.jp
@@ -39336,6 +39348,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.atsod.launch.liveramp.com
+.ads-image.production-public.tubi.io
+.user-signals.production-public.tubi.io
 .mob2.healthtrackergroup.com
 .insights-categorizer-noneu.truecaller.com
 .event-dot-learning-piano.appspot.com
@@ -51373,11 +51388,18 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.uaqdgrfr.icu
+.gzfsqrc.icu
+.kweisid.top
+.o8zoz.icu
+.ekzmk.icu
 .bujlmitd.icu
 .wrdamoe.icu
 .iweisio.top
 .u5ps5.icu
 .lwvrv.icu
+.vnuuh.icu
+.jweisia.top
 .stunkrins.com
 .rjwpwod.icu
 .gheqien.com
