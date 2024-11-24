@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 11/23/2024 03:18:39 AM (EST)
-# Total lines: 57625
+# Updated at 11/24/2024 03:19:23 AM (EST)
+# Total lines: 57648
 # https://github.com/rnlo/r
 .legiblyosmols.top
 .medbroadcast.com
@@ -1862,6 +1862,7 @@
 .61zdn1c9.skin
 .62ca04e27a.com
 .63912b9175.com
+.639c909d45.com
 .63r2vxacp0pr.com
 .63voy9ciyi14.com
 .641198810fae7.com
@@ -5048,6 +5049,7 @@
 .besteasyclick.com
 .bestevermotorie.com
 .bestexp1.com
+.bestfuckapps.com
 .bestfunnyads.com
 .bestladymeet.life
 .bestloans.tips
@@ -9073,6 +9075,7 @@
 .dressmakertumble.com
 .drewitecossic.com
 .dreyeli.info
+.dreyntbynames.top
 .drfaultlessplays.com
 .dribbleads.com
 .dribturbot.com
@@ -10203,6 +10206,7 @@
 .exposureawelessawelessladle.com
 .expressalike.com
 .expressingblossomjudicious.com
+.expressmealdelivery.shop
 .expressproducer.com
 .exptlgooney.com
 .expulsionfluffysea.com
@@ -11945,6 +11949,7 @@
 .go-g3t-som3.com
 .go-rillatrack.com
 .go-srv.com
+.go-static.info
 .go.syndcloud.com
 .go2.global
 .go2affise.com
@@ -12052,6 +12057,7 @@
 .goshbiopsy.com
 .gositego.live
 .gosoftwarenow.com
+.gosrv.cl
 .gossipcase.com
 .gossipfinestanalogy.com
 .gossipinvest.com
@@ -14241,6 +14247,7 @@
 .ixafr.com
 .ixnow.xyz
 .ixnp.com
+.ixtbiwi-jf.world
 .ixwereksbeforeb.info
 .ixwloxw.com
 .ixxljgh.com
@@ -15759,6 +15766,7 @@
 .llyighaboveth.com
 .lmaghokalqji.xyz
 .lmdfmd.com
+.lmeegwxcasdyo.com
 .lmgyjug31.com
 .lmn-pou-win.com
 .lmp3.org
@@ -16342,6 +16350,7 @@
 .mangzoi.xyz
 .maniasensiblecompound.com
 .maniconclavis.com
+.maniconfiscal.top
 .manifefashiona.info
 .manipulativegraphic.com
 .manitusbaclava.com
@@ -19328,6 +19337,7 @@
 .painsdire.com
 .paintednarra.top
 .paintwandering.com
+.paintydevelela.org
 .paipsuto.com
 .paishoonain.net
 .paiwariaroids.shop
@@ -21738,6 +21748,7 @@
 .rbcxttd.com
 .rblgfyvwse.com
 .rbnt.org
+.rboyqkyrwrvkq.top
 .rbqcg6g.de
 .rbrightscarletcl.info
 .rbropocxt.com
@@ -24755,6 +24766,7 @@
 .strandedprobable.com
 .strangelyfaintestgreenhouse.com
 .strangineer.info
+.strangineersalyl.org
 .strangledisposalfox.com
 .strastconversity.com
 .stratebilater.com
@@ -26553,6 +26565,7 @@
 .twentycustomimprovement.com
 .twentydisappearance.com
 .twentydruggeddumb.com
+.twewmykfe.com
 .twi-hjritecl.world
 .twigwisp.com
 .twilightsuburbmill.com
@@ -27526,6 +27539,7 @@
 .viewyentreat.guru
 .vigilantprinciple.pro
 .vigorouslyflamboyant.com
+.vigorouslymicrophone.com
 .vigourmotorcyclepriority.com
 .vigsole.com
 .vihub.ru
@@ -29034,6 +29048,7 @@
 .yaxgszv.com
 .yazuda.xyz
 .ybhyziittfg.com
+.ybnksajy.com
 .ybriifs.com
 .ybs2ffs7v.com
 .ybtkzjm.com
@@ -29323,6 +29338,7 @@
 .zavoxlquwb.com
 .zaxonoax.com
 .zcaadfl.com
+.zcaappcthktx.com
 .zchtpzu.com
 .zcode12.me
 .zcode7.me
@@ -45628,6 +45644,7 @@
 .stats.ehandel.se
 .stats.helsingborg.se
 .stats.jibber.social
+.stats.med.lu.se
 .stats.playoncenter.com
 .stats.poddtoppen.se
 .stats.proff.se
@@ -49476,6 +49493,7 @@
 .sacchaeleduk.com
 .sacombank.net.vn
 .sacombank.vn-ne.top
+.sacombankvn.com
 .sadm26.com
 .saifcrack.com
 .salu.gq
@@ -51600,8 +51618,13 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.lipheak.com
+.xcwdcynb.icu
+.wweizae.top
 .xevaix.com
 .sweizab.top
+.eweizaw.top
+.dt0j.icu
 .oqipegjz.icu
 .izuts.com
 .jweizaa.top
