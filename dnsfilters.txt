@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 11/28/2024 03:21:06 AM (EST)
-# Total lines: 56513
+# Updated at 11/29/2024 03:20:52 AM (EST)
+# Total lines: 56539
 # https://github.com/rnlo/r
 .joogruphezefaul.net
 .legiblyosmols.top
@@ -5904,6 +5904,7 @@
 .caistireew.net
 .caitoasece.com
 .caiwauchegee.net
+.caizaipt.net
 .caizutoh.xyz
 .cakangautchus.net
 .calamitydisc.com
@@ -5998,6 +5999,7 @@
 .caraganaarborescenspendula.com
 .caravancomplimentenabled.com
 .caravanfried.com
+.caravanremarried.com
 .caravelvirent.com
 .carbonads.com
 .carcflma.de
@@ -7560,6 +7562,7 @@
 .culmedpasses.cam
 .cultergoy.com
 .culturalcollectvending.com
+.cumbersomeduty.pro
 .cumbersomesteedominous.com
 .cunealfume.shop
 .cupboardbangingcaptain.com
@@ -11768,6 +11771,7 @@
 .greecewizards.com
 .greedcocoatouchy.com
 .greedrum.net
+.greedyfire.com
 .greeftougivy.com
 .greekmankind.com
 .greekroo.xyz
@@ -12333,6 +12337,7 @@
 .hentaionline.net
 .heoidln.com
 .heparlorne.org
+.hephungoomsapoo.net
 .hepk-gmwitvk.world
 .hepsaign.com
 .heptix.net
@@ -12832,6 +12837,7 @@
 .humremjobvipfun.com
 .humro.site
 .humsoolt.net
+.hunchbackconebelfry.com
 .hunchbackrussiancalculated.com
 .hunchmotherhooddefine.com
 .hunchnorthstarts.com
@@ -14066,6 +14072,7 @@
 .joudotee.com
 .jouj-equar.one
 .joukaglie.com
+.joupheewuci.net
 .jouteetu.net
 .jouwaikekaivep.net
 .jouwhoanepoob.xyz
@@ -14308,6 +14315,7 @@
 .keegooch.com
 .keemuhoagou.com
 .keen-slip.com
+.keenmagwife.live
 .keenmosquitosadly.com
 .keephoamoaph.com
 .keepinfit.net
@@ -14369,6 +14377,7 @@
 .kgfjrb711.com
 .kgfrstw.com
 .kgiulbvj.com
+.kgvvvgxtvi.rocks
 .kgyhxdh.com
 .kh-bkcvqxc.online
 .khangalenten.click
@@ -14832,6 +14841,7 @@
 .ldedallover.info
 .ldimnveryldgitwe.xyz
 .ldjcteyoq.com
+.ldjudcpc-qxm.icu
 .ldmeukeuktyoue.com
 .ldrendreaming.info
 .ldthinkhimun.com
@@ -15533,6 +15543,7 @@
 .lxkzcss.xyz
 .lxlpoydodf.com
 .lxnkuie.com
+.lxqjy-obtr.love
 .lxstat.com
 .lycopuscris.com
 .lycoty.com
@@ -17553,6 +17564,7 @@
 .nzfhloo.com
 .nzme-ads.co.nz
 .nzuebfy.com
+.o-jmzsoafs.global
 .o-mvlwdxr.icu
 .o-oo.ooo
 .o18.click
@@ -17773,6 +17785,7 @@
 .ofnkswddtp.xyz
 .ofphanpytor.com
 .ofqopmnpia.com
+.ofredirect.com
 .ofseedotom.com
 .ofslakotha.com
 .ofsnoveran.com
@@ -19867,6 +19880,7 @@
 .privilegedvitaminimpassable.com
 .privilegeinjurefidelity.com
 .privilegest.com
+.prizefrenzy.top
 .prizegrantedrevision.com
 .prizel.com
 .prksism.com
@@ -23902,6 +23916,7 @@
 .studiedabbey.com
 .studious-beer.com
 .studiouspassword.com
+.stuffedbeforehand.com
 .stuffedprofessional.com
 .stuffinglimefuzzy.com
 .stuffintolerableillicit.com
@@ -30122,6 +30137,7 @@
 .datacluster.club
 .dtrk.slimcdn.com
 .dunhilltraveldeals.com
+.ebayrtm.com
 .eclipse-adblocker.pro
 .epnt.ebay.com
 .escape.insites.eu
@@ -37134,7 +37150,6 @@
 .cpxl.golem.de
 .crta.dailymail.co.uk
 .crta.metro.co.uk
-.csm.cxpublic.com
 .csr.onet.pl
 .cstats.sankakucomplex.com
 .ctl.mobitrack.co.kr
@@ -38372,6 +38387,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log-va-us-looki.capcutapi.com
+.analytics.hardlightgames.com
 .plankton-gtm.a.autoscout24.com
 .pangle-b.io
 .receiver.habby.mobi
@@ -40659,6 +40676,7 @@
 .templates.buscape.com
 .yestorrents.org
 .oecistbenton.com
+.bmmwa.info
 .iwrcoct.info
 .hfnuqljjnt.com
 .hhbehcahhajfffciaaef.world
@@ -44182,7 +44200,6 @@
 .api.adfenix.com
 .api.getlevelten.com
 .api.lab.eu.amplitude.com
-.api.rudderstack.com
 .app.converdiant.com
 .app.truconversion.com
 .apps.shareaholic.com
@@ -44254,7 +44271,6 @@
 .cdn.vip-hd-movies.xyz
 .cdp-eu.customer.io
 .cintnetworks.com
-.cision.com
 .cl.k5a.io
 .classic.avantlink.com
 .clientcdn.pushengage.com
@@ -50455,11 +50471,20 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.igabcgnh.icu
+.saizih.com
+.1gtp.icu
+.oo3z.icu
+.idamcso.top
 .0dwm.icu
 .satfyxbt.icu
 .zodoth.com
 .tqeferty33.fun
 .y7ts.icu
+.yuanzunxs1.com
+.z9k7.icu
+.hdamcsu.top
+.qovith.com
 .khastreol.com
 .gokrafxr.icu
 .9xxy.icu
@@ -56161,6 +56186,7 @@
 .laxsson.com
 .tradergpt.ai
 .meashstis.ir
+.planad.net
 .aedi.ai
 .mobon.net
 .nhnace.com
