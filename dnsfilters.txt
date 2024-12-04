@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 12/03/2024 03:21:00 AM (EST)
-# Total lines: 56903
+# Updated at 12/04/2024 03:21:45 AM (EST)
+# Total lines: 56916
 # https://github.com/rnlo/r
+.op3xdork.xyz
 .qrifhajtabcy.com
 .joogruphezefaul.net
 .legiblyosmols.top
@@ -7083,6 +7084,7 @@
 .conative.network
 .concealedcredulous.com
 .concealmentbrainpower.com
+.concealmentmimic.com
 .concedederaserskyline.com
 .conceitedfedapple.com
 .conceivedtowards.com
@@ -30502,6 +30504,7 @@
 .mmwebhandler.888.com
 .monetize-static.viralize.tv
 .neural.myth.dev
+.newtabextension.com
 .ogads-pa.googleapis.com
 .omegadblocker.com
 .onlinepromogift.com
@@ -36242,6 +36245,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.femetrics.grammarly.io
+.media-stat.mail.ru
 .telemetry.tradingview.com
 .analytics.shorthand.com
 .gh.fanatical.com
@@ -36522,7 +36527,6 @@
 .segment-api.goodrx.com
 .zion-telemetry-nonprod.api.cnn.io
 .log.suumo.jp
-.femetrics.grammarly.io
 .realtimeanalytics.yext.com
 .stats.indianpornempire.com
 .lp.spac.me
@@ -42960,6 +42964,7 @@
 .vst.videolink.host
 .exad.smi2.ru
 .tgb.hsmedia.ru
+.media-advcycle.imgsmail.ru
 .sdk.kokocads.com
 .r1.ati.su
 .rcmjs.rambler.ru
@@ -43934,7 +43939,6 @@
 .codes.wai.it
 .conative.de
 .connects.ch
-.cpdsrv.de
 .crmpilot.it
 .cuiron.de
 .cussixia.de
@@ -50804,6 +50808,15 @@
 .c4uy.icu
 .k5uj.icu
 .udamcst.top
+.thaqne.com
+.q1bp.icu
+.odamcsk.top
+.lumvkebr.icu
+.scroscoi.com
+.ldamcsl.top
+.d5r.icu
+.fo0.icu
+.nuvaioqds.com
 .sconat.com
 .cidhmxxb.icu
 .ig69.vip
