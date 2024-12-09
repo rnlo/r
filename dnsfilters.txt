@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 12/08/2024 03:19:26 AM (EST)
-# Total lines: 57115
+# Updated at 12/09/2024 03:22:33 AM (EST)
+# Total lines: 57123
 # https://github.com/rnlo/r
 .ads.twdcgrid.com
 .myaudioads.com
@@ -50960,11 +50960,19 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.wyvpkmbj.icu
+.thunnqyo.com
+.wjimtye.top
+.2wt.icu
 .attelaoe.com
 .dsoxgdjv.icu
 .3ts.icu
 .sjimtyb.top
+.guqoinly.com
+.wcdfxj.xyz
+.7hb.icu
 .nmhbmfxh.icu
+.ejimtyw.top
 .bhukkeks.com
 .f7j.icu
 .jjimtya.top
