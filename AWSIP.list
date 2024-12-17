@@ -1,6 +1,6 @@
 # AWS IP for Surge Generated from https://ip-ranges.amazonaws.com/ip-ranges.json
-# CreateDate: 2024-12-13-16-43-09
-# Total lines: 11523
+# CreateDate: 2024-12-16-19-13-08
+# Total lines: 11524
 # https://github.com/rnlo/r
 IP-CIDR,3.4.12.4/32,no-resolve
 IP-CIDR,3.5.140.0/22,no-resolve
@@ -5103,6 +5103,7 @@ IP-CIDR,64.252.89.0/24,no-resolve
 IP-CIDR,107.20.0.0/14,no-resolve
 IP-CIDR,3.5.160.0/22,no-resolve
 IP-CIDR,46.51.192.0/20,no-resolve
+IP-CIDR,56.137.0.0/16,no-resolve
 IP-CIDR,99.77.149.0/24,no-resolve
 IP-CIDR,155.146.176.0/20,no-resolve
 IP-CIDR,3.132.0.0/14,no-resolve
