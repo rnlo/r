@@ -1,7 +1,12 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 12/18/2024 03:21:06 AM (EST)
-# Total lines: 57430
+# Updated at 12/19/2024 03:20:40 AM (EST)
+# Total lines: 57446
 # https://github.com/rnlo/r
+.ceefsyqotuagk.com
+.kljhsanvj.com
+.leegreemula.net
+.ldjyvegage.com
+.skhmjezzj.com
 .predictivadnetwork.com
 .epvjljye.com
 .ageetsaimouphih.net
@@ -32939,6 +32944,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.bt.dns-finder.com
+.btloader.com
+.glamipixel.com
 .nocodelytics.com
 .stat.fly.codes
 .events.engager.ecbsn.com
@@ -33812,7 +33820,6 @@
 .fastly-insights.com
 .cdn.trackclicks.info
 .mm.actionlink.jp
-.btloader.com
 .tracklog.58.com
 .wtstats.ro
 .static.terratraf.io
@@ -51197,6 +51204,11 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.threkuth.com
+.nrbwzh.icu
+.32n.icu
+.ltimiyl.top
+.ppio12191ios.top
 .ihearsoh.com
 .juutckrt.icu
 .qtimiyy.top
@@ -51211,6 +51223,9 @@
 .pofbpx.icu
 .sckyf.com
 .ppio12181ios.top
+.stongors.com
+.4we.icu
+.otimiyk.top
 .qonbibff.icu
 .n7a.icu
 .craegvin.com
@@ -56996,6 +57011,7 @@
 .tracker.jabama.com
 .kar-sentry.karnameh.com
 .websocket.khanefootball.com
+.sentry.mci.dev
 .counter.musicsweb.ir
 .counter.mahanmusic.net
 .analytic.magland.ir
@@ -57006,7 +57022,7 @@
 .stc.ninisite.com
 .websocket.55online.news
 .analytics.plaza.ir
-.sentry.quera.org
+.sentry.querastaff.ir
 .a.reymit.ir
 .sentry.mielse.com
 .ingest-data-afra.snappfood.dev
