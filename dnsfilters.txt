@@ -1,7 +1,13 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 12/27/2024 03:19:17 AM (EST)
-# Total lines: 56200
+# Updated at 12/28/2024 03:17:54 AM (EST)
+# Total lines: 56227
 # https://github.com/rnlo/r
+.hellerraucous.top
+.pm.chetahtalc.com
+.jhu8u9.pro
+.fdolspwa.my
+.loftersvisaya.com
+.chimneydicier.com
 .gsrgjsmymkwt.com
 .zeecajichaiw.net
 .server.megabrain.co
@@ -1466,6 +1472,7 @@
 .291hkcido.de
 .295a9f642d.com
 .2989f3f0ff.com
+.29a7397be5.com
 .29apfjmg2.de
 .29b124c44a.com
 .29s55bf2.de
@@ -1748,6 +1755,7 @@
 .5ea36e0eb5.com
 .5ed55e7208.com
 .5eef1ed9ac.com
+.5f631bb110.com
 .5f6dmzflgqso.com
 .5f6efdfc05.com
 .5f93004b68.com
@@ -2003,6 +2011,7 @@
 .a5jogo.biz
 .a5jogo.club
 .a64x.com
+.a67c5c438d.com
 .a6dc99d1a8.com
 .a700fb9c8d.com
 .a717b6d31e.com
@@ -5324,6 +5333,7 @@
 .bonyspecialist.pro
 .bonzai.ad
 .boodaisi.xyz
+.boodiecawquaw.top
 .boogopee.com
 .bookadil.com
 .bookbannershop.com
@@ -9396,6 +9406,7 @@
 .embogsoarers.com
 .embowerdatto.com
 .embracetrace.com
+.embrawnseeping.top
 .embtrk.com
 .embwmpt.com
 .emediate.dk
@@ -12137,6 +12148,7 @@
 .hadtwobr.info
 .hadute.xyz
 .haffnetworkmm.com
+.hafhwagagswy.com
 .hafonmadp.com
 .hagdenlupulic.top
 .hagdispleased.com
@@ -20036,6 +20048,7 @@
 .principledecliner.info
 .principlessilas.com
 .pringed.space
+.prinkergp.top
 .prinksdammit.com
 .printaugment.com
 .printerswear.com
@@ -25906,6 +25919,7 @@
 .uads.guru
 .uads.space
 .uafkcvpvvelp.com
+.uahosnnx.com
 .uaiqkjkw.com
 .uavbgdw.com
 .uawvmni.com
@@ -32645,6 +32659,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.untho.de
 .k-words.io
 .tlmtr.org
 .sentinelbi.com
@@ -36233,7 +36248,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
-.syndication.twitter.com
+.stat.pravdafrance.com
+.telemetry.dzen.ru
 .gtm.temu.com
 .log.shortbread.analytics.console.aws.a2z.com
 .log.shortbread.aws.dev
@@ -50925,10 +50941,21 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.noslugut.com
+.rklzpo.com
+.mwilmix.top
+.tsbrzz.icu
+.trjfoagf.icu
+.sn9.icu
+.cclimif.top
 .ncvwnp.icu
 .sachaits.com
 .fzdwtage.icu
 .gw8.icu
+.bwilmiv.top
+.gmso12271oka.top
+.screddoit.com
+.n8u.icu
 .pzzedx.icu
 .owilmik.top
 .jy7.icu
