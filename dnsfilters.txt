@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 12/29/2024 03:18:19 AM (EST)
-# Total lines: 56268
+# Updated at 12/30/2024 03:19:55 AM (EST)
+# Total lines: 56284
 # https://github.com/rnlo/r
 .hellerraucous.top
 .pm.chetahtalc.com
@@ -2923,6 +2923,7 @@
 .afgtrwd1.com
 .afgwsgl.com
 .afgzipohma.com
+.afi-thor.com
 .afiliapub.click
 .afilliatetraff.com
 .afkearupl.com
@@ -9156,6 +9157,7 @@
 .eckleinlienic.click
 .eckonturricalsbu.org
 .eclkmpbn.com
+.eclqhkyjqpcv.com
 .ecoastandhei.org
 .econenectedith.info
 .economyhave.com
@@ -14237,6 +14239,7 @@
 .jsontdsexit.com
 .jsretra.com
 .jssearch.net
+.jssejsnvdy.com
 .jswww.net
 .jubacasziel.shop
 .jubnaadserve.com
@@ -16801,6 +16804,7 @@
 .mtejadostvovn.com
 .mthvjim.com
 .mtkgyrzfygdh.com
+.mtptaewihgbzcq.com
 .mtuvr.life
 .mtypitea.net
 .mtysrtgur.com
@@ -17971,6 +17975,7 @@
 .ogeeztf.com
 .ogercron.com
 .ogetherefwukoul.info
+.ogfaqwwux.com
 .ogfba.net
 .ogfbb.net
 .ogfbc.net
@@ -21323,6 +21328,7 @@
 .recyclinganticipated.com
 .recyclingbees.com
 .recyclingproverbintroduce.com
+.red-just-fit.click
 .red-track.xyz
 .redadisappoi.info
 .redadisappointed.com
@@ -23697,6 +23703,7 @@
 .spentjerseydelve.com
 .sperans-beactor.com
 .spheredkapas.com
+.spice-sugar.net
 .spiceethnic.com
 .spicy-combination.pro
 .spicy-effect.com
@@ -23964,6 +23971,7 @@
 .steessay.com
 .steetchouwu.com
 .steinfqwe6782beck.com
+.stella-nova.click
 .stellar-dating2.fun
 .stellarmingle.store
 .stelsarg.net
@@ -28143,6 +28151,7 @@
 .xporn.in
 .xppedxgjxcajuae.xyz
 .xpxsfejcf.com
+.xqdbitceeeixnw.com
 .xqeoitqw.site
 .xqmvzmt.com
 .xqwcryh.com
@@ -43467,7 +43476,6 @@
 .seo.linel.top
 .compass-fit.jp
 .gs-ad.jp
-.afi-thor.com
 .afbhub.net
 .advortex.cloud
 .dlp4luwpus5kr.cloudfront.net
@@ -50974,11 +50982,19 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.xamniksq.com
+.pytexb.icu
+.xbfebqya.icu
+.o3t.icu
 .iemhotqk.com
 .rvxmlj.icu
 .vjzvgvgz.icu
 .3xl.icu
 .iclimio.top
+.ljjhfw34.fun
+.scrugokl.com
+.6ku.icu
+.jclimia.top
 .noslugut.com
 .rklzpo.com
 .mwilmix.top
