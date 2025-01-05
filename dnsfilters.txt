@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/04/2025 03:17:58 AM (EST)
-# Total lines: 56035
+# Updated at 01/05/2025 03:17:34 AM (EST)
+# Total lines: 56055
 # https://github.com/rnlo/r
 .dsfvmx.click
 .mentionideablit.com
@@ -5135,6 +5135,7 @@
 .blue99703.com
 .blueberryastronomy.com
 .bluedawning.com
+.blueingpoori.com
 .bluelinknow.com
 .blueparrot.media
 .blueswordksh.com
@@ -7596,6 +7597,7 @@
 .cycledaction.com
 .cycleworked.com
 .cyclistforgotten.com
+.cyclstriche.com
 .cycndlhot.xyz
 .cyeqeewyr.com
 .cyg-byzlgtns.world
@@ -14262,6 +14264,7 @@
 .junglehikingfence.com
 .juniorapplesconsonant.com
 .junivmr.com
+.junkettypika.shop
 .junkieswudge.com
 .junkmildredsuffering.com
 .junmediadirect.com
@@ -23526,6 +23529,7 @@
 .so-gr3at3.com
 .so1cool.com
 .so333o.com
+.soacoujusoopsoo.xyz
 .soadaupaila.net
 .soadicithaiy.net
 .soaheeme.net
@@ -27596,6 +27600,7 @@
 .whiceega.com
 .whichcandiedhandgrip.com
 .whidoutounseegn.xyz
+.whidsugnoackili.net
 .whileinferioryourself.com
 .whilieesrogs.top
 .whilroacix.com
@@ -32824,6 +32829,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdn.q0losid.com
 .tags.fullcontact.com
 .matomo.akbal.dev
 .sentry.pnblab.com
@@ -36416,6 +36422,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.intake-analytics.wikimedia.org
+.lgforbes.akamaized.net
 .event.wondershare.com
 .collector.abc.net.au
 .smetrics.kawai-juku.ac.jp
@@ -37232,7 +37240,6 @@
 .lists.ccmbg.com
 .track-srv.vietnamnet.vn
 .stats.tirexo.blue
-.intake-analytics.wikimedia.org
 .tracking.univtec.com
 .counter.sberbank.ru
 .mxpl.9gag.com
@@ -38983,6 +38990,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.collect.4gtv.tv
+.uaid.vtwenty.com
 .telemetry.codefusion.technology
 .events.watchtower.imdbtv.amazon.dev
 .mobile-production.content-square.net
@@ -44774,6 +44783,7 @@
 .ads.exakt24.se
 .ads.expekt.se
 .ads.fotosidan.se
+.ads.frihetsnytt.se
 .ads.holid.io
 .ads.leovegas.com
 .ads.mainloop.net
@@ -48217,6 +48227,7 @@
 .minimomo.club
 .minimomo.fun
 .miravay.org
+.mistyforestolqt.online
 .miu78.me
 .mizonevn.shop
 .mkshopmobi.xyz
@@ -51105,6 +51116,15 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.lirretsn.com
+.nmzbrd.icu
+.hrjciqyu.icu
+.hdyurliu.top
+.en6.icu
+.airakgyl.com
+.scjtfh.xyz
+.cdyurlif.top
+.6w7.icu
 .y4l.icu
 .drandoxo.com
 .h5r.icu
