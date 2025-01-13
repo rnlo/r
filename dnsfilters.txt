@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/12/2025 03:17:36 AM (EST)
-# Total lines: 56263
+# Updated at 01/13/2025 03:20:51 AM (EST)
+# Total lines: 56275
 # https://github.com/rnlo/r
 .9pub.io
 .uz-kqtecqs.space
@@ -29245,7 +29245,6 @@
 .adisfy.com
 .adisn.com
 .adit-media.com
-.adition.com
 .aditize.com
 .aditude.io
 .adjal.com
@@ -32728,6 +32727,7 @@
 .adhood.com
 .adinfo.tango.me
 .adinfuse.com
+.adition.com
 .adkmob.com
 .adleads.com
 .adlibr.com
@@ -32950,6 +32950,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.actiontracking.jp
 .mantis-intelligence.com
 .stream.datago.ru
 .pabidding.io
@@ -39871,6 +39872,7 @@
 .botdetection.hbrsd.com
 .browser.pipe.aria.microsoft.com
 .bs.yandex.ru
+.c.albss.com
 .c.amazinglybrilliant.com.au
 .c.bazo.io
 .c.live.com
@@ -43404,6 +43406,7 @@
 .popvalk.com
 .bjiuck.com
 .greencuttlefish.com
+.ad.cub.red
 .vst.videolink.host
 .exad.smi2.ru
 .tgb.hsmedia.ru
@@ -44016,6 +44019,7 @@
 .yads.yjtag.yahoo.co.jp
 .bance.jp
 .94.130.167.163
+.ad.firestorage.jp
 .mbada.nan.co.jp
 .ads.nicovideo.jp
 .adserv2.suumo.jp
@@ -51265,10 +51269,18 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.nxdefd.icu
+.thonkoirs.com
+.vftrfmia.icu
+.hdomsiu.top
+.2za.fun
+.idomsio.top
 .tndbnriz.icu
 .eisnaisv.com
 .puhmtt.icu
 .cdomsif.top
+.ok5.fun
+.drauvea.com
 .riscats.com
 .jebrhb.icu
 .bc4.fun
