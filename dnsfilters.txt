@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/15/2025 03:19:07 AM (EST)
-# Total lines: 56406
+# Updated at 01/16/2025 03:18:44 AM (EST)
+# Total lines: 56438
 # https://github.com/rnlo/r
 .news.jennydanny.com
 .u57.muzikguide.com
@@ -3168,6 +3168,7 @@
 .alingrethertantin.info
 .aliposite.site
 .aliquidalgesic.top
+.aliteartful.com
 .alitems.co
 .alitems.site
 .alivebald.com
@@ -4883,6 +4884,7 @@
 .betrayedrecorderresidence.com
 .betrendatimon.top
 .betriolua.com
+.betrustdoms.com
 .betshucklean.com
 .bett2you.net
 .bett2you.org
@@ -7510,6 +7512,7 @@
 .crudelouisa.com
 .crudemonarchychill.com
 .crudequeenrome.com
+.crudyfilters.com
 .crueltysugar.shop
 .cruiserx.net
 .crumblerefunddiana.com
@@ -10826,6 +10829,7 @@
 .foulfurnished.com
 .foundationhemispherebossy.com
 .foundationhorny.com
+.foupeestokiy.net
 .foupeethaija.com
 .fourteenthcongratulate.com
 .fouwheepoh.com
@@ -12027,6 +12031,7 @@
 .groampez.xyz
 .groamsal.net
 .groaxonsoow.net
+.groazaimsadroa.xyz
 .grobido.info
 .grobungairdoul.net
 .grobuveexeb.net
@@ -12493,6 +12498,7 @@
 .heiressscore.com
 .heiresstolerance.com
 .heirloomreasoning.com
+.heirsacost.com
 .heixidor.com
 .hejqtbnmwze.com
 .hekowutus.com
@@ -16259,6 +16265,7 @@
 .measuredshared.com
 .measuringcabinetclerk.com
 .measuringrules.com
+.meatabdicatedelicatessen.com
 .meatjav11.fun
 .meawo.cloud
 .mechaelpaceway.com
@@ -17956,6 +17963,7 @@
 .oaraiwephoursou.net
 .oardilin.com
 .oarouwousti.com
+.oarsoathaihoamt.net
 .oarsparttimeparent.com
 .oarssamgrandparents.com
 .oarswithdraw.com
@@ -20240,6 +20248,7 @@
 .prfctmney.com
 .prfwhite.com
 .prhdvhx.com
+.priceyawol.com
 .pricklyachetongs.com
 .pridenovicescammer.com
 .priestboundsay.com
@@ -20279,6 +20288,7 @@
 .privacycounter.com
 .privacynicerresumed.com
 .privacysearching.com
+.private-stage.com
 .privateappealingsymphony.com
 .privatelydevotionrewind.com
 .privilegedmansfieldvaguely.com
@@ -20774,6 +20784,7 @@
 .purgescholars.com
 .purgoaho.xyz
 .purifybaptism.guru
+.purlingresews.com
 .purpleads.io
 .purpleflag.net
 .purplepatch.online
@@ -23198,6 +23209,7 @@
 .sherryfaithfulhiring.com
 .shertuwipsumt.net
 .sheschemetraitor.com
+.shetchoultoocha.net
 .shexawhy.net
 .shfewojrmxpy.xyz
 .shfsdvc.com
@@ -24293,6 +24305,7 @@
 .stixeepou.com
 .stjpezyt.com
 .stoachaigog.com
+.stoachdarts.com
 .stoadivap.com
 .stoaglauksargoo.xyz
 .stoagnejums.net
@@ -26394,6 +26407,7 @@
 .uncoverarching.com
 .uncrobator.com
 .uncrownarmenic.com
+.undatedifreal.com
 .under2given.com
 .underaccredited.com
 .underagebeneath.com
@@ -26856,6 +26870,7 @@
 .variouscreativeformats.com
 .variousformatscontent.com
 .variouspheasantjerk.com
+.varletsngaio.com
 .varnishmosquitolocust.com
 .varshacundy.com
 .vartoken.com
@@ -26874,6 +26889,7 @@
 .vastsneezevirtually.com
 .vatanclick.ir
 .vatcertaininject.com
+.vaufekonaub.net
 .vaugroar.com
 .vaukoloon.net
 .vauloops.net
@@ -27745,6 +27761,7 @@
 .whampamp.com
 .whandpolista.com
 .wharployn.com
+.wharrownecia.com
 .wharvemotet.com
 .whateyesight.com
 .whatisnewappforyou.top
@@ -28823,6 +28840,7 @@
 .z54a.xyz
 .z5x.net
 .zaamgqlgdhac.love
+.zabaismtempi.top
 .zabanit.xyz
 .zachunsears.com
 .zacleporis.com
@@ -33050,6 +33068,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log-auth.zztfly.com
 .adsave.co
 .analytics.bitchute.com
 .actiontracking.jp
@@ -36652,6 +36671,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.s.c-ctrip.com
+.ma-adx.ctrip.com
 .logs.mezmo.com
 .publictelemetry.tophat.com
 .dynatrace.att.com
@@ -39230,6 +39251,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tp2p.kg.qq.com
+.twns.p2ptun.qq.com
 .nstool.netease.com
 .data.kuiniuca.com
 .clientlogsf.music.163.com
@@ -51375,6 +51398,13 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.ztgha.xyz
+.djsxm.xyz
+.0vc.fun
+.cralphal.com
+.ptrmnx.icu
+.iwpkp.xyz
+.4gu.fun
 .zxpaa.xyz
 .etallkiq.com
 .tbyfz.xyz
@@ -51383,6 +51413,8 @@
 .17282.org
 .btcili.top
 .04o.fun
+.nagvaxvy.com
+.epxlt.xyz
 .lazzrv.icu
 .geinkroll.com
 .wusfa.xyz
