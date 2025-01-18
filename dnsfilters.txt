@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/17/2025 03:18:33 AM (EST)
-# Total lines: 56471
+# Updated at 01/18/2025 03:16:50 AM (EST)
+# Total lines: 56497
 # https://github.com/rnlo/r
+.unactkiosk.com
 .pinco225.win
 .news.jennydanny.com
 .u57.muzikguide.com
@@ -783,6 +784,9 @@
 .newbluetrue.xyz
 .onemediawork.com
 .d162h6x3rxav67.cloudfront.net
+.vtrk.dv.tech
+.cdn-media.brightline.tv
+.mt.ssai.peacocktv.com
 .sponsors.salesforceben.com
 .ads.cloudsight.ai
 .s3-iad-ww.cf.videorolls.row.aiv-cdn.net
@@ -3575,6 +3579,7 @@
 .apologizingrigorousmorally.com
 .aporasal.net
 .aporodiko.com
+.apostilprinks.com
 .apostlegrievepomp.com
 .apostropheammunitioninjure.com
 .app.tippp.io
@@ -5122,6 +5127,7 @@
 .blcdog.com
 .bleaborahmagtgi.org
 .bleachimpartialtrusted.com
+.blearspellaea.shop
 .bleedingofficecontagion.com
 .blehcourt.com
 .blendedbird.com
@@ -7884,6 +7890,7 @@
 .dawnfilthscribble.com
 .dawplm.com
 .dawtittalky.shop
+.daybookclags.com
 .daybreakarchitecture.com
 .dayqy.space
 .daytimeentreatyalternate.com
@@ -12217,6 +12224,7 @@
 .gypperywyling.com
 .gypsiedjilt.com
 .gypsitenevi.com
+.gypsumsnocks.com
 .gypufahuyhov.xyz
 .gytlingpaint.top
 .gyvwigvwqkm.com
@@ -12856,6 +12864,7 @@
 .hoo1luha.com
 .hoodboth.com
 .hoodentangle.com
+.hoodingluster.com
 .hoodoosdonsky.com
 .hoofexcessively.com
 .hoofsduke.com
@@ -13874,6 +13883,7 @@
 .italianforesee.com
 .italianhackwary.com
 .italianout.com
+.italitecasbah.com
 .itblisseyer.com
 .itcameruptr.com
 .itchhandwritingimpetuous.com
@@ -14290,6 +14300,7 @@
 .josephineravine.com
 .josfrvq.com
 .josiehopeless.com
+.josiepigroot.com
 .josieunethical.com
 .josjrhtot.com
 .jotterswirrah.com
@@ -18922,6 +18933,7 @@
 .oxidetoward.com
 .oxjexkubhvwn.xyz
 .oxkgcefteo.com
+.oxlipbegan.com
 .oxmoonlint.com
 .oxmopobypviuy.com
 .oxmqzeszyo.com
@@ -22104,6 +22116,7 @@
 .riskelaborate.com
 .riskhector.com
 .riskymuzzlebiopsy.com
+.rissoidkyaung.com
 .rivacathood.com
 .rivalpout.com
 .rivatedqualizebruisi.info
@@ -22988,6 +23001,7 @@
 .sellerher.com
 .sellerignateignate.com
 .sellingmombookstore.com
+.sellisteatin.com
 .selornews.com
 .selunemtr.online
 .selwrite.com
@@ -23145,6 +23159,7 @@
 .shaihucmesa.com
 .shaimsaijels.com
 .shaimsoo.net
+.shaissugritit.net
 .shaitakroaks.net
 .shaitchergu.net
 .shaiwourtijogno.net
@@ -23599,6 +23614,7 @@
 .slippersappointed.com
 .slippersphoto.com
 .slipperydeliverance.com
+.slitingfears.com
 .slivmux.com
 .slk594.com
 .slobgrandmadryer.com
@@ -27295,6 +27311,7 @@
 .voicerdefeats.com
 .voidmodificationdough.com
 .vokaunget.xyz
+.volapiepalped.com
 .volatintptr.com
 .volcanoexhibitmeaning.com
 .volcanostricken.com
@@ -27532,6 +27549,7 @@
 .washedgrimlyhill.com
 .washingchew.com
 .washingoccasionally.com
+.wasoolekretche.xyz
 .wasortg.com
 .wasp-182b.com
 .waspdiana.com
@@ -29574,6 +29592,7 @@
 .affiliategroove.com
 .affilimatejs.com
 .affilist.com
+.affilizz.com
 .afishamedia.net
 .afp.ai
 .afrikad.com
@@ -30578,6 +30597,7 @@
 .34475780.xyz
 .36833185.xyz
 .37066957.xyz
+.38167473.xyz
 .38835571.xyz
 .38941752.xyz
 .3a55f02d.xyz
@@ -30590,6 +30610,7 @@
 .4602306b.xyz
 .46276192.xyz
 .466c4d0f.xyz
+.47235645.xyz
 .47296536.xyz
 .47415889.xyz
 .48304789.xyz
@@ -32457,7 +32478,6 @@
 .tapulsads.ru
 .httpdns.bilivideo.com
 .dataflow.biliapi.com
-.grpc.biliapi.net
 .ads.adinmotech.com
 .kvaedit.site
 .ads-ap-venues.yinzcam.com
@@ -33090,6 +33110,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.flippback.com
 .log-auth.zztfly.com
 .adsave.co
 .analytics.bitchute.com
@@ -51429,6 +51450,11 @@
 .lagzoids.com
 .njnhzh.icu
 .8u0.fun
+.pheetuth.com
+.4ve.fun
+.tmjzlr.icu
+.orkreats.com
+.2hl.fun
 .ztgha.xyz
 .djsxm.xyz
 .0vc.fun
