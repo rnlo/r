@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/19/2025 03:16:49 AM (EST)
-# Total lines: 56515
+# Updated at 01/20/2025 03:20:14 AM (EST)
+# Total lines: 56522
 # https://github.com/rnlo/r
 .unactkiosk.com
 .pinco225.win
@@ -33121,7 +33121,6 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .sygrip.info
-.flippback.com
 .log-auth.zztfly.com
 .adsave.co
 .analytics.bitchute.com
@@ -36726,6 +36725,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.frontend-logger.flippback.com
+.analytics.nike.com
 .hikari.jiocinema.com
 .s.c-ctrip.com
 .ma-adx.ctrip.com
@@ -43715,6 +43716,7 @@
 .exchange.informer.ua
 .hdvmyo.com
 .adsy.mail.bg
+.subaxe.xyz
 .dahmnrmhyhsjxx.com
 .rogxwgqovb.com
 .ds.macellan.online
@@ -51463,6 +51465,11 @@
 .tuvrutsnf.com
 .rpfuvj.icu
 .4ce.fun
+.h6o.fun
+.gauqoith.com
+.ccokamif.top
+.saelphol.com
+.pfbmht.icu
 .lagzoids.com
 .njnhzh.icu
 .8u0.fun
