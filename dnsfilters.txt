@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/20/2025 03:20:14 AM (EST)
-# Total lines: 56522
+# Updated at 01/21/2025 03:19:13 AM (EST)
+# Total lines: 56546
 # https://github.com/rnlo/r
+.hotbraraja.cc
 .unactkiosk.com
 .pinco225.win
 .news.jennydanny.com
@@ -5679,6 +5680,7 @@
 .builtinproceeding.com
 .bujerdaz.com
 .bukshiunchair.shop
+.bukusukses.com
 .bukzvsflpo.com
 .bulbofficial.com
 .bulbousloth.shop
@@ -6547,6 +6549,7 @@
 .cifawsoqvawj.com
 .cigaretteintervals.com
 .cigarettenotablymaker.com
+.cigfhaztaqu.com
 .ciizxsdr.com
 .ciksolre.net
 .cima-club.club
@@ -6632,6 +6635,7 @@
 .claspsnuff.com
 .classesfolksprofession.com
 .classessavagely.com
+.classic-bonus.com
 .classiccarefullycredentials.com
 .classickalunti.com
 .classicsactually.com
@@ -6991,6 +6995,7 @@
 .commongratificationtimer.com
 .commongrewadmonishment.com
 .commonvivacious.com
+.communicatedsuitcompartment.com
 .communication3x.fun
 .comoideludes.shop
 .comparativeexclusion.com
@@ -7649,6 +7654,7 @@
 .cuttlefly.com
 .cuwlmupz.com
 .cuzsgqr.com
+.cvaetfspprbnt.com
 .cvastico.com
 .cvgto-akmk.fun
 .cvvemdvrojgo.com
@@ -8628,6 +8634,7 @@
 .doaipomer.com
 .doajauhopi.xyz
 .doaltariaer.com
+.doanaudabu.net
 .doapovauma.net
 .doappcloud.com
 .doastaib.xyz
@@ -11515,6 +11522,7 @@
 .gkyornyu.com
 .gl-cash.com
 .gla63a4l.de
+.glabsuckoupy.net
 .glacierwaist.com
 .gladsince.com
 .glaghoowingauck.net
@@ -17211,6 +17219,7 @@
 .namol.xyz
 .nan0cns.com
 .nan46ysangt28eec.com
+.nanakotrilith.com
 .nanborderrocket.com
 .nancontrast.com
 .nandtheathema.info
@@ -18482,6 +18491,7 @@
 .oongouha.xyz
 .oonsouque.com
 .oopatet.com
+.oopheecahough.net
 .oophengeey.com
 .oophijassaudral.xyz
 .oophoame.xyz
@@ -19929,6 +19939,7 @@
 .pointespassage.com
 .pointinginexperiencedbodyguard.com
 .pointlessmorselgemini.com
+.pointlessplan.pro
 .pointroll.com
 .poisegel.com
 .poisism.com
@@ -21586,6 +21597,7 @@
 .reddockbedman.com
 .redeemforest.com
 .redetaailshiletteri.com
+.redexamination.com
 .redfootcoclea.shop
 .redheadinfluencedchill.com
 .redheadpublicityjug.com
@@ -24231,6 +24243,7 @@
 .staukaul.com
 .staumersleep.com
 .staupsadraim.xyz
+.staupsoaksy.net
 .staureez.net
 .stawhoph.com
 .staydolly.com
@@ -29296,7 +29309,9 @@
 .try.opera.com
 .visualmirage.co
 .vpn-offers.org
+.xml-v4.lensgard-3.online
 .xstalkx.ru
+.zavirand.com
 .123date.me
 .2beon.co.kr
 .2leep.com
@@ -33120,6 +33135,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.obseu.netgreencolumn.com
 .sygrip.info
 .log-auth.zztfly.com
 .adsave.co
@@ -36725,6 +36741,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.dco.coupang.com
+.mr.homedepot.com
 .frontend-logger.flippback.com
 .analytics.nike.com
 .hikari.jiocinema.com
@@ -41515,7 +41533,6 @@
 .adclient-uol.lp.uol.com.br
 .adv.r7.com
 .butlercdn.com
-.classic-bonus.com
 .assets.etus.digital
 .lyappreciat.info
 .oilierelixir.com
@@ -51461,6 +51478,10 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.y0o.fun
+.icokamio.top
+.thrumulr.com
+.01210sop.xyz
 .hp7.fun
 .tuvrutsnf.com
 .rpfuvj.icu
@@ -51470,6 +51491,9 @@
 .ccokamif.top
 .saelphol.com
 .pfbmht.icu
+.31y.fun
+.hcokamiu.top
+.sterkisg.com
 .lagzoids.com
 .njnhzh.icu
 .8u0.fun
