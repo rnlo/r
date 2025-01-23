@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/22/2025 03:19:48 AM (EST)
-# Total lines: 56603
+# Updated at 01/23/2025 03:19:32 AM (EST)
+# Total lines: 56635
 # https://github.com/rnlo/r
 .hotbraraja.cc
 .unactkiosk.com
@@ -1662,6 +1662,7 @@
 .5ae3a94233.com
 .5b10f288ee.com
 .5b3fbababb.com
+.5be7319a8b.com
 .5bf6d94b92.com
 .5btekl14.de
 .5c4ccd56c9.com
@@ -4363,6 +4364,7 @@
 .b57dqedu4.com
 .b58ncoa1c07f.com
 .b5e75c56.com
+.b6b2d31f7e.com
 .b6f16b3cd2.com
 .b73uszzq3g9h.com
 .b76751e155.com
@@ -8662,6 +8664,7 @@
 .doflygonan.com
 .dofrogadiera.com
 .dogecalloo.com
+.doggessasbolin.com
 .doghasta.com
 .dogiedimepupae.com
 .dogolurkr.com
@@ -9254,6 +9257,7 @@
 .edixagnesag.net
 .edlilu.com
 .ednewsbd.com
+.edokouksuk.net
 .edonhisdhi.com
 .edoumeph.com
 .edralintheirbrights.com
@@ -9304,6 +9308,7 @@
 .eekrogrameety.net
 .eeksoabo.com
 .eeleekso.com
+.eelerzambo.com
 .eelroave.xyz
 .eemsautsoay.net
 .eenbies.com
@@ -10092,6 +10097,7 @@
 .f53d954cc5.com
 .f58x48lpn.com
 .f59408d48d.com
+.f5ff45b3d4.com
 .f62b2a8ac6.com
 .f794d2f9d9.com
 .f8260adbf8558d6.com
@@ -10807,6 +10813,7 @@
 .formatresourcefulresolved.com
 .formatstock.com
 .formedwrapped.com
+.formerdisagreepectoral.com
 .formerdrearybiopsy.com
 .formerlyhorribly.com
 .formerlyparsleysuccess.com
@@ -12185,6 +12192,7 @@
 .guitarjavgg124.fun
 .gujakqludcuk.com
 .gukmodukuleqasfo.com
+.gukrathokeewhi.net
 .gulfimply.com
 .gullible-lawyer.pro
 .gullibleanimated.com
@@ -12395,6 +12403,7 @@
 .harmvaluesrestriction.com
 .harnessabreastpilotage.com
 .harrenmedianetwork.com
+.harrowliquid.com
 .harrydough.com
 .harrymercurydynasty.com
 .harshlygiraffediscover.com
@@ -14523,6 +14532,7 @@
 .kaleidoscopeadjacent.com
 .kaleidoscopefingernaildigging.com
 .kaleidoscopepincers.com
+.kalkvisrecit.shop
 .kalseech.xyz
 .kaltoamsouty.net
 .kamachilinins.com
@@ -16888,6 +16898,7 @@
 .mopemodelingfrown.com
 .mopesrubelle.com
 .mopiwhoisqui.com
+.moqbfkfuex.com
 .moradu.com
 .moral-enthusiasm.pro
 .moralitylameinviting.com
@@ -17887,6 +17898,7 @@
 .null-point.com
 .nullscateringinforms.com
 .nullsglitter.com
+.numb-price.pro
 .numberium.com
 .numberscoke.com
 .numbersinsufficientone.com
@@ -18323,6 +18335,7 @@
 .olvwnmnp.com
 .olxoqmotw.com
 .olxwweaf.com
+.olympuscracowe.shop
 .olzatpafwo.com
 .olzuvgxqhozu.com
 .omanala.com
@@ -18442,6 +18455,7 @@
 .onfearowom.com
 .ongastlya.com
 .ongoingverdictparalyzed.com
+.onionetmabela.top
 .onkafxtiqcu.com
 .onkavst.com
 .onkodjwuq.com
@@ -18705,6 +18719,7 @@
 .oselamousey.com
 .osfrjut.com
 .osfultrbriolenai.info
+.osgabcqk.com
 .osgsijvkoap.com
 .oshanixot.com
 .osharvrziafx.com
@@ -21372,6 +21387,7 @@
 .rainwealth.com
 .rainyfreshen.com
 .raiseallocation.com
+.raisoglaini.net
 .raistiwije.net
 .rajabets.xyz
 .rakiblinger.com
@@ -22146,6 +22162,7 @@
 .riotousgrit.com
 .riotousunspeakablestreet.com
 .riowrite.com
+.ripe-heart.com
 .ripeautobiography.com
 .ripencompatiblefreezing.com
 .ripenstreet.com
@@ -22683,6 +22700,7 @@
 .salutationpersecutewindows.com
 .salvagefloat.com
 .samage-bility.icu
+.samalcuratic.shop
 .samarradeafer.top
 .samghasps.com
 .sampalsyneatly.com
@@ -24040,6 +24058,7 @@
 .spentjerseydelve.com
 .sperans-beactor.com
 .spheredkapas.com
+.spheryexcise.shop
 .spice-sugar.net
 .spiceethnic.com
 .spicy-combination.pro
@@ -26147,6 +26166,7 @@
 .tsy-jnugwavj.love
 .tsyndicate.com
 .ttbm.com
+.tteojtlqlxrev.com
 .ttgmjfgldgv9ed10.com
 .tthathehadstop.info
 .ttoc8ok.com
@@ -31883,7 +31903,6 @@
 .dmkdtkad2jyb9.cloudfront.net
 .dmmzkfd82wayn.cloudfront.net
 .dmz3nd5oywtsw.cloudfront.net
-.dn0qt3r0xannq.cloudfront.net
 .dn3uy6cx65ujf.cloudfront.net
 .dn6rwwtxa647p.cloudfront.net
 .dn7u3i0t165w2.cloudfront.net
@@ -33179,6 +33198,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.wsknow.net
 .api.taggrs.io
 .obseu.netgreencolumn.com
 .sygrip.info
@@ -36786,6 +36806,10 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.apay-us.amazon.com
+.logging.g.sst.secureserver.net
+.metricreceiver.cellrebel.com
+.events.app-performance.music.amazon.dev
 .metrics-a.wbx2.com
 .event.msi.com
 .dco.coupang.com
@@ -44548,6 +44572,7 @@
 .two.fsylr.com
 .ad.juksy.com
 .ads.tvb.com
+.proxy.optoutadserving.com
 .cryptosplash.care
 .pexi.nl
 .adconfigproxy.azurewebsites.net
@@ -51528,6 +51553,13 @@
 .scigzetg.com
 .bjfsk.xyz
 .jltwxisa.icu
+.qo2.fun
+.01221sop.xyz
+.thangrurs.com
+.m4r.fun
+.scrorlaets.com
+.rbzupn.icu
+.ldjfsdku.icu
 .y0o.fun
 .icokamio.top
 .thrumulr.com
