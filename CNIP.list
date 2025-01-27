@@ -1,6 +1,6 @@
 # China IP for Surge Generated from https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
-# Updated at 01/26/2025 03:16:33 AM (EST)
-# Total lines: 4224
+# Updated at 01/27/2025 03:20:20 AM (EST)
+# Total lines: 4223
 # https://github.com/rnlo/r
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
@@ -1128,7 +1128,6 @@ IP-CIDR,103.78.126.0/23
 IP-CIDR,103.78.228.0/22
 IP-CIDR,103.79.24.0/22
 IP-CIDR,103.79.200.0/22
-IP-CIDR,103.79.228.0/24
 IP-CIDR,103.81.4.0/22
 IP-CIDR,103.81.48.0/22
 IP-CIDR,103.81.72.0/22
@@ -2918,7 +2917,7 @@ IP-CIDR,156.239.0.0/20
 IP-CIDR,156.239.64.0/18
 IP-CIDR,156.239.224.0/19
 IP-CIDR,156.247.8.0/22
-IP-CIDR,156.247.12.0/23
+IP-CIDR,156.247.12.0/24
 IP-CIDR,156.247.14.0/24
 IP-CIDR,157.0.0.0/16
 IP-CIDR,157.15.74.0/23

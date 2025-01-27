@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 01/26/2025 03:16:33 AM (EST)
-# Total lines: 56828
+# Updated at 01/27/2025 03:20:20 AM (EST)
+# Total lines: 56835
 # https://github.com/rnlo/r
 .wobbly-birth.com
 .hotbraraja.cc
@@ -30481,6 +30481,7 @@
 .proper.io
 .pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
 .pub-referral-widget.current.us
+.pubcircle.ai
 .pubdirecte.com
 .pubfuture.com
 .pubgears.com
@@ -30884,8 +30885,10 @@
 .605efe.xyz
 .62842068.xyz
 .634369.xyz
+.63801782.xyz
 .6471e7f7.xyz
 .65035033.xyz
+.65122038.xyz
 .656f1ba3.xyz
 .657475b7-0095-478d-90d4-96ce440604f9.online
 .65894140.xyz
@@ -40753,7 +40756,6 @@
 .statscollector-1.agora.io
 .statsig.anthropic.com
 .statt-collect.herokuapp.com
-.stk.px-cloud.net
 .stream-log.dditscdn.com
 .streams.cablecar.sph.com.sg
 .sunlightmetrics.b-cdn.net
@@ -51721,6 +51723,9 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.xxsmad5.com
+.hostolhg.com
+.4zn.fun
 .qaemphaels.com
 .vhrhnh.icu
 .7mk.fun
@@ -51731,6 +51736,8 @@
 .txnczz.icu
 .dklnxtcj.icu
 .h3d.fun
+.naettarq.com
+.8sh.fun
 .01240sop.xyz
 .01231sop.xyz
 .kruraits.com
