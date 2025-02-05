@@ -1,7 +1,10 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 02/04/2025 03:19:18 AM (EST)
-# Total lines: 57048
+# Updated at 02/05/2025 03:18:12 AM (EST)
+# Total lines: 57082
 # https://github.com/rnlo/r
+.videocdnmetrika.com
+.pkyffuewwuhnld.com
+.phahifoobsie.net
 .humiliatingregion.com
 .sapsobughoatch.net
 .xszjh.tech
@@ -1200,6 +1203,7 @@
 .0a8d87mlbcac.top
 .0af2a962b0102942d9a7df351b20be55.com
 .0b0db57b5f.com
+.0b6e17a630.com
 .0b7741a902.com
 .0b85c2f9bb.com
 .0c6be7f968.com
@@ -1373,6 +1377,7 @@
 .24-sportnews.com
 .240aca2365.com
 .2435march2024.com
+.2443march2024.com
 .2447march2024.com
 .2449march2024.com
 .244kecmb3.de
@@ -1835,6 +1840,7 @@
 .817dae10e1.com
 .81c875a340.com
 .828af6b8ce.com
+.831f1e8aa9.com
 .831xmyp1fr4i.shop
 .845d6bbf60.com
 .847h7f51.de
@@ -4239,6 +4245,7 @@
 .avhduwvirosl.com
 .avhjzemp.com
 .avhtaapxml.com
+.aviarymike.com
 .aviationbe.com
 .aviewrodlet.com
 .avkktuywj.xyz
@@ -4667,6 +4674,7 @@
 .bbrdbr.com
 .bbrjelrxnp.com
 .bc84617c73.com
+.bca10c62ca.com
 .bcaakxxuf.com
 .bcd8072b72.com
 .bceptemujahb.com
@@ -4867,6 +4875,7 @@
 .benoopto.com
 .bensonshowd.com
 .bentyquod.shop
+.benue.site
 .benumelan.com
 .bepansaer.com
 .beparaspr.com
@@ -7462,6 +7471,7 @@
 .coveteddutifulprescribe.com
 .covettunica.com
 .covivado.club
+.cowsonbaggara.shop
 .cowtpvi.com
 .coxgypsine.shop
 .coxiesthubble.com
@@ -7646,6 +7656,7 @@
 .crummygoddess.com
 .crumplylenient.com
 .crunchslipperyperverse.com
+.crushingaspirin.com
 .crustywainmen.shop
 .crvxhuxcel.com
 .crxmaotidrf.xyz
@@ -7712,6 +7723,7 @@
 .cuisineomnipresentinfinite.com
 .cullemple-motline.com
 .culmedpasses.cam
+.culptyjhitf.com
 .cultergoy.com
 .culturalcollectvending.com
 .cumbersomeduty.pro
@@ -8490,7 +8502,9 @@
 .diguver.com
 .digyniahuffle.com
 .diingsinspiri.com
+.diingsinspiringtg.com
 .dikeaxillas.com
+.dikersballo.shop
 .dikkoplida.cam
 .dilatenine.com
 .dilateriotcosmetic.com
@@ -9127,6 +9141,7 @@
 .dugrurdoy.com
 .duili-mtp.com
 .duimspruer.life
+.dukerationpecial.com
 .dukesubsequent.com
 .dukingdraon.com
 .dukirliaon.com
@@ -12263,6 +12278,7 @@
 .groleegni.net
 .gromairgexucmo.net
 .gronsoakoube.net
+.grookilteepsou.net
 .grooksom.com
 .groomoub.com
 .groompemait.net
@@ -14954,6 +14970,7 @@
 .kliqz.com
 .klixfeed.com
 .kljhsanvj.com
+.klkchits.com
 .klmainprost.com
 .klmmnd.com
 .klonedaset.org
@@ -16647,6 +16664,7 @@
 .menacing-feature.pro
 .mendedrefuel.com
 .menews.org
+.mengozia.xyz
 .meniscisacbut.top
 .mentallyissue.com
 .mentionedpretentious.com
@@ -20769,6 +20787,7 @@
 .proposedpartly.com
 .propositiondisinterested.com
 .propositionfadedplague.com
+.propositionpower.com
 .proprietorgrit.com
 .propu.sh
 .propulsionstatute.com
@@ -22470,6 +22489,7 @@
 .rixaka.com
 .rixibe.xyz
 .rjeruqs.com
+.rjkrefyqrixk.com
 .rjlkibvwgxiduq.com
 .rjowzlkaz.today
 .rjvmxdhfmyvsuy.com
@@ -27876,6 +27896,7 @@
 .vxorjza.com
 .vyebzzbovvorz.top
 .vyfrxuytzn.com
+.vyhpoooamxdhmg.com
 .vyxanrtgkrbsbl.com
 .vz.7vid.net
 .vzeakntvvkc.one
@@ -33585,6 +33606,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.identitypxl.app
+.identitypxl.com
 .geotags.refinery89.com
 .logg9r.io
 .api.statsig.com
@@ -33596,6 +33619,7 @@
 .mktp-base.mktplatforms.com
 .f-tra.com
 .event.dfinery.io
+.oasjs.kataweb.it
 .polaranalytics.com
 .wsknow.net
 .api.taggrs.io
@@ -33611,7 +33635,6 @@
 .danatrak.com
 .optiyield.opti-digital.com
 .twitter.sx
-.lf1-cdn-tos.bytegoofy.com
 .view.mngusr.com
 .cdn.q0losid.com
 .tags.fullcontact.com
@@ -37203,6 +37226,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.market-click-baobab.yandex.ru
 .mssdk.tiktokw.us
 .gc.newsweek.com
 .events.onet.pl
@@ -37255,7 +37279,6 @@
 .gtm.temu.com
 .log.shortbread.analytics.console.aws.a2z.com
 .log.shortbread.aws.dev
-.trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
 .minerva.devices.a2z.com
 .s.pie.org
 .t.pie.org
@@ -39811,6 +39834,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.jackpotmasterslots.com
 .jpush.io
 .datacollector-drru.dt.dbankcloud.ru
 .spider-tracker.xiaohongshu.com
@@ -51864,7 +51888,9 @@
 .yunduofei.xyz
 .yxjsibeugmmj.com
 .zSmhlV.zgbv.tech
+.zalo-web.me
 .zalorashop.com
+.zaloweb.pro
 .zeroshop.cc
 .zingmp3.pro
 .zingshop.net
@@ -51882,6 +51908,14 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.rrptnkao.icu
+.is02050qqp.xyz
+.is02041qqp.xyz
+.qhaccid.com
+.tnlixn.icu
+.u7y.pw
+.hdinmau.top
+.shaenphiks.com
 .feronyv.com
 .tciqgx.xyz
 .crolerl.com
