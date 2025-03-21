@@ -1,7 +1,8 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 03/20/2025 04:21:16 AM (EST)
-# Total lines: 104388
+# Updated at 03/21/2025 04:20:25 AM (EST)
+# Total lines: 104399
 # https://github.com/rnlo/r
+.hakurei.cdnbo.org
 .nkdccsiwixvzj.world
 .organicowner.com
 .woeful-trash.pro
@@ -34272,6 +34273,7 @@
 .static.tradetracker.net
 .supply.upjers.com
 .syndicate.payloadz.com
+.t.babelmedia.global
 .tag.regieci.com
 .tags.refinery89.com
 .tcadserver.rain-digital.ca
@@ -36493,6 +36495,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tags.pw.adn.cloud
 .api-notify.markarch.com
 .venatusmedia.com
 .metrics.nsureapi.com
@@ -37845,6 +37848,7 @@
 .amc.yandex.ru
 .mc.yandex.ru
 .mc.yandex.com
+.mc.yandex.md
 .track.segmentstream.com
 .vboro.de
 .barddfvgkhctch11.ru
@@ -88887,6 +88891,7 @@
 .x.weather.com
 .xp2023-pix.s3.amazonaws.com
 .yoast-schema-graph.com
+.yotrack.cdn.ybn.io
 .adsdk.yandex.ru
 .analytics.samsungknox.com
 .extmaps-api.yandex.net
@@ -89699,7 +89704,6 @@
 .xad.dnoticias.pt
 .adclient-uol.lp.uol.com.br
 .adv.r7.com
-.t.babelmedia.global
 .butlercdn.com
 .assets.etus.digital
 .lyappreciat.info
@@ -89804,6 +89808,7 @@
 .templates.buscape.com
 .yestorrents.org
 .oecistbenton.com
+.vvdrhe.win
 .adwadvert.com.ua
 .nanthou.life
 .wrapper.bracdn.online
@@ -92715,6 +92720,7 @@
 .tools-affil2.com
 .tools.islive.nl
 .travelads.be
+.trickyrock.com
 .vpscash.nl
 .xpartners.nl
 .adnx.de
@@ -93400,7 +93406,6 @@
 .autodeal.agilecrm.com
 .autoleasedi.bytelab.dk
 .ax.idg.se
-.b1.trickyrock.com
 .backend.qimtek.se
 .banner.bet365partners.com
 .banners.instaforex.com
@@ -99540,10 +99545,16 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.feernhuhe.com
+.vhje.cn
+.bptnzp.top
+.ajoxxit.top
 .spkh.cn
 .sodenneyg.com
 .zqntbc.top
 .lcidauv.top
+.bekd.cn
+.uhityllhn.com
 .xunqrutsl.com
 .jslxzx.icu
 .xeccotftw.com
