@@ -1,7 +1,9 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/13/2025 04:19:17 AM (EST)
-# Total lines: 104652
+# Updated at 04/14/2025 04:22:28 AM (EST)
+# Total lines: 104689
 # https://github.com/rnlo/r
+.htagpa.tech
+.call.thebutterfly.eu
 .xdrlthfhikvgm.club
 .measlepotomac.shop
 .parteinroll.xyz
@@ -6399,6 +6401,7 @@
 .53e91a4877.com
 .53ff0e58f9.com
 .540252a00b.com
+.548f23e472.com
 .551ba6c442.com
 .558ao12sqrok.top
 .55f4605f6d.com
@@ -9902,6 +9905,7 @@
 .boxypluckunrelated.com
 .boyfriendtrimregistered.com
 .boyishdetrimental.com
+.boymagicdate.com
 .boyunakylie.com
 .boywhowascr.info
 .bpazidzib.com
@@ -10917,6 +10921,7 @@
 .chubbymess.pro
 .chuckledpulpparked.com
 .chugaiwe.net
+.chugrypsodu.com
 .chugsorlando.com
 .chulhawakened.com
 .chullohagrode.com
@@ -12937,6 +12942,7 @@
 .dositsil.net
 .dosliggooor.com
 .dosneaselor.com
+.dostrenins.shop
 .dotappendixrooms.com
 .dotcom10.info
 .dotdealingfilling.com
@@ -13186,6 +13192,7 @@
 .duzbhonizsk.com
 .duzeegotimu.net
 .dvaminusodin.net
+.dvattbwxiofrk.site
 .dvbwfdwae.com
 .dvkxchzb.com
 .dvvemmg.com
@@ -14926,6 +14933,7 @@
 .froseizedorganization.com
 .frostplacard.com
 .frostscanty.com
+.frostyback.com
 .frostyonce.com
 .frothadditions.com
 .frowzlynecklet.top
@@ -16738,6 +16746,7 @@
 .hotbbuvifu.cc
 .hotbgapare.com
 .hotbmuwoxa.today
+.hotboysnearby.net
 .hotbqzlchps.com
 .hotbraraja.cc
 .hotbruneha.cc
@@ -17010,6 +17019,7 @@
 .idthecharityc.info
 .idydlesswale.info
 .ie8eamus.com
+.iedtothema.org
 .iegrozrmvgjfp.online
 .ieluqiqttdwv.com
 .ieo8qjp3x9jn.pro
@@ -17144,6 +17154,7 @@
 .imgot.site
 .imgqmng.com
 .imgsniper.com
+.imiclick.org
 .imiclk.com
 .imidicsecular.com
 .iminesextol.top
@@ -19940,6 +19951,7 @@
 .mepkbonqzmuvl.xyz
 .mepuyu.xyz
 .mepyjishu.pro
+.merathalifax.com
 .merchenta.com
 .mercifulsurveysurpass.com
 .mercurysugarconsulting.com
@@ -19976,6 +19988,7 @@
 .methoxyunpaled.com
 .metissebifold.shop
 .metlcuiousdates.com
+.metlculousdates.net
 .metoacrype.com
 .metogthr.com
 .metothepointa.com
@@ -21562,6 +21575,7 @@
 .ogffa.net
 .ogfga.net
 .ogfna.net
+.ogfszgkbxc.com
 .oghgrazubafz.com
 .oghqvffmnt.com
 .oghyz.click
@@ -24051,6 +24065,7 @@
 .pxltrck.com
 .pxyepmwex.com
 .pyasgummas.shop
+.pykije.com
 .pyknrhm5c.com
 .pylowavgyow.xyz
 .pympbhxyhnd.xyz
@@ -24120,6 +24135,7 @@
 .qgxbluhsgad.com
 .qhdtlgthqqovcw.xyz
 .qhogcyoqrl.com
+.qhurchaisrea.org
 .qhwyoat.com
 .qibkkioqqw.com
 .qibqiwczoojw.com
@@ -24203,6 +24219,7 @@
 .qsvbi.space
 .qtdopwuau.xyz
 .qtoxhaamntfi.com
+.qtozipscid.com
 .quackedchevage.top
 .quacktypist.com
 .quackupsilon.com
@@ -24988,6 +25005,7 @@
 .rhouseoyopers.info
 .rhoxbneasg.xyz
 .rhrim.com
+.rhsmromjhfxvjr.com
 .rhubarbmasterpiece.com
 .rhubarbsuccessesshaft.com
 .rhudsplm.com
@@ -26059,6 +26077,7 @@
 .shasogna.com
 .shatsoutheshe.net
 .shatterconceal.com
+.shauasoz.my
 .shauduptel.net
 .shaugacakro.net
 .shaughaupoo.net
@@ -26457,6 +26476,7 @@
 .slurpsbeets.com
 .slushdevastating.com
 .slushimplementedsystems.com
+.slutymilf.net
 .slychicks.com
 .slyzoologicalpending.com
 .smaato.net
@@ -29017,6 +29037,7 @@
 .unequaledchair.com
 .unfairgenelullaby.com
 .unfamiiliardate.net
+.unfamiillardates.net
 .unfamlliiardates.net
 .unfamllliardate.net
 .unfamllliardates.com
@@ -30664,6 +30685,7 @@
 .wwwadcntr.com
 .wwwowww.xyz
 .wwwpromoter.com
+.wwwwzerblvvqv.top
 .wxhiojortldjyegtkx.bid
 .wxqbopca-i.global
 .wxseedslpi.com
@@ -30997,6 +31019,7 @@
 .yjgrhzvtvkqen.tech
 .yjrrwchaz.com
 .yjustingexcelele.org
+.ykwll.site
 .yl-sooippd.vip
 .yladihsmkopov.xyz
 .yldbt.com
@@ -32836,6 +32859,7 @@
 .omomku7r4n3vo55rp5k.xyz
 .r033o0p37qr4v914m06om.xyz
 .rl1u0wknm1onstp8395too.xyz
+.sn2rrlv57qpss5w-qk8llu.xyz
 .ts28ll0tk23t2n9pl0n327.xyz
 .wqq881m8uwq1k5m-4p7lv7.xyz
 .img-load.com
@@ -88719,6 +88743,7 @@
 .doppler-reporting.cbsivideo.com
 .dotaudiences.com
 .dynamic.ziftsolutions.com
+.e045f561.b-cdn.net
 .ea.youmaker.com
 .ec.walkme.com
 .ecommstats.s3.amazonaws.com
@@ -89196,6 +89221,7 @@
 .trx-cdn.zip.co
 .trx.zip.co
 .uilogging.tcdevops.com
+.umami.heroku.uk
 .us-central1-markuphero.cloudfunctions.net
 .usaoptimizedby.increasingly.co
 .user.userguiding.com
@@ -89423,6 +89449,7 @@
 .semiocast.com
 .sk1n.fr
 .sk8t.fr
+.sparteo.com
 .stats.fr
 .sync.tv
 .tget.me
@@ -89860,6 +89887,7 @@
 .tr.mediafin.be
 .trjs2.mediafin.be
 .trkr.shoppingminds.net
+.ubt-sgp.travix.com
 .dnt-userreport.com
 .tags.op-palvelut.fi
 .analytics.palitra.ge
@@ -90030,6 +90058,7 @@
 .pixel.smartmedia.tj
 .sal.isanook.com
 .stat.matichon.co.th
+.webpushstat.api.engagelab.cc
 .0.myikas.com
 .analitik.bik.gov.tr
 .analytics.faprika.net
@@ -99819,8 +99848,16 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.ergiekszra.com
+.txvq.cn
+.tqjojh.icu
+.ztdbfz.top
+.ovcnmtk.top
+.qvcnmty.top
 .wvcnmte.top
 .tvcnmti.top
+.uvcnmtt.top
+.thriseds.com
 .showkkkp.top
 .pxrbnf.icu
 .irkp.cn
