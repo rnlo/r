@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/27/2025 04:19:17 AM (EST)
-# Total lines: 106279
+# Updated at 04/28/2025 04:58:58 AM (EST)
+# Total lines: 106306
 # https://github.com/rnlo/r
 .nvpartnerspromo.com
 .yougetwhatyoupayfor.net
@@ -6308,6 +6308,7 @@
 .42d9c0e6fb.com
 .42jdbcb.de
 .433bcaa83b.com
+.439f4b8c75.com
 .43e1628a5f.com
 .43ors1osh.com
 .43sjmq3hg.com
@@ -10514,6 +10515,7 @@
 .cajoutigger.top
 .cajwgkgbuccs.xyz
 .cakangautchus.net
+.cakesinventory.com
 .cakgsijbt.xyz
 .caktahab.com
 .cakvwonirrw.com
@@ -11004,6 +11006,7 @@
 .cheesyreinsplanets.com
 .cheetieaha.com
 .chefishoani.com
+.chekeunpaint.shop
 .chekrilsoumpoab.net
 .cheksoam.com
 .chelonebarpost.com
@@ -12482,6 +12485,7 @@
 .dbvpikc.com
 .dbwmzcj-r.click
 .dbycathyhoughs.com
+.dbyherslenderwai.com
 .dc-rotator.com
 .dcff90fa75.com
 .dcfnihzg81pa.com
@@ -13015,6 +13019,7 @@
 .disowp.info
 .disparitydegenerateconstrict.com
 .dispatchfeed.com
+.dispatchgoldcarefully.com
 .dispensedessertbody.com
 .dispersecottage.com
 .displaceprivacydemocratic.com
@@ -14055,6 +14060,7 @@
 .enoughturtlecontrol.com
 .enquirysavagely.com
 .enrageeyesnoop.com
+.enraptureforemostearly.com
 .enraptureshut.com
 .enrichyummy.com
 .enrivetatie.com
@@ -14156,6 +14162,7 @@
 .eremployeesihighl.com
 .erepsinslavian.shop
 .eresultedinncre.info
+.ereyoumate.org
 .ergadx.com
 .ergjohl.com
 .ergonomicparadeupstroke.com
@@ -17106,6 +17113,7 @@
 .hjxajf.com
 .hkaphqknkao.com
 .hkilops.com
+.hkjfukkhwfepo.club
 .hksnu.com
 .hkyfuroxm.com
 .hkzhongzhuangzhan.cc
@@ -18728,6 +18736,7 @@
 .k55p9ka2.de
 .k5zoom.com
 .k68tkg.com
+.kaakfwbhq.com
 .kaarheciqa.xyz
 .kaascypher.com
 .kabakamarbles.top
@@ -21231,6 +21240,7 @@
 .munpracticalwh.info
 .munqb.xyz
 .mupattbpoj.com
+.mupocndf.com
 .muragetunnel.com
 .murallyhuashi.casa
 .murderassuredness.com
@@ -21766,6 +21776,7 @@
 .nlhsfsgtye.com
 .nlkli.com
 .nlztpmhcxyzwh.vip
+.nmajjhzqyckro.icu
 .nmanateex.top
 .nmcdn.us
 .nmevhudzi.com
@@ -23391,6 +23402,7 @@
 .pastureacross.com
 .pasxfixs.com
 .patalogs.com
+.patcans.club
 .patchedcyamoid.com
 .patchouptid.xyz
 .patefysouari.com
@@ -25082,6 +25094,7 @@
 .qmahepzo.one
 .qmaoqbvpuo.com
 .qmgpfrwyhtwp.com
+.qmixnhyxc.com
 .qmkackqmigezu.club
 .qmlrmarmalrbb.top
 .qmpolidwfefrxem.com
@@ -29540,6 +29553,7 @@
 .translationbuddy.com
 .transportationdealer.com
 .trantpopshop.top
+.trapdoortissuepush.com
 .trashdisguisedextension.com
 .trasre.com
 .trasupr.com
@@ -33315,6 +33329,7 @@
 .firstimpression.io
 .fisari.com
 .fixionmedia.com
+.flaviar.com
 .flower-ads.com
 .flx2.pnl.agency
 .flyersquare.com
@@ -90263,6 +90278,7 @@
 .in.treasuredata.com
 .inbound-analytics.pixlee.co
 .ingest.make.rvapps.io
+.ingesteer.services-prod.nsvcs.net
 .ingress.trendii.com
 .ins.connatix.com
 .insight.mintel.com
@@ -91490,6 +91506,7 @@
 .datanoticias.prisasd.com
 .g-stats.openhost.es
 .madrid.report.botm.transparentedge.io
+.marker.konograma.com
 .pub.servidoresge.com
 .rt.cdnmedia.tv
 .sp.vtex.com
@@ -101301,11 +101318,22 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.oldh.cn
+.vcaqexl.com
+.hua4207.xyz
+.vhxzfz.icu
+.tiboha.top
+.knwuamd.top
+.bwcnmtv.top
 .zbislaernv.com
 .xebetp.icu
 .inwuamo.top
 .mecv.cn
 .lwcnmtl.top
+.itoqals.com
+.jxtcbriz.icu
+.wmol.cn
+.jnwuama.top
 .jia6983.xyz
 .rjvzjn.top
 .vrosqutsgh.com
@@ -105642,7 +105670,6 @@
 .jun01.oss-cn-beijing.aliyuncs.com
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.muer.cdn-baidu.fs-sywh.com
 .22588888.com
 .2481e.com
 .693836.com
