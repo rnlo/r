@@ -1,6 +1,6 @@
 # AdGuard DNS filter for Surge Generated from https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-# Updated at 04/29/2025 04:23:40 AM (EST)
-# Total lines: 106829
+# Updated at 04/30/2025 04:22:42 AM (EST)
+# Total lines: 106836
 # https://github.com/rnlo/r
 .nvpartnerspromo.com
 .yougetwhatyoupayfor.net
@@ -36124,6 +36124,7 @@
 .deapi.sooplive.co.kr
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.maticooads.com
 .apishow.babybus.com
 .apppromoteapi.babybus.com
 .tiktokpangle.us
@@ -87190,6 +87191,8 @@
 .wz.allianz.fr
 .d1udjti6mtxz9q.cloudfront.net
 .incoming.telemetry.mozilla.org
+.ashiato.travel.rakuten.co.jp
+.event.notifier.rakuten.co.jp
 .log.tosspayments.com
 .event.tosspayments.com
 .pipeline.rd.nl
@@ -89792,6 +89795,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log-sdk.ksapisrv.com
 .ulogjs.ksapisrv.com
 .adashx4id.ut.taobao.com
 .analytics.us.tiktok.com
@@ -101836,6 +101840,8 @@
 .rhdifs.top
 .enwuamw.top
 .mwcnmtx.top
+.wwok04291kl.com
+.fvitteilse.com
 .oldh.cn
 .vcaqexl.com
 .hua4207.xyz
@@ -106193,6 +106199,7 @@
 .jun01.oss-cn-beijing.aliyuncs.com
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wzjs1.oss-accelerate.aliyuncs.com
+.mihoutao1868.github.io
 .22588888.com
 .2481e.com
 .693836.com
