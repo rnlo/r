@@ -89,7 +89,7 @@ DOMAIN-SUFFIX,opensubtitles.org
 # NAME: GitHub
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:14:51
+# UPDATED: 2025-06-06 09:15:10
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 29
 # TOTAL: 30
@@ -127,16 +127,15 @@ DOMAIN-KEYWORD,github
 # NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:18:28
-# DOMAIN: 8
+# UPDATED: 2025-06-06 09:20:00
+# DOMAIN: 7
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 24
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 36
+# TOTAL: 35
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,gemini.google.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -174,7 +173,7 @@ IP-ASN,20473,no-resolve
 # NAME: Copilot
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:18:30
+# UPDATED: 2025-06-06 09:20:02
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 26
@@ -236,7 +235,7 @@ IP-ASN,20473,no-resolve
 # NAME: Telegram
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-12-08 02:12:03
+# UPDATED: 2025-06-06 09:16:54
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 22
@@ -294,7 +293,7 @@ OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve
 # NAME: YouTube
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:14:51
+# UPDATED: 2025-06-06 09:15:09
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 179
 # IP-CIDR: 2
@@ -495,7 +494,7 @@ USER-AGENT,com.google.ios.youtubemusic*
 # NAME: TikTok
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-08-05 02:10:46
+# UPDATED: 2025-06-06 09:16:54
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 22
@@ -535,7 +534,7 @@ PROCESS-NAME,com.zhiliaoapp.musically
 # NAME: Spotify
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-25 02:12:13
+# UPDATED: 2025-06-06 09:16:55
 # DOMAIN: 6
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 20
@@ -578,7 +577,7 @@ PROCESS-NAME,com.spotify.music
 # NAME: Discord
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-12-18 02:13:49
+# UPDATED: 2025-06-06 09:16:55
 # DOMAIN-SUFFIX: 29
 # TOTAL: 29
 DOMAIN-SUFFIX,airhorn.solutions
@@ -614,7 +613,7 @@ DOMAIN-SUFFIX,watchanimeattheoffice.com
 # NAME: PayPal
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:11
+# UPDATED: 2025-06-06 09:16:55
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 246
 # USER-AGENT: 1
@@ -871,7 +870,7 @@ USER-AGENT,PayPal*
 # NAME: Twitter
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:10
+# UPDATED: 2025-06-06 09:16:55
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 25
 # IP-CIDR: 6
@@ -912,7 +911,7 @@ IP-CIDR,69.195.160.0/19,no-resolve
 # NAME: Wikipedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:11
+# UPDATED: 2025-06-06 09:16:55
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 DOMAIN-SUFFIX,mediawiki.org

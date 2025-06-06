@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,yimg.com
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-08-29 02:12:00
+# UPDATED: 2025-06-06 09:17:02
 # DOMAIN-SUFFIX: 328
 # IP-CIDR: 1
 # PROCESS-NAME: 1
@@ -350,7 +350,7 @@ PROCESS-NAME,com.zhiliaoapp.musically
 # NAME: Zhihu
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:17:40
+# UPDATED: 2025-06-06 09:18:49
 # DOMAIN-SUFFIX: 2
 # IP-CIDR: 4
 # IP-CIDR6: 1

@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,xmcdn.com
 # NAME: Alibaba
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:37
+# UPDATED: 2025-06-06 09:17:30
 # DOMAIN-SUFFIX: 1251
 # IP-CIDR: 53
 # IP-CIDR6: 1
@@ -1342,7 +1342,7 @@ PROCESS-NAME,com.taobao.taobao
 # NAME: Tencent
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-12-06 02:13:11
+# UPDATED: 2025-06-06 09:17:29
 # DOMAIN-SUFFIX: 474
 # IP-CIDR: 11
 # USER-AGENT: 5
@@ -1841,7 +1841,7 @@ USER-AGENT,qqlive4iphone*
 # NAME: WeChat
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:17:23
+# UPDATED: 2025-06-06 09:18:25
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 233
 # DOMAIN-SUFFIX: 22
@@ -2186,7 +2186,7 @@ USER-AGENT,WeChat*
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-08-29 02:12:00
+# UPDATED: 2025-06-06 09:17:02
 # DOMAIN-SUFFIX: 328
 # IP-CIDR: 1
 # PROCESS-NAME: 1
@@ -2527,7 +2527,7 @@ PROCESS-NAME,com.zhiliaoapp.musically
 # NAME: NetEase
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:36
+# UPDATED: 2025-06-06 09:17:29
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 28
@@ -2679,7 +2679,7 @@ IP-CIDR,59.111.238.29/32,no-resolve
 # NAME: Baidu
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:17
+# UPDATED: 2025-06-06 09:17:01
 # DOMAIN-SUFFIX: 251
 # TOTAL: 251
 DOMAIN-SUFFIX,17swan.com
@@ -2937,7 +2937,7 @@ DOMAIN-SUFFIX,zybang.com
 # NAME: XiaoMi
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-27 02:14:07
+# UPDATED: 2025-06-06 09:17:02
 # DOMAIN-SUFFIX: 137
 # IP-CIDR: 5
 # PROCESS-NAME: 1
@@ -3089,7 +3089,7 @@ PROCESS-NAME,com.xiaomi.mibrain.speech
 # NAME: MeiTuan
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:44
+# UPDATED: 2025-06-06 09:17:36
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 DOMAIN-SUFFIX,dianping.com
@@ -3103,7 +3103,7 @@ DOMAIN-SUFFIX,sankuai.com
 # NAME: Zhihu
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:17:40
+# UPDATED: 2025-06-06 09:18:49
 # DOMAIN-SUFFIX: 2
 # IP-CIDR: 4
 # IP-CIDR6: 1
@@ -3119,7 +3119,7 @@ IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 # NAME: JingDong
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:42
+# UPDATED: 2025-06-06 09:17:35
 # DOMAIN-SUFFIX: 248
 # TOTAL: 248
 DOMAIN-SUFFIX,1huizhan.com
@@ -3374,7 +3374,7 @@ DOMAIN-SUFFIX,yizhitou.com
 # NAME: Xunlei
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:36
+# UPDATED: 2025-06-06 09:17:29
 # DOMAIN-SUFFIX: 31
 # PROCESS-NAME: 1
 # TOTAL: 32
@@ -3414,7 +3414,7 @@ PROCESS-NAME,Thunder
 # NAME: Youku
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:37
+# UPDATED: 2025-06-06 09:17:29
 # DOMAIN-SUFFIX: 34
 # IP-CIDR: 1
 # USER-AGENT: 2
@@ -3460,7 +3460,7 @@ USER-AGENT,Youku*
 # NAME: iQIYI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:37
+# UPDATED: 2025-06-06 09:17:29
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 34
 # IP-CIDR: 21
@@ -3534,7 +3534,7 @@ PROCESS-NAME,com.qiyi.video
 # NAME: TencentVideo
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:37
+# UPDATED: 2025-06-06 09:17:29
 # DOMAIN: 14
 # DOMAIN-SUFFIX: 5
 # IP-CIDR: 3
@@ -3595,7 +3595,7 @@ IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 # NAME: Migu
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:44
+# UPDATED: 2025-06-06 09:17:36
 # DOMAIN-SUFFIX: 3
 # USER-AGENT: 2
 # TOTAL: 5
@@ -3608,7 +3608,7 @@ USER-AGENT,MiguVideo*
 # NAME: CIBN
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:39
+# UPDATED: 2025-06-06 09:17:31
 # DOMAIN-SUFFIX: 71
 # TOTAL: 71
 DOMAIN-SUFFIX,apecn.com
