@@ -13,6 +13,7 @@ file_urls = {
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list": "Google.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list": "Facebook.list",
     "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list": "Netflix.list",
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list": "AppleMusic.list",
     # "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AmazonIp.list": "AmazonIP.list",
     "https://iptv-org.github.io/iptv/countries/us.m3u": "us.m3u",
 }
@@ -20,7 +21,7 @@ file_urls = {
 # Define a dictionary that contains the arrays of URLs, begin markers, end markers, and output files
 filter_parameters = {
     "source_files": {
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Amazon/Amazon.list": "Amazon.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list": "Amazon.list",
         # "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Amazon.list": "Amazon.list",
         # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list": "AmazonAll.list",
         # "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list": "GoogleAll.list"
