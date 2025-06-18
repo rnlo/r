@@ -93,9 +93,8 @@ file_names_dict = {
         "cnTVrule.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Youku/Youku.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Xunlei/Xunlei.list",
-        # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba_All_No_Resolve.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CIBN/CIBN.list",
-        # "https://raw.githubusercontent.com/rnlo/r/m/CNIP.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba_All_No_Resolve.list",
     ],
 }
 
