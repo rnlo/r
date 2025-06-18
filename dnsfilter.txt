@@ -2,4 +2,4 @@
 ! Expires: 5 days (update frequency)
 ! https://raw.githubusercontent.com/rnlo/r/m/dnsfilter.txt
 !
-||pss.alicdn.com/iku/log/acc^
+||pss.alicdn.com^$important
