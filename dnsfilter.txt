@@ -3,3 +3,5 @@
 ! https://raw.githubusercontent.com/rnlo/r/m/dnsfilter.txt
 !
 ||stat.pandora.xiaomi.com^
+||adash.m.taobao.com^
+||pss.alicdn.com/iku/log/acc^
