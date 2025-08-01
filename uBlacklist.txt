@@ -10,7 +10,9 @@
 ! https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
 !
 *://zhidao.baidu.com/*
+*://zhidao.baidu.hk/*
 *://jingyan.baidu.com/*
+*://jingyan.baidu.hk/*
 *://*.csdn.net/*
 *://ask.zol.com.cn/*
 *://shenlongbbs.com/*
