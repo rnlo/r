@@ -42,7 +42,7 @@ filter_parameters = {
 file_names_dict = {
     "temp.list": [
         "temprule.list",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list",
+        #"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list",
     ],
     "tempHK.list": [
