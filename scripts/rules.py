@@ -41,6 +41,10 @@ filter_parameters = {
 # List of files to read
 file_names_dict = {
     "temp.list": [
+        "tempruleHK.list",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list",
+    ],
+    "tempHK.list": [
         "temprule.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ByteDance/ByteDance.list",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Zhihu/Zhihu.list",
