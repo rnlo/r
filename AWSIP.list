@@ -1,6 +1,6 @@
 # AWS IP for Surge Generated from https://ip-ranges.amazonaws.com/ip-ranges.json
-# CreateDate: 2025-11-15-01-18-41
-# Total lines: 13921
+# CreateDate: 2025-11-16-04-08-41
+# Total lines: 13933
 # https://github.com/rnlo/r
 IP-CIDR,3.4.12.4/32,no-resolve
 IP-CIDR,3.5.140.0/22,no-resolve
@@ -936,6 +936,7 @@ IP-CIDR,3.5.196.0/22,no-resolve
 IP-CIDR,15.230.39.194/31,no-resolve
 IP-CIDR,15.230.152.0/24,no-resolve
 IP-CIDR,16.67.0.0/16,no-resolve
+IP-CIDR,23.228.225.0/24,no-resolve
 IP-CIDR,35.50.236.0/24,no-resolve
 IP-CIDR,35.96.1.0/24,no-resolve
 IP-CIDR,35.96.41.0/24,no-resolve
@@ -2265,6 +2266,7 @@ IP-CIDR,13.158.0.0/15,no-resolve
 IP-CIDR,15.220.16.0/20,no-resolve
 IP-CIDR,15.230.15.50/31,no-resolve
 IP-CIDR,16.192.0.0/16,no-resolve
+IP-CIDR,23.228.227.0/24,no-resolve
 IP-CIDR,23.228.232.0/22,no-resolve
 IP-CIDR,40.174.0.0/15,no-resolve
 IP-CIDR,52.93.127.115/32,no-resolve
@@ -2796,6 +2798,7 @@ IP-CIDR,15.135.0.0/16,no-resolve
 IP-CIDR,15.230.15.46/31,no-resolve
 IP-CIDR,16.12.21.0/24,no-resolve
 IP-CIDR,18.136.0.0/16,no-resolve
+IP-CIDR,23.228.237.0/24,no-resolve
 IP-CIDR,35.71.124.0/24,no-resolve
 IP-CIDR,50.112.0.0/16,no-resolve
 IP-CIDR,52.93.91.113/32,no-resolve
@@ -3119,6 +3122,7 @@ IP-CIDR,15.230.42.0/24,no-resolve
 IP-CIDR,15.230.55.0/24,no-resolve
 IP-CIDR,16.31.0.0/16,no-resolve
 IP-CIDR,18.99.64.0/19,no-resolve
+IP-CIDR,23.228.224.0/24,no-resolve
 IP-CIDR,52.2.0.0/15,no-resolve
 IP-CIDR,52.93.33.8/32,no-resolve
 IP-CIDR,52.93.68.0/24,no-resolve
@@ -3942,6 +3946,7 @@ IP-CIDR,15.230.39.238/31,no-resolve
 IP-CIDR,15.230.166.0/24,no-resolve
 IP-CIDR,15.248.106.0/24,no-resolve
 IP-CIDR,16.18.0.0/16,no-resolve
+IP-CIDR,23.228.223.0/24,no-resolve
 IP-CIDR,52.93.6.0/23,no-resolve
 IP-CIDR,52.129.224.0/22,no-resolve
 IP-CIDR,54.32.0.0/16,no-resolve
@@ -4375,6 +4380,7 @@ IP-CIDR,15.230.15.132/31,no-resolve
 IP-CIDR,15.230.56.0/24,no-resolve
 IP-CIDR,15.230.75.128/26,no-resolve
 IP-CIDR,15.230.169.3/32,no-resolve
+IP-CIDR,23.228.226.0/24,no-resolve
 IP-CIDR,35.50.178.0/24,no-resolve
 IP-CIDR,35.54.62.0/24,no-resolve
 IP-CIDR,35.71.121.0/24,no-resolve
@@ -7694,6 +7700,7 @@ IP-CIDR,116.129.226.128/26,no-resolve
 IP-CIDR,130.176.0.0/17,no-resolve
 IP-CIDR,3.173.192.0/18,no-resolve
 IP-CIDR,108.156.0.0/14,no-resolve
+IP-CIDR,23.228.225.0/24,no-resolve
 IP-CIDR,99.86.0.0/16,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,120.253.245.128/26,no-resolve
@@ -7723,6 +7730,7 @@ IP-CIDR,64.252.128.0/18,no-resolve
 IP-CIDR,205.251.254.0/24,no-resolve
 IP-CIDR,3.166.0.0/15,no-resolve
 IP-CIDR,54.230.224.0/19,no-resolve
+IP-CIDR,23.228.227.0/24,no-resolve
 IP-CIDR,71.152.0.0/17,no-resolve
 IP-CIDR,216.137.32.0/19,no-resolve
 IP-CIDR,204.246.172.0/24,no-resolve
@@ -7736,6 +7744,7 @@ IP-CIDR,3.173.0.0/17,no-resolve
 IP-CIDR,54.240.128.0/18,no-resolve
 IP-CIDR,205.251.250.0/23,no-resolve
 IP-CIDR,180.163.57.0/25,no-resolve
+IP-CIDR,23.228.237.0/24,no-resolve
 IP-CIDR,52.46.0.0/18,no-resolve
 IP-CIDR,3.174.0.0/15,no-resolve
 IP-CIDR,52.82.128.0/19,no-resolve
@@ -7745,6 +7754,7 @@ IP-CIDR,54.239.128.0/18,no-resolve
 IP-CIDR,130.176.224.0/20,no-resolve
 IP-CIDR,36.103.232.128/26,no-resolve
 IP-CIDR,52.84.0.0/15,no-resolve
+IP-CIDR,23.228.224.0/24,no-resolve
 IP-CIDR,143.204.0.0/16,no-resolve
 IP-CIDR,144.220.0.0/16,no-resolve
 IP-CIDR,120.52.153.192/26,no-resolve
@@ -7764,11 +7774,13 @@ IP-CIDR,24.110.32.0/19,no-resolve
 IP-CIDR,99.84.0.0/16,no-resolve
 IP-CIDR,205.251.204.0/23,no-resolve
 IP-CIDR,130.176.192.0/19,no-resolve
+IP-CIDR,23.228.223.0/24,no-resolve
 IP-CIDR,52.124.128.0/17,no-resolve
 IP-CIDR,204.246.164.0/22,no-resolve
 IP-CIDR,13.35.0.0/16,no-resolve
 IP-CIDR,204.246.174.0/23,no-resolve
 IP-CIDR,3.164.128.0/17,no-resolve
+IP-CIDR,23.228.226.0/24,no-resolve
 IP-CIDR,3.172.0.0/18,no-resolve
 IP-CIDR,36.103.232.0/25,no-resolve
 IP-CIDR,119.147.182.128/26,no-resolve
