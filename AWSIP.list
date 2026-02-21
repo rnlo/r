@@ -1,6 +1,6 @@
 # AWS IP for Surge Generated from https://ip-ranges.amazonaws.com/ip-ranges.json
-# CreateDate: 2026-02-19-00-38-04
-# Total lines: 14856
+# CreateDate: 2026-02-21-01-58-04
+# Total lines: 14859
 # https://github.com/rnlo/r
 IP-CIDR,3.4.12.4/32,no-resolve
 IP-CIDR,3.5.140.0/22,no-resolve
@@ -274,6 +274,7 @@ IP-CIDR,54.239.0.224/28,no-resolve
 IP-CIDR,54.239.48.0/22,no-resolve
 IP-CIDR,56.242.0.0/16,no-resolve
 IP-CIDR,64.252.118.0/24,no-resolve
+IP-CIDR,69.107.12.80/29,no-resolve
 IP-CIDR,76.223.170.112/28,no-resolve
 IP-CIDR,99.77.244.0/24,no-resolve
 IP-CIDR,99.181.64.0/18,no-resolve
@@ -3651,6 +3652,7 @@ IP-CIDR,52.119.156.0/22,no-resolve
 IP-CIDR,54.239.0.240/28,no-resolve
 IP-CIDR,54.241.0.0/16,no-resolve
 IP-CIDR,69.107.10.128/29,no-resolve
+IP-CIDR,69.107.12.88/29,no-resolve
 IP-CIDR,99.77.151.0/24,no-resolve
 IP-CIDR,99.77.239.0/24,no-resolve
 IP-CIDR,104.255.57.174/32,no-resolve
@@ -12182,6 +12184,7 @@ IP-CIDR,2a05:d079:800::/40,no-resolve
 IP-CIDR,2400:7fc0:ea00::/40,no-resolve
 IP-CIDR,2406:da70:a000::/40,no-resolve
 IP-CIDR,2600:1f00:a400::/40,no-resolve
+IP-CIDR,2600:1f01:4900:800::/56,no-resolve
 IP-CIDR,2600:1fea:c000::/40,no-resolve
 IP-CIDR,2a05:d040:2000::/40,no-resolve
 IP-CIDR,2a05:d059:1000::/40,no-resolve
